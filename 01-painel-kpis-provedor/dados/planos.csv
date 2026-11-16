@@ -1,0 +1,6 @@
+﻿id_plano;plano;velocidade_mbps;mensalidade;tipo
+1;Fibra 300;300;89,9;Residencial
+2;Fibra 500;500;109,9;Residencial
+3;Fibra 700;700;129,9;Residencial
+4;Fibra 1 Giga;1000;159,9;Residencial
+5;Empresarial 600;600;199,9;Empresarial

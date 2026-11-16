@@ -33,7 +33,7 @@ Como está a saúde do atendimento e da base de clientes do ProvedorX, e onde ag
 
 ## Status
 
-- [ ] Gerar dados sintéticos
+- [x] Gerar dados sintéticos (dados/provedorx_base_2026.xlsx e CSVs)
 - [ ] Análise inicial no Excel
 - [ ] Modelo e consultas em SQL
 - [ ] Painel no Power BI

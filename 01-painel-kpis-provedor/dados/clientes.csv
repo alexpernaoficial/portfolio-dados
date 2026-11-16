@@ -1,0 +1,4001 @@
+﻿id_cliente;id_plano;id_cidade;data_ativacao;canal_venda;fidelidade_meses;data_cancelamento;motivo_cancelamento;status
+1;4;2;2023-05-08;Site;12;;;Ativo
+2;2;1;2026-01-11;Site;12;2026-09-22;Instabilidade na conexão;Cancelado
+3;5;3;2025-07-25;Loja;12;;;Ativo
+4;3;1;2024-09-19;Loja;0;;;Ativo
+5;1;1;2024-09-11;Vendedor externo;0;2026-09-29;Instabilidade na conexão;Cancelado
+6;4;2;2026-05-12;Loja;12;;;Ativo
+7;2;3;2023-05-03;Vendedor externo;12;;;Ativo
+8;1;5;2025-09-24;WhatsApp;12;;;Ativo
+9;1;4;2023-10-16;Loja;12;;;Ativo
+10;3;5;2023-05-15;Vendedor externo;12;;;Ativo
+11;1;4;2025-01-22;Site;12;2026-10-17;Instabilidade na conexão;Cancelado
+12;1;4;2026-10-27;Vendedor externo;12;;;Ativo
+13;1;1;2025-11-18;Loja;12;2026-02-20;Atendimento;Cancelado
+14;2;3;2025-12-24;Loja;12;;;Ativo
+15;2;1;2025-10-22;WhatsApp;12;;;Ativo
+16;2;1;2026-01-29;Loja;12;;;Ativo
+17;1;1;2025-01-03;Site;12;;;Ativo
+18;1;5;2023-07-03;WhatsApp;0;;;Ativo
+19;2;4;2026-04-15;Vendedor externo;12;;;Ativo
+20;2;6;2024-10-06;Site;12;;;Ativo
+21;3;6;2024-12-16;Loja;12;;;Ativo
+22;1;5;2024-06-14;Vendedor externo;0;;;Ativo
+23;1;1;2023-09-19;Vendedor externo;12;;;Ativo
+24;1;5;2026-08-18;WhatsApp;12;2026-12-06;Mudança de cidade;Cancelado
+25;2;5;2026-01-22;Loja;12;;;Ativo
+26;2;5;2025-07-09;Loja;12;;;Ativo
+27;3;1;2024-07-29;WhatsApp;12;;;Ativo
+28;2;1;2026-03-22;Loja;12;;;Ativo
+29;2;6;2025-02-18;WhatsApp;12;;;Ativo
+30;2;1;2024-09-26;Site;12;;;Ativo
+31;1;2;2024-10-06;Vendedor externo;12;;;Ativo
+32;2;2;2023-11-21;WhatsApp;12;;;Ativo
+33;2;1;2023-05-12;Site;0;;;Ativo
+34;2;1;2025-03-04;Loja;12;;;Ativo
+35;1;6;2026-06-23;WhatsApp;12;;;Ativo
+36;3;5;2023-04-02;WhatsApp;12;;;Ativo
+37;5;5;2026-05-12;WhatsApp;12;;;Ativo
+38;1;1;2026-03-29;Site;0;;;Ativo
+39;2;1;2024-01-31;Vendedor externo;12;2026-05-16;Preço;Cancelado
+40;3;2;2025-06-22;Vendedor externo;0;;;Ativo
+41;1;2;2023-08-25;Loja;12;;;Ativo
+42;3;1;2025-12-20;Vendedor externo;12;;;Ativo
+43;3;4;2025-09-28;Site;12;;;Ativo
+44;5;6;2024-05-21;Site;12;;;Ativo
+45;5;3;2023-04-08;Vendedor externo;12;;;Ativo
+46;1;2;2026-10-20;Vendedor externo;0;;;Ativo
+47;2;2;2024-09-29;Site;12;;;Ativo
+48;2;1;2026-07-01;Vendedor externo;12;2026-09-30;Preço;Cancelado
+49;1;1;2025-08-27;WhatsApp;12;2026-07-04;Atendimento;Cancelado
+50;2;2;2026-01-18;Site;0;;;Ativo
+51;5;2;2025-12-22;Loja;0;;;Ativo
+52;1;3;2023-10-06;Loja;12;;;Ativo
+53;2;5;2024-06-04;Site;12;;;Ativo
+54;4;1;2024-10-29;Vendedor externo;12;2026-04-01;Mudança de cidade;Cancelado
+55;2;1;2024-12-12;WhatsApp;12;;;Ativo
+56;2;1;2023-03-04;Loja;0;;;Ativo
+57;5;1;2025-02-20;Loja;12;;;Ativo
+58;2;3;2023-08-09;Vendedor externo;12;;;Ativo
+59;1;5;2025-11-29;Site;0;;;Ativo
+60;1;5;2025-09-03;WhatsApp;0;;;Ativo
+61;5;3;2026-08-12;WhatsApp;0;;;Ativo
+62;1;2;2025-12-01;Vendedor externo;0;2026-11-15;Preço;Cancelado
+63;2;1;2024-06-08;WhatsApp;12;;;Ativo
+64;1;2;2026-10-15;Loja;12;;;Ativo
+65;2;2;2024-08-10;Vendedor externo;12;;;Ativo
+66;5;5;2024-04-10;WhatsApp;12;;;Ativo
+67;2;2;2026-07-18;Vendedor externo;12;;;Ativo
+68;5;1;2024-06-13;WhatsApp;12;;;Ativo
+69;1;1;2023-04-20;Loja;12;;;Ativo
+70;2;1;2024-11-02;Loja;12;2026-04-17;Mudança de cidade;Cancelado
+71;4;5;2026-02-11;Vendedor externo;12;2026-11-02;Instabilidade na conexão;Cancelado
+72;2;1;2023-09-28;WhatsApp;12;2026-02-19;Instabilidade na conexão;Cancelado
+73;1;1;2024-10-24;Vendedor externo;12;2026-12-16;Instabilidade na conexão;Cancelado
+74;4;1;2023-07-05;WhatsApp;12;;;Ativo
+75;2;5;2025-09-08;Loja;12;;;Ativo
+76;2;3;2024-11-11;Site;12;;;Ativo
+77;5;3;2024-04-17;Vendedor externo;0;;;Ativo
+78;1;2;2023-11-21;Loja;12;;;Ativo
+79;2;1;2025-03-18;Site;12;;;Ativo
+80;1;5;2025-08-15;Site;12;;;Ativo
+81;2;1;2026-09-06;Vendedor externo;12;;;Ativo
+82;1;1;2024-09-17;Loja;0;2026-01-15;Preço;Cancelado
+83;3;3;2023-08-18;Loja;0;;;Ativo
+84;1;1;2026-04-05;WhatsApp;12;;;Ativo
+85;3;1;2025-06-19;Site;12;2026-07-27;Instabilidade na conexão;Cancelado
+86;1;5;2025-09-28;WhatsApp;0;;;Ativo
+87;2;2;2023-05-20;Site;0;;;Ativo
+88;2;1;2024-03-22;WhatsApp;0;2026-05-25;Preço;Cancelado
+89;3;2;2026-01-03;Loja;12;2026-02-20;Instabilidade na conexão;Cancelado
+90;2;4;2026-04-05;Vendedor externo;0;;;Ativo
+91;2;1;2024-09-14;Site;12;;;Ativo
+92;4;1;2026-02-24;Loja;12;;;Ativo
+93;2;3;2026-04-18;Loja;12;;;Ativo
+94;1;3;2024-07-08;Site;12;;;Ativo
+95;4;6;2026-07-08;WhatsApp;0;;;Ativo
+96;2;2;2024-02-17;Site;12;;;Ativo
+97;1;1;2023-12-09;Loja;12;2026-08-19;Instabilidade na conexão;Cancelado
+98;2;3;2025-09-02;WhatsApp;0;;;Ativo
+99;1;3;2025-06-29;Loja;12;;;Ativo
+100;1;1;2023-07-19;Loja;12;;;Ativo
+101;3;3;2026-04-05;WhatsApp;0;;;Ativo
+102;1;1;2023-10-13;WhatsApp;0;;;Ativo
+103;3;5;2026-02-25;WhatsApp;12;;;Ativo
+104;5;5;2023-01-11;WhatsApp;12;;;Ativo
+105;2;2;2026-02-13;Site;12;;;Ativo
+106;3;6;2026-01-30;Vendedor externo;0;;;Ativo
+107;3;6;2026-01-20;Vendedor externo;12;2026-10-09;Mudança de cidade;Cancelado
+108;5;1;2025-08-08;WhatsApp;0;;;Ativo
+109;2;2;2024-11-05;WhatsApp;12;;;Ativo
+110;1;3;2025-10-05;Vendedor externo;12;;;Ativo
+111;2;1;2024-02-01;Vendedor externo;12;;;Ativo
+112;2;2;2026-01-21;Vendedor externo;12;;;Ativo
+113;1;1;2025-03-05;Vendedor externo;12;;;Ativo
+114;2;6;2024-10-18;WhatsApp;0;;;Ativo
+115;1;2;2024-12-24;Loja;12;;;Ativo
+116;5;4;2025-03-24;Vendedor externo;0;;;Ativo
+117;1;2;2023-02-23;WhatsApp;12;;;Ativo
+118;1;1;2023-07-19;Vendedor externo;0;;;Ativo
+119;1;5;2023-12-18;Vendedor externo;12;;;Ativo
+120;1;1;2023-06-13;Vendedor externo;0;;;Ativo
+121;1;1;2024-09-20;Loja;12;;;Ativo
+122;1;2;2025-08-13;Loja;0;;;Ativo
+123;1;4;2025-07-24;Loja;12;;;Ativo
+124;1;2;2024-11-04;Loja;12;;;Ativo
+125;2;1;2026-05-07;Loja;12;;;Ativo
+126;2;2;2025-03-19;Vendedor externo;12;;;Ativo
+127;2;1;2023-04-24;Loja;0;;;Ativo
+128;2;1;2025-12-29;WhatsApp;12;;;Ativo
+129;1;3;2025-04-01;Loja;12;;;Ativo
+130;1;1;2025-06-26;Vendedor externo;0;;;Ativo
+131;1;1;2025-03-19;WhatsApp;12;;;Ativo
+132;3;3;2025-03-02;Loja;12;;;Ativo
+133;5;4;2023-05-10;Vendedor externo;12;;;Ativo
+134;5;1;2025-03-10;WhatsApp;12;;;Ativo
+135;2;2;2026-02-10;Vendedor externo;12;;;Ativo
+136;2;1;2024-03-10;Loja;12;;;Ativo
+137;2;6;2025-05-12;Site;12;;;Ativo
+138;3;1;2023-02-14;Site;12;;;Ativo
+139;3;1;2024-05-11;Vendedor externo;0;;;Ativo
+140;4;2;2024-09-16;Loja;12;;;Ativo
+141;4;1;2026-11-06;Loja;12;;;Ativo
+142;2;1;2023-11-03;WhatsApp;0;2026-09-09;Instabilidade na conexão;Cancelado
+143;3;1;2024-01-31;Vendedor externo;12;;;Ativo
+144;3;3;2024-08-07;Loja;12;2026-06-02;Atendimento;Cancelado
+145;2;3;2026-11-20;Vendedor externo;12;;;Ativo
+146;5;3;2026-05-05;WhatsApp;12;2026-06-11;Instabilidade na conexão;Cancelado
+147;1;4;2023-02-19;Loja;12;;;Ativo
+148;5;2;2023-12-01;Loja;12;;;Ativo
+149;3;5;2026-03-20;Vendedor externo;12;2026-12-09;Preço;Cancelado
+150;1;4;2023-03-25;Site;12;;;Ativo
+151;3;5;2026-05-08;Vendedor externo;0;;;Ativo
+152;1;4;2024-02-07;WhatsApp;12;;;Ativo
+153;3;2;2026-08-05;Loja;12;;;Ativo
+154;3;1;2024-02-24;Vendedor externo;0;;;Ativo
+155;2;2;2024-09-13;Vendedor externo;12;;;Ativo
+156;4;1;2025-08-04;Vendedor externo;12;;;Ativo
+157;1;2;2023-06-30;Vendedor externo;12;;;Ativo
+158;1;1;2025-03-07;WhatsApp;12;;;Ativo
+159;2;1;2024-12-23;Vendedor externo;12;;;Ativo
+160;1;6;2026-01-25;Site;12;2026-05-20;Mudança de cidade;Cancelado
+161;2;4;2026-11-25;Loja;12;;;Ativo
+162;1;3;2025-08-07;Vendedor externo;12;;;Ativo
+163;2;2;2024-08-08;Vendedor externo;12;;;Ativo
+164;2;3;2024-08-04;Vendedor externo;12;;;Ativo
+165;4;5;2024-08-20;Loja;0;;;Ativo
+166;1;3;2026-03-10;WhatsApp;12;;;Ativo
+167;4;3;2024-04-04;WhatsApp;12;;;Ativo
+168;2;2;2023-08-27;WhatsApp;12;;;Ativo
+169;2;2;2024-04-23;WhatsApp;12;;;Ativo
+170;2;4;2023-02-02;Loja;12;;;Ativo
+171;2;6;2023-06-01;Vendedor externo;12;;;Ativo
+172;1;2;2023-05-09;Vendedor externo;0;;;Ativo
+173;2;2;2026-01-08;WhatsApp;12;;;Ativo
+174;1;2;2025-10-29;Loja;12;;;Ativo
+175;2;2;2025-09-23;Loja;0;;;Ativo
+176;2;6;2024-10-22;Site;12;;;Ativo
+177;2;4;2025-10-22;Loja;12;;;Ativo
+178;4;2;2023-08-19;Site;12;;;Ativo
+179;1;2;2026-07-11;Vendedor externo;12;;;Ativo
+180;5;2;2024-12-17;Site;0;;;Ativo
+181;3;1;2026-09-03;WhatsApp;12;;;Ativo
+182;5;3;2023-08-06;Site;12;2026-08-14;Mudança de cidade;Cancelado
+183;4;5;2024-12-12;Loja;12;;;Ativo
+184;1;3;2025-09-22;Loja;0;;;Ativo
+185;2;1;2024-12-09;Loja;12;;;Ativo
+186;1;4;2024-09-30;Loja;0;2026-01-25;Preço;Cancelado
+187;3;4;2023-08-26;Vendedor externo;0;;;Ativo
+188;2;1;2024-06-28;Vendedor externo;12;2026-01-16;Preço;Cancelado
+189;1;3;2023-12-08;Loja;12;;;Ativo
+190;5;3;2024-03-07;Loja;12;;;Ativo
+191;1;5;2025-09-04;WhatsApp;0;;;Ativo
+192;2;1;2025-06-20;Loja;12;;;Ativo
+193;3;1;2025-05-18;Vendedor externo;12;;;Ativo
+194;1;2;2024-06-01;Vendedor externo;12;;;Ativo
+195;2;1;2026-10-04;Loja;12;;;Ativo
+196;3;2;2023-05-06;WhatsApp;12;;;Ativo
+197;1;4;2024-05-04;Loja;0;;;Ativo
+198;2;1;2023-06-18;Site;0;;;Ativo
+199;1;2;2024-04-29;Site;12;;;Ativo
+200;3;6;2026-10-07;WhatsApp;12;;;Ativo
+201;1;2;2024-06-07;Site;12;;;Ativo
+202;5;2;2026-07-23;WhatsApp;12;;;Ativo
+203;4;3;2024-12-08;Vendedor externo;12;;;Ativo
+204;1;1;2025-09-27;Vendedor externo;12;;;Ativo
+205;2;1;2024-10-16;Site;12;;;Ativo
+206;2;3;2024-01-16;Vendedor externo;0;;;Ativo
+207;3;2;2025-12-28;Vendedor externo;12;;;Ativo
+208;2;1;2026-10-17;Loja;12;;;Ativo
+209;1;1;2024-01-12;Vendedor externo;0;2026-12-26;Preço;Cancelado
+210;1;5;2026-01-18;Vendedor externo;0;;;Ativo
+211;5;1;2024-01-09;Loja;12;;;Ativo
+212;2;4;2025-10-22;Vendedor externo;12;;;Ativo
+213;4;2;2026-02-02;Loja;0;;;Ativo
+214;2;3;2024-10-04;Vendedor externo;0;;;Ativo
+215;5;1;2025-11-19;Site;0;;;Ativo
+216;1;1;2024-01-25;Vendedor externo;0;;;Ativo
+217;1;3;2023-04-24;Site;12;;;Ativo
+218;5;4;2023-05-18;Loja;12;;;Ativo
+219;5;1;2024-10-01;Loja;12;;;Ativo
+220;2;2;2026-07-14;Site;0;2026-09-27;Preço;Cancelado
+221;2;2;2023-07-02;WhatsApp;12;2026-08-14;Instabilidade na conexão;Cancelado
+222;2;1;2024-10-13;Site;0;;;Ativo
+223;2;3;2025-10-03;Site;12;;;Ativo
+224;1;1;2023-10-17;Site;12;2026-03-18;Instabilidade na conexão;Cancelado
+225;4;2;2025-10-28;Site;12;;;Ativo
+226;1;1;2024-03-13;Site;12;;;Ativo
+227;3;2;2026-03-02;Site;0;;;Ativo
+228;1;2;2025-04-08;Loja;0;;;Ativo
+229;1;2;2025-02-21;Loja;12;;;Ativo
+230;3;2;2023-09-10;Vendedor externo;12;;;Ativo
+231;2;5;2024-10-24;Vendedor externo;12;;;Ativo
+232;3;2;2026-05-09;WhatsApp;0;;;Ativo
+233;1;5;2023-01-28;Vendedor externo;12;;;Ativo
+234;5;1;2025-12-20;Vendedor externo;0;;;Ativo
+235;3;2;2024-12-05;WhatsApp;0;;;Ativo
+236;4;1;2025-10-25;Loja;12;;;Ativo
+237;1;2;2025-08-06;WhatsApp;12;;;Ativo
+238;2;3;2024-09-09;Loja;12;2026-04-09;Preço;Cancelado
+239;2;5;2024-03-17;Vendedor externo;12;;;Ativo
+240;2;3;2025-06-16;Vendedor externo;0;;;Ativo
+241;1;3;2023-07-20;Vendedor externo;0;2026-10-31;Instabilidade na conexão;Cancelado
+242;1;1;2025-04-15;Loja;0;2026-05-01;Concorrente com oferta melhor;Cancelado
+243;2;1;2023-05-16;Loja;12;;;Ativo
+244;1;4;2025-07-18;Vendedor externo;0;2026-01-25;Concorrente com oferta melhor;Cancelado
+245;2;1;2025-06-18;Vendedor externo;0;;;Ativo
+246;1;1;2023-05-01;WhatsApp;12;2026-05-29;Atendimento;Cancelado
+247;1;6;2025-12-19;Loja;12;;;Ativo
+248;3;6;2024-08-17;Vendedor externo;12;;;Ativo
+249;2;3;2026-01-30;Loja;0;;;Ativo
+250;2;2;2023-03-01;WhatsApp;12;;;Ativo
+251;2;5;2023-09-14;WhatsApp;12;;;Ativo
+252;3;1;2024-12-07;WhatsApp;0;2026-09-28;Instabilidade na conexão;Cancelado
+253;2;2;2023-09-27;WhatsApp;12;;;Ativo
+254;2;2;2024-04-16;Vendedor externo;0;;;Ativo
+255;5;5;2025-08-02;Site;12;;;Ativo
+256;2;5;2023-07-26;Vendedor externo;12;;;Ativo
+257;4;3;2025-08-27;WhatsApp;0;;;Ativo
+258;3;1;2023-05-28;Vendedor externo;12;;;Ativo
+259;1;2;2023-09-08;Vendedor externo;12;;;Ativo
+260;2;1;2025-04-20;WhatsApp;12;2026-06-04;Instabilidade na conexão;Cancelado
+261;3;5;2026-02-08;WhatsApp;12;;;Ativo
+262;5;1;2023-09-01;WhatsApp;12;;;Ativo
+263;2;1;2024-03-04;Loja;0;;;Ativo
+264;1;4;2026-08-15;Loja;0;;;Ativo
+265;2;2;2026-11-16;Vendedor externo;12;;;Ativo
+266;1;5;2025-04-10;Vendedor externo;12;;;Ativo
+267;3;1;2024-10-01;Vendedor externo;12;;;Ativo
+268;2;5;2024-05-11;Vendedor externo;12;;;Ativo
+269;3;1;2025-05-25;WhatsApp;12;;;Ativo
+270;4;1;2025-04-25;Loja;12;;;Ativo
+271;3;2;2024-02-26;Site;12;;;Ativo
+272;2;1;2023-02-02;WhatsApp;12;;;Ativo
+273;3;3;2023-08-05;Site;12;;;Ativo
+274;4;1;2026-10-02;Vendedor externo;12;;;Ativo
+275;4;1;2024-08-20;Loja;12;;;Ativo
+276;1;4;2024-11-20;Loja;12;;;Ativo
+277;2;1;2024-10-29;Site;12;;;Ativo
+278;1;3;2026-01-24;Vendedor externo;0;;;Ativo
+279;4;4;2023-04-03;Loja;12;;;Ativo
+280;3;1;2023-04-29;WhatsApp;12;;;Ativo
+281;2;4;2024-01-30;Site;12;;;Ativo
+282;1;1;2024-11-26;WhatsApp;0;;;Ativo
+283;2;2;2025-08-17;Vendedor externo;12;;;Ativo
+284;3;1;2024-12-02;WhatsApp;12;;;Ativo
+285;1;5;2024-09-22;Loja;12;;;Ativo
+286;1;3;2026-09-03;Loja;0;;;Ativo
+287;4;2;2023-08-19;WhatsApp;12;;;Ativo
+288;3;6;2025-03-28;WhatsApp;0;2026-04-26;Preço;Cancelado
+289;1;2;2025-02-14;Vendedor externo;0;;;Ativo
+290;1;5;2024-11-08;Loja;12;;;Ativo
+291;5;4;2026-02-28;Vendedor externo;12;2026-05-22;Mudança de cidade;Cancelado
+292;3;6;2024-01-17;WhatsApp;12;;;Ativo
+293;2;5;2026-09-25;WhatsApp;12;;;Ativo
+294;2;6;2024-04-19;Vendedor externo;12;;;Ativo
+295;1;1;2025-02-18;Loja;12;;;Ativo
+296;1;4;2025-01-14;Site;12;;;Ativo
+297;3;5;2026-04-30;Site;0;;;Ativo
+298;1;3;2024-09-19;Vendedor externo;12;;;Ativo
+299;1;1;2024-02-11;Vendedor externo;0;;;Ativo
+300;3;6;2023-01-31;WhatsApp;12;;;Ativo
+301;5;1;2024-06-04;Loja;12;;;Ativo
+302;3;2;2026-03-27;Vendedor externo;12;;;Ativo
+303;2;3;2023-01-15;Site;12;2026-05-11;Mudança de cidade;Cancelado
+304;2;1;2026-07-05;Vendedor externo;0;;;Ativo
+305;2;4;2025-02-15;WhatsApp;12;;;Ativo
+306;2;1;2023-07-20;Site;12;;;Ativo
+307;2;4;2024-03-08;Vendedor externo;0;2026-11-13;Atendimento;Cancelado
+308;2;5;2025-03-03;Loja;12;;;Ativo
+309;2;2;2024-03-27;Site;12;;;Ativo
+310;4;4;2023-06-05;Loja;12;2026-10-25;Instabilidade na conexão;Cancelado
+311;5;1;2025-08-10;Loja;0;;;Ativo
+312;1;5;2025-08-19;Vendedor externo;0;;;Ativo
+313;2;6;2023-06-19;Vendedor externo;12;2026-05-08;Instabilidade na conexão;Cancelado
+314;1;1;2024-02-07;WhatsApp;12;2026-07-15;Atendimento;Cancelado
+315;2;4;2023-12-15;Site;12;;;Ativo
+316;1;2;2025-07-31;WhatsApp;0;;;Ativo
+317;1;3;2025-11-10;Vendedor externo;12;;;Ativo
+318;3;4;2025-11-05;Vendedor externo;12;;;Ativo
+319;2;2;2026-09-04;WhatsApp;12;;;Ativo
+320;4;3;2026-01-04;Vendedor externo;12;;;Ativo
+321;1;1;2024-04-03;WhatsApp;12;;;Ativo
+322;1;2;2023-06-04;Vendedor externo;12;;;Ativo
+323;2;5;2025-05-28;Loja;12;;;Ativo
+324;1;1;2026-08-02;Vendedor externo;0;;;Ativo
+325;1;3;2026-10-26;Loja;12;;;Ativo
+326;5;1;2023-11-26;Loja;12;;;Ativo
+327;1;5;2023-12-05;Loja;0;;;Ativo
+328;1;3;2023-02-23;Loja;0;;;Ativo
+329;2;2;2023-07-22;Vendedor externo;12;;;Ativo
+330;2;1;2025-03-04;WhatsApp;0;;;Ativo
+331;2;2;2025-02-20;Vendedor externo;0;;;Ativo
+332;2;6;2024-06-14;WhatsApp;12;;;Ativo
+333;4;2;2024-03-19;Vendedor externo;0;;;Ativo
+334;1;2;2026-04-01;Loja;0;;;Ativo
+335;2;4;2024-10-19;Loja;0;2026-07-17;Concorrente com oferta melhor;Cancelado
+336;3;2;2026-03-01;WhatsApp;0;;;Ativo
+337;4;2;2026-10-09;Site;12;;;Ativo
+338;2;2;2024-03-29;WhatsApp;12;2026-01-29;Instabilidade na conexão;Cancelado
+339;2;1;2023-10-17;Vendedor externo;0;;;Ativo
+340;1;4;2026-09-24;Site;12;;;Ativo
+341;1;5;2025-06-26;WhatsApp;12;2026-04-04;Atendimento;Cancelado
+342;1;5;2024-02-21;WhatsApp;0;;;Ativo
+343;3;5;2025-06-08;Loja;12;2026-06-07;Mudança de cidade;Cancelado
+344;1;2;2025-01-06;WhatsApp;12;;;Ativo
+345;3;1;2026-07-18;Vendedor externo;0;;;Ativo
+346;1;3;2024-01-02;WhatsApp;12;2026-01-03;Concorrente com oferta melhor;Cancelado
+347;4;6;2026-11-18;Vendedor externo;0;;;Ativo
+348;4;4;2026-08-31;Vendedor externo;12;;;Ativo
+349;1;2;2023-09-16;Vendedor externo;12;;;Ativo
+350;1;4;2023-08-24;WhatsApp;12;;;Ativo
+351;1;4;2025-02-01;Vendedor externo;0;;;Ativo
+352;4;5;2023-03-06;Vendedor externo;12;;;Ativo
+353;1;4;2024-03-03;Vendedor externo;12;;;Ativo
+354;2;2;2024-09-14;Site;0;;;Ativo
+355;2;1;2026-10-18;Vendedor externo;12;;;Ativo
+356;3;2;2026-11-20;Site;12;;;Ativo
+357;2;2;2023-08-05;Vendedor externo;0;;;Ativo
+358;2;6;2026-06-29;Site;12;;;Ativo
+359;5;2;2023-05-11;Site;0;;;Ativo
+360;1;2;2025-12-06;Site;12;2026-06-27;Mudança de cidade;Cancelado
+361;4;2;2026-04-24;WhatsApp;0;;;Ativo
+362;1;3;2026-06-27;Vendedor externo;0;;;Ativo
+363;2;3;2023-11-16;Loja;12;;;Ativo
+364;4;1;2026-07-01;Site;12;2026-11-21;Instabilidade na conexão;Cancelado
+365;3;5;2023-06-15;Loja;0;2026-01-05;Mudança de cidade;Cancelado
+366;3;2;2025-01-11;Loja;12;;;Ativo
+367;1;2;2024-11-02;WhatsApp;12;2026-07-13;Instabilidade na conexão;Cancelado
+368;2;1;2024-03-27;Vendedor externo;12;;;Ativo
+369;2;3;2023-02-01;Vendedor externo;12;;;Ativo
+370;2;4;2026-01-08;WhatsApp;12;;;Ativo
+371;2;5;2024-04-24;Loja;12;;;Ativo
+372;2;1;2025-08-04;Loja;0;;;Ativo
+373;2;6;2024-08-09;Loja;12;;;Ativo
+374;1;4;2024-06-18;Loja;0;2026-09-21;Instabilidade na conexão;Cancelado
+375;2;1;2026-06-21;Site;0;;;Ativo
+376;1;1;2023-05-16;WhatsApp;12;;;Ativo
+377;4;1;2025-11-19;Vendedor externo;0;2026-02-07;Preço;Cancelado
+378;2;5;2025-12-03;Vendedor externo;12;2026-05-19;Preço;Cancelado
+379;1;1;2024-06-27;Vendedor externo;12;;;Ativo
+380;3;2;2024-01-11;Loja;12;;;Ativo
+381;4;4;2023-01-08;Site;12;;;Ativo
+382;1;5;2026-09-01;Site;12;;;Ativo
+383;1;3;2026-09-17;Loja;12;;;Ativo
+384;1;4;2023-12-11;WhatsApp;0;2026-10-24;Preço;Cancelado
+385;1;1;2023-02-15;WhatsApp;0;;;Ativo
+386;3;5;2023-06-25;Vendedor externo;12;;;Ativo
+387;5;1;2023-04-07;Site;12;;;Ativo
+388;1;1;2026-04-03;Site;12;;;Ativo
+389;3;6;2026-06-29;Loja;0;;;Ativo
+390;1;1;2023-08-08;Loja;0;;;Ativo
+391;2;1;2025-12-03;Site;12;;;Ativo
+392;3;3;2023-09-14;WhatsApp;12;;;Ativo
+393;2;2;2024-06-09;Vendedor externo;12;;;Ativo
+394;1;1;2025-05-07;Vendedor externo;12;;;Ativo
+395;2;3;2025-10-26;Site;12;2026-04-26;Mudança de cidade;Cancelado
+396;5;4;2026-06-04;Vendedor externo;0;2026-10-29;Instabilidade na conexão;Cancelado
+397;1;4;2023-03-06;Loja;12;;;Ativo
+398;1;1;2023-10-08;Vendedor externo;0;;;Ativo
+399;1;3;2024-02-06;WhatsApp;0;;;Ativo
+400;2;5;2024-03-19;WhatsApp;12;;;Ativo
+401;2;1;2026-11-28;WhatsApp;0;2026-12-28;Atendimento;Cancelado
+402;3;1;2026-01-16;Loja;0;;;Ativo
+403;3;1;2024-04-03;Vendedor externo;12;;;Ativo
+404;4;3;2026-10-21;Vendedor externo;12;;;Ativo
+405;3;1;2024-12-15;Loja;12;2026-06-17;Instabilidade na conexão;Cancelado
+406;1;4;2024-12-17;Loja;12;;;Ativo
+407;2;6;2024-09-12;WhatsApp;0;;;Ativo
+408;1;1;2023-07-25;Site;12;;;Ativo
+409;2;3;2026-08-29;Site;12;;;Ativo
+410;5;1;2023-01-20;Vendedor externo;12;;;Ativo
+411;3;1;2023-09-07;Vendedor externo;0;;;Ativo
+412;5;4;2023-11-25;Loja;0;2026-08-12;Preço;Cancelado
+413;2;2;2024-02-04;Loja;0;;;Ativo
+414;2;6;2023-07-08;Vendedor externo;12;;;Ativo
+415;2;3;2023-01-26;Vendedor externo;0;;;Ativo
+416;1;1;2025-08-27;WhatsApp;12;2026-08-10;Preço;Cancelado
+417;1;2;2026-10-18;Vendedor externo;12;2026-12-24;Instabilidade na conexão;Cancelado
+418;2;1;2023-06-24;Loja;12;;;Ativo
+419;1;5;2024-02-29;Loja;12;;;Ativo
+420;5;4;2024-12-25;Site;0;2026-10-12;Instabilidade na conexão;Cancelado
+421;1;2;2026-08-19;Loja;12;;;Ativo
+422;1;3;2025-09-19;Loja;12;;;Ativo
+423;3;3;2025-12-31;Vendedor externo;12;2026-07-19;Atendimento;Cancelado
+424;1;4;2025-04-10;Vendedor externo;12;;;Ativo
+425;4;1;2024-08-19;Site;0;2026-03-23;Preço;Cancelado
+426;3;1;2023-10-13;Vendedor externo;12;;;Ativo
+427;1;1;2026-05-20;Loja;0;;;Ativo
+428;3;2;2026-02-23;WhatsApp;0;;;Ativo
+429;3;2;2023-02-05;Vendedor externo;12;;;Ativo
+430;3;1;2025-10-20;Site;12;;;Ativo
+431;4;2;2023-05-01;Loja;0;;;Ativo
+432;3;2;2025-11-22;Site;12;;;Ativo
+433;2;1;2026-03-27;Vendedor externo;12;;;Ativo
+434;2;5;2023-07-07;Vendedor externo;12;;;Ativo
+435;3;3;2024-09-12;Vendedor externo;0;;;Ativo
+436;5;2;2023-06-26;WhatsApp;12;;;Ativo
+437;2;2;2025-03-22;Loja;0;;;Ativo
+438;3;2;2026-08-19;WhatsApp;12;;;Ativo
+439;2;5;2023-04-26;WhatsApp;12;;;Ativo
+440;3;3;2024-07-22;Vendedor externo;12;;;Ativo
+441;5;2;2026-10-23;Vendedor externo;0;;;Ativo
+442;1;5;2024-03-06;Vendedor externo;12;;;Ativo
+443;1;5;2023-07-09;WhatsApp;0;;;Ativo
+444;2;5;2024-11-29;Site;0;;;Ativo
+445;2;1;2024-12-27;Vendedor externo;12;;;Ativo
+446;2;1;2025-08-05;Loja;0;;;Ativo
+447;1;4;2024-03-24;WhatsApp;12;;;Ativo
+448;2;2;2026-09-28;Loja;12;;;Ativo
+449;2;4;2025-01-15;Loja;12;;;Ativo
+450;2;4;2024-02-14;Vendedor externo;12;2026-10-07;Atendimento;Cancelado
+451;3;1;2026-10-05;Vendedor externo;12;;;Ativo
+452;3;1;2026-08-15;WhatsApp;12;;;Ativo
+453;3;2;2024-12-14;WhatsApp;0;2026-01-19;Mudança de cidade;Cancelado
+454;3;1;2023-02-05;Loja;12;;;Ativo
+455;3;3;2025-05-03;Vendedor externo;12;;;Ativo
+456;2;4;2025-03-04;WhatsApp;0;;;Ativo
+457;2;2;2023-07-31;Vendedor externo;0;;;Ativo
+458;1;4;2025-06-25;Loja;0;;;Ativo
+459;1;2;2026-04-17;Vendedor externo;12;;;Ativo
+460;2;4;2023-06-01;Site;12;2026-03-19;Atendimento;Cancelado
+461;4;1;2025-10-31;WhatsApp;12;2026-10-18;Instabilidade na conexão;Cancelado
+462;3;4;2023-07-20;Site;12;;;Ativo
+463;1;4;2025-12-06;Loja;12;;;Ativo
+464;2;1;2024-08-22;Site;0;;;Ativo
+465;1;3;2023-01-10;Vendedor externo;12;;;Ativo
+466;3;5;2026-10-13;WhatsApp;12;;;Ativo
+467;4;1;2023-08-26;Vendedor externo;0;2026-12-12;Preço;Cancelado
+468;2;4;2025-05-02;Loja;0;2026-02-20;Atendimento;Cancelado
+469;2;6;2023-09-17;Vendedor externo;0;;;Ativo
+470;2;5;2026-08-27;Vendedor externo;12;;;Ativo
+471;2;2;2025-11-21;Loja;0;;;Ativo
+472;4;3;2026-02-24;Vendedor externo;0;;;Ativo
+473;3;6;2024-09-09;WhatsApp;0;;;Ativo
+474;2;3;2024-10-30;WhatsApp;0;;;Ativo
+475;2;1;2025-06-26;Vendedor externo;12;;;Ativo
+476;1;1;2026-01-27;Loja;12;;;Ativo
+477;1;4;2026-04-26;Vendedor externo;12;;;Ativo
+478;1;2;2023-01-26;Vendedor externo;12;;;Ativo
+479;2;1;2025-08-06;Loja;0;;;Ativo
+480;5;2;2023-06-06;WhatsApp;12;;;Ativo
+481;2;4;2024-02-16;WhatsApp;12;;;Ativo
+482;1;2;2026-04-01;Loja;12;;;Ativo
+483;1;5;2023-12-25;WhatsApp;12;;;Ativo
+484;2;4;2026-02-13;Site;0;;;Ativo
+485;3;6;2024-10-24;Vendedor externo;12;;;Ativo
+486;2;5;2023-11-29;Site;12;;;Ativo
+487;3;1;2024-04-22;Loja;0;;;Ativo
+488;3;3;2025-01-29;Loja;12;;;Ativo
+489;1;1;2025-12-30;WhatsApp;0;;;Ativo
+490;2;6;2025-05-16;Site;0;2026-08-16;Instabilidade na conexão;Cancelado
+491;5;1;2026-08-27;Vendedor externo;12;;;Ativo
+492;2;3;2026-05-25;Vendedor externo;12;;;Ativo
+493;1;5;2025-12-13;WhatsApp;12;;;Ativo
+494;5;1;2025-05-12;Vendedor externo;12;;;Ativo
+495;4;5;2024-02-19;WhatsApp;0;;;Ativo
+496;2;1;2024-08-12;WhatsApp;12;;;Ativo
+497;2;2;2023-06-20;Vendedor externo;12;2026-07-05;Instabilidade na conexão;Cancelado
+498;1;2;2024-06-19;Site;0;;;Ativo
+499;3;2;2026-08-17;Site;12;2026-12-27;Atendimento;Cancelado
+500;2;3;2024-09-01;WhatsApp;12;;;Ativo
+501;1;5;2023-06-12;Vendedor externo;0;2026-03-05;Preço;Cancelado
+502;3;2;2025-07-21;Loja;12;;;Ativo
+503;5;3;2026-10-08;Loja;12;;;Ativo
+504;4;5;2026-05-25;Site;12;;;Ativo
+505;1;4;2024-01-27;WhatsApp;12;;;Ativo
+506;1;1;2024-10-11;WhatsApp;12;;;Ativo
+507;5;6;2025-01-29;Vendedor externo;12;2026-06-11;Mudança de cidade;Cancelado
+508;5;1;2023-12-21;Loja;0;;;Ativo
+509;2;3;2024-01-20;Loja;12;;;Ativo
+510;3;3;2023-12-05;WhatsApp;12;;;Ativo
+511;2;4;2026-11-23;Vendedor externo;12;;;Ativo
+512;2;1;2025-12-02;WhatsApp;12;2026-02-03;Preço;Cancelado
+513;1;1;2026-04-17;Loja;12;;;Ativo
+514;1;4;2026-03-13;Vendedor externo;12;;;Ativo
+515;1;1;2026-10-03;WhatsApp;12;2026-11-14;Instabilidade na conexão;Cancelado
+516;4;2;2023-05-31;Loja;12;;;Ativo
+517;1;4;2026-06-14;Loja;12;2026-11-19;Preço;Cancelado
+518;1;3;2023-04-06;Site;0;;;Ativo
+519;2;1;2024-11-10;Vendedor externo;0;;;Ativo
+520;1;2;2025-04-30;WhatsApp;12;;;Ativo
+521;1;6;2024-05-26;WhatsApp;0;;;Ativo
+522;2;2;2023-07-29;Site;0;;;Ativo
+523;2;1;2023-10-02;Loja;0;;;Ativo
+524;3;1;2026-03-25;Vendedor externo;12;;;Ativo
+525;4;2;2024-03-31;WhatsApp;12;;;Ativo
+526;1;6;2024-03-19;Vendedor externo;12;;;Ativo
+527;4;2;2026-08-13;WhatsApp;12;2026-10-03;Instabilidade na conexão;Cancelado
+528;4;1;2023-07-25;Site;12;;;Ativo
+529;4;2;2026-08-01;Loja;0;;;Ativo
+530;3;1;2026-08-09;Vendedor externo;0;2026-12-18;Mudança de cidade;Cancelado
+531;3;1;2025-05-05;Site;0;;;Ativo
+532;3;6;2023-08-25;Loja;0;;;Ativo
+533;3;4;2023-08-11;Vendedor externo;12;;;Ativo
+534;1;1;2024-02-12;Site;0;2026-06-21;Instabilidade na conexão;Cancelado
+535;5;2;2025-04-05;Loja;12;2026-04-17;Mudança de cidade;Cancelado
+536;2;1;2023-08-08;Vendedor externo;12;2026-10-20;Instabilidade na conexão;Cancelado
+537;3;1;2024-10-13;Site;12;;;Ativo
+538;2;3;2023-06-15;WhatsApp;12;;;Ativo
+539;1;2;2025-02-11;Vendedor externo;12;;;Ativo
+540;2;4;2023-01-31;WhatsApp;12;;;Ativo
+541;2;5;2025-10-10;WhatsApp;12;;;Ativo
+542;2;1;2023-03-21;Vendedor externo;12;;;Ativo
+543;2;6;2023-10-06;Loja;12;;;Ativo
+544;1;2;2023-09-07;WhatsApp;12;;;Ativo
+545;2;1;2026-04-03;Loja;0;;;Ativo
+546;2;5;2023-03-18;WhatsApp;12;;;Ativo
+547;5;1;2024-09-05;Vendedor externo;12;2026-08-29;Instabilidade na conexão;Cancelado
+548;1;3;2025-04-25;Vendedor externo;0;;;Ativo
+549;2;4;2025-01-07;Vendedor externo;0;2026-10-16;Concorrente com oferta melhor;Cancelado
+550;1;1;2025-08-31;Vendedor externo;0;;;Ativo
+551;2;5;2026-02-22;WhatsApp;0;;;Ativo
+552;2;1;2024-07-16;Loja;0;;;Ativo
+553;3;5;2026-03-30;WhatsApp;12;;;Ativo
+554;5;1;2024-03-30;Loja;12;;;Ativo
+555;1;1;2026-11-08;WhatsApp;12;;;Ativo
+556;3;2;2024-12-22;WhatsApp;12;;;Ativo
+557;1;5;2025-11-18;Vendedor externo;0;;;Ativo
+558;1;1;2026-06-05;Loja;12;;;Ativo
+559;2;5;2026-02-07;WhatsApp;0;;;Ativo
+560;1;1;2026-05-02;WhatsApp;0;2026-09-29;Instabilidade na conexão;Cancelado
+561;2;2;2025-02-06;Vendedor externo;12;;;Ativo
+562;3;2;2023-03-04;Vendedor externo;12;;;Ativo
+563;3;1;2024-12-06;WhatsApp;12;;;Ativo
+564;2;6;2023-09-17;Loja;12;;;Ativo
+565;2;2;2026-06-25;Site;12;;;Ativo
+566;2;4;2023-12-05;Vendedor externo;12;;;Ativo
+567;1;3;2023-11-23;Loja;12;2026-03-29;Instabilidade na conexão;Cancelado
+568;1;2;2023-12-23;WhatsApp;0;;;Ativo
+569;3;3;2025-07-07;Vendedor externo;0;2026-05-06;Atendimento;Cancelado
+570;5;5;2025-03-27;WhatsApp;12;;;Ativo
+571;1;4;2026-09-18;Vendedor externo;12;;;Ativo
+572;2;3;2024-08-18;Vendedor externo;0;;;Ativo
+573;3;3;2024-02-08;Vendedor externo;0;2026-07-07;Concorrente com oferta melhor;Cancelado
+574;4;3;2023-03-12;Vendedor externo;0;2026-09-15;Mudança de cidade;Cancelado
+575;2;2;2023-01-11;WhatsApp;12;;;Ativo
+576;2;3;2024-06-18;Site;0;;;Ativo
+577;3;2;2026-08-16;WhatsApp;12;;;Ativo
+578;4;4;2025-01-18;Vendedor externo;0;2026-06-27;Atendimento;Cancelado
+579;1;6;2026-07-01;Vendedor externo;0;;;Ativo
+580;5;6;2023-05-26;Loja;0;;;Ativo
+581;1;5;2023-05-14;WhatsApp;12;;;Ativo
+582;4;3;2026-04-06;Vendedor externo;0;;;Ativo
+583;1;4;2023-06-02;Vendedor externo;12;2026-09-27;Preço;Cancelado
+584;1;1;2023-03-16;Vendedor externo;12;;;Ativo
+585;1;2;2024-07-31;Vendedor externo;12;;;Ativo
+586;2;1;2026-08-15;Site;0;;;Ativo
+587;2;1;2025-09-12;Site;12;;;Ativo
+588;1;6;2023-05-22;WhatsApp;0;;;Ativo
+589;2;5;2026-04-12;Loja;12;;;Ativo
+590;2;2;2026-04-21;Vendedor externo;12;;;Ativo
+591;3;1;2026-02-18;Loja;12;;;Ativo
+592;4;4;2026-07-14;WhatsApp;12;;;Ativo
+593;3;2;2023-12-10;Site;12;;;Ativo
+594;1;5;2026-11-01;Vendedor externo;12;;;Ativo
+595;1;6;2024-04-03;WhatsApp;0;;;Ativo
+596;4;2;2026-02-20;Vendedor externo;12;;;Ativo
+597;1;1;2025-04-08;Loja;0;;;Ativo
+598;2;1;2026-01-19;Vendedor externo;0;;;Ativo
+599;5;1;2025-06-16;Loja;12;;;Ativo
+600;5;2;2025-07-07;WhatsApp;12;;;Ativo
+601;2;1;2025-05-31;Site;12;;;Ativo
+602;3;1;2026-01-18;WhatsApp;12;;;Ativo
+603;2;1;2025-11-22;WhatsApp;12;;;Ativo
+604;3;1;2023-07-12;WhatsApp;12;2026-05-27;Instabilidade na conexão;Cancelado
+605;1;4;2026-03-27;Vendedor externo;12;;;Ativo
+606;1;1;2025-02-05;Loja;12;;;Ativo
+607;2;5;2024-04-07;Vendedor externo;0;;;Ativo
+608;1;1;2025-01-05;WhatsApp;12;;;Ativo
+609;3;1;2026-10-14;WhatsApp;12;;;Ativo
+610;2;1;2026-05-11;WhatsApp;12;2026-12-01;Instabilidade na conexão;Cancelado
+611;4;4;2026-04-07;Loja;0;;;Ativo
+612;3;1;2024-10-23;Loja;0;;;Ativo
+613;2;2;2026-01-26;WhatsApp;0;;;Ativo
+614;3;1;2024-07-04;Loja;0;;;Ativo
+615;1;6;2025-09-08;Vendedor externo;12;;;Ativo
+616;2;1;2025-07-03;Vendedor externo;0;;;Ativo
+617;1;2;2023-12-24;Vendedor externo;12;;;Ativo
+618;4;5;2024-01-17;Site;12;;;Ativo
+619;4;1;2023-03-29;WhatsApp;12;;;Ativo
+620;4;1;2023-07-19;WhatsApp;0;;;Ativo
+621;4;5;2024-09-12;Vendedor externo;12;;;Ativo
+622;5;1;2024-11-14;Vendedor externo;12;;;Ativo
+623;1;1;2023-08-25;WhatsApp;12;;;Ativo
+624;5;2;2024-08-19;Vendedor externo;12;;;Ativo
+625;2;1;2025-05-13;Vendedor externo;12;;;Ativo
+626;2;5;2023-11-29;Site;0;;;Ativo
+627;2;3;2024-04-28;Loja;12;2026-12-06;Preço;Cancelado
+628;2;3;2024-06-09;Loja;12;;;Ativo
+629;1;1;2024-12-23;WhatsApp;12;;;Ativo
+630;1;4;2024-06-07;Site;12;;;Ativo
+631;1;3;2025-11-19;Loja;0;2026-06-01;Preço;Cancelado
+632;2;1;2024-04-13;Vendedor externo;0;;;Ativo
+633;4;5;2024-09-12;WhatsApp;12;;;Ativo
+634;3;3;2024-06-26;Site;12;;;Ativo
+635;2;4;2023-09-19;Site;0;;;Ativo
+636;2;1;2025-09-07;Loja;12;;;Ativo
+637;2;1;2023-12-03;WhatsApp;12;;;Ativo
+638;1;4;2024-02-29;WhatsApp;12;2026-08-13;Instabilidade na conexão;Cancelado
+639;4;4;2026-02-07;Vendedor externo;0;2026-04-24;Mudança de cidade;Cancelado
+640;1;2;2026-09-18;Vendedor externo;12;;;Ativo
+641;3;1;2025-08-17;Site;12;;;Ativo
+642;3;5;2026-08-03;WhatsApp;12;;;Ativo
+643;2;1;2026-05-06;WhatsApp;12;;;Ativo
+644;4;2;2024-11-18;WhatsApp;12;;;Ativo
+645;1;3;2026-01-06;Site;0;;;Ativo
+646;4;1;2024-04-14;Vendedor externo;12;;;Ativo
+647;3;1;2024-10-20;Vendedor externo;0;;;Ativo
+648;3;1;2025-02-04;WhatsApp;12;;;Ativo
+649;3;5;2026-10-05;Vendedor externo;12;;;Ativo
+650;4;2;2026-04-28;Loja;12;;;Ativo
+651;5;3;2024-11-30;Site;12;;;Ativo
+652;2;6;2025-07-22;Vendedor externo;0;;;Ativo
+653;3;3;2023-10-17;WhatsApp;12;;;Ativo
+654;3;3;2026-02-24;Loja;12;;;Ativo
+655;2;3;2025-03-01;Vendedor externo;0;;;Ativo
+656;5;2;2025-01-31;Vendedor externo;0;;;Ativo
+657;2;3;2025-12-31;Site;12;;;Ativo
+658;2;6;2025-06-24;WhatsApp;0;2026-07-18;Preço;Cancelado
+659;1;4;2023-04-14;Vendedor externo;0;2026-03-06;Instabilidade na conexão;Cancelado
+660;1;2;2024-02-17;Vendedor externo;0;;;Ativo
+661;4;2;2023-09-10;Loja;12;;;Ativo
+662;2;5;2025-11-16;Site;12;;;Ativo
+663;2;1;2023-02-20;WhatsApp;12;;;Ativo
+664;1;5;2023-10-17;WhatsApp;12;;;Ativo
+665;2;1;2025-05-04;Loja;0;;;Ativo
+666;3;4;2025-09-20;Site;12;;;Ativo
+667;4;5;2024-12-20;Vendedor externo;0;;;Ativo
+668;1;2;2026-05-15;Loja;12;2026-07-02;Atendimento;Cancelado
+669;2;1;2026-08-07;Loja;0;2026-12-26;Instabilidade na conexão;Cancelado
+670;2;5;2023-07-08;Loja;0;;;Ativo
+671;2;2;2026-09-24;Loja;12;;;Ativo
+672;2;2;2025-05-28;WhatsApp;0;;;Ativo
+673;2;2;2025-06-28;Vendedor externo;12;;;Ativo
+674;2;2;2023-05-16;WhatsApp;12;;;Ativo
+675;2;4;2025-06-08;WhatsApp;12;;;Ativo
+676;2;1;2025-11-03;Vendedor externo;0;;;Ativo
+677;2;2;2025-04-10;Vendedor externo;12;;;Ativo
+678;3;5;2023-05-01;WhatsApp;12;;;Ativo
+679;3;1;2025-01-18;Loja;0;2026-04-01;Atendimento;Cancelado
+680;2;2;2026-08-31;Vendedor externo;12;;;Ativo
+681;3;3;2025-10-31;Vendedor externo;12;;;Ativo
+682;4;5;2023-07-16;WhatsApp;12;2026-07-07;Preço;Cancelado
+683;1;3;2026-10-04;WhatsApp;12;;;Ativo
+684;2;5;2026-10-03;WhatsApp;12;;;Ativo
+685;1;1;2023-08-31;Site;12;;;Ativo
+686;3;2;2026-02-19;Vendedor externo;12;;;Ativo
+687;1;6;2024-08-04;WhatsApp;0;;;Ativo
+688;3;5;2025-04-28;WhatsApp;12;;;Ativo
+689;1;3;2024-09-28;Vendedor externo;12;2026-07-02;Instabilidade na conexão;Cancelado
+690;2;2;2026-01-24;WhatsApp;12;;;Ativo
+691;5;2;2026-11-26;WhatsApp;12;;;Ativo
+692;2;1;2026-02-11;Vendedor externo;0;;;Ativo
+693;4;5;2026-08-24;Loja;12;;;Ativo
+694;5;5;2026-09-14;Loja;0;;;Ativo
+695;4;2;2023-05-09;WhatsApp;12;;;Ativo
+696;1;1;2023-12-29;Loja;12;;;Ativo
+697;3;2;2025-10-29;Vendedor externo;0;;;Ativo
+698;1;1;2025-04-23;Site;12;2026-09-23;Mudança de cidade;Cancelado
+699;2;4;2023-03-13;WhatsApp;12;2026-11-03;Mudança de cidade;Cancelado
+700;4;3;2023-05-16;WhatsApp;12;;;Ativo
+701;3;1;2025-01-14;WhatsApp;12;;;Ativo
+702;2;3;2025-05-31;Vendedor externo;12;2026-02-09;Instabilidade na conexão;Cancelado
+703;2;6;2023-08-28;Loja;12;;;Ativo
+704;3;1;2023-09-02;Site;0;;;Ativo
+705;3;2;2023-07-04;Loja;0;;;Ativo
+706;2;2;2025-03-18;Vendedor externo;0;;;Ativo
+707;4;1;2023-01-12;WhatsApp;0;2026-03-25;Atendimento;Cancelado
+708;1;3;2025-03-29;Vendedor externo;0;;;Ativo
+709;1;3;2024-11-11;Site;12;;;Ativo
+710;3;1;2024-10-28;Site;12;;;Ativo
+711;5;1;2025-08-29;WhatsApp;0;;;Ativo
+712;1;5;2025-01-17;Vendedor externo;12;;;Ativo
+713;1;2;2025-11-06;Vendedor externo;12;;;Ativo
+714;1;3;2025-12-28;Loja;0;;;Ativo
+715;4;3;2026-08-08;Site;12;;;Ativo
+716;1;5;2026-02-16;Vendedor externo;0;;;Ativo
+717;2;4;2025-01-10;Vendedor externo;12;;;Ativo
+718;5;5;2024-12-04;WhatsApp;12;;;Ativo
+719;1;3;2023-12-04;Loja;0;;;Ativo
+720;2;2;2025-05-07;Vendedor externo;0;;;Ativo
+721;2;2;2023-07-18;Loja;12;;;Ativo
+722;3;2;2026-08-24;Vendedor externo;0;;;Ativo
+723;2;2;2026-04-23;Loja;12;;;Ativo
+724;2;1;2023-06-21;Loja;12;;;Ativo
+725;1;2;2026-01-28;WhatsApp;0;;;Ativo
+726;3;2;2023-06-17;WhatsApp;12;;;Ativo
+727;3;1;2025-10-28;Site;12;;;Ativo
+728;1;1;2023-05-06;Site;0;;;Ativo
+729;2;4;2024-11-29;WhatsApp;12;;;Ativo
+730;4;3;2025-07-29;WhatsApp;12;2026-01-04;Preço;Cancelado
+731;1;5;2025-11-08;Vendedor externo;12;;;Ativo
+732;1;3;2024-08-21;Loja;0;;;Ativo
+733;2;5;2026-08-10;Site;0;;;Ativo
+734;2;4;2026-01-12;WhatsApp;12;;;Ativo
+735;1;1;2023-10-25;Vendedor externo;12;;;Ativo
+736;2;6;2025-08-17;Vendedor externo;0;;;Ativo
+737;1;1;2025-11-10;Vendedor externo;12;;;Ativo
+738;2;3;2024-04-22;Vendedor externo;12;;;Ativo
+739;3;4;2025-11-21;Site;0;;;Ativo
+740;2;2;2026-07-08;Vendedor externo;12;;;Ativo
+741;1;3;2026-03-14;WhatsApp;12;;;Ativo
+742;4;2;2025-12-26;WhatsApp;12;;;Ativo
+743;1;1;2025-06-26;Loja;12;;;Ativo
+744;3;1;2024-01-22;WhatsApp;12;;;Ativo
+745;2;1;2026-02-11;WhatsApp;12;2026-04-07;Mudança de cidade;Cancelado
+746;3;1;2024-06-04;Vendedor externo;12;;;Ativo
+747;1;3;2025-01-31;Vendedor externo;12;;;Ativo
+748;1;3;2024-03-25;WhatsApp;12;;;Ativo
+749;2;2;2024-03-23;Vendedor externo;12;;;Ativo
+750;1;4;2023-08-14;Loja;12;2026-09-19;Instabilidade na conexão;Cancelado
+751;1;1;2026-10-06;Vendedor externo;0;2026-12-27;Instabilidade na conexão;Cancelado
+752;3;1;2023-07-31;Vendedor externo;0;;;Ativo
+753;4;4;2023-05-04;Site;12;;;Ativo
+754;1;5;2026-08-31;Loja;12;2026-12-13;Instabilidade na conexão;Cancelado
+755;4;2;2025-03-04;Site;12;;;Ativo
+756;3;1;2024-09-18;Vendedor externo;12;;;Ativo
+757;4;4;2025-11-20;WhatsApp;0;;;Ativo
+758;3;5;2024-07-02;Vendedor externo;12;;;Ativo
+759;3;2;2023-07-02;WhatsApp;0;;;Ativo
+760;2;1;2025-11-09;WhatsApp;12;2026-05-29;Preço;Cancelado
+761;3;1;2023-09-09;Loja;12;2026-05-12;Concorrente com oferta melhor;Cancelado
+762;4;3;2025-03-01;Site;12;;;Ativo
+763;1;5;2026-09-19;Loja;12;;;Ativo
+764;2;3;2026-08-31;WhatsApp;0;;;Ativo
+765;1;2;2024-05-30;Site;0;;;Ativo
+766;5;3;2026-01-20;Vendedor externo;12;;;Ativo
+767;2;5;2025-05-26;Loja;0;;;Ativo
+768;3;2;2024-11-16;Vendedor externo;12;;;Ativo
+769;4;5;2023-07-20;WhatsApp;0;;;Ativo
+770;5;2;2024-06-22;WhatsApp;0;2026-09-04;Concorrente com oferta melhor;Cancelado
+771;1;2;2025-07-21;Loja;0;;;Ativo
+772;3;3;2026-11-11;Vendedor externo;12;;;Ativo
+773;4;2;2023-01-07;Vendedor externo;12;;;Ativo
+774;1;6;2025-10-23;Vendedor externo;0;;;Ativo
+775;3;2;2026-04-25;Loja;12;;;Ativo
+776;2;2;2026-09-22;Vendedor externo;0;;;Ativo
+777;3;2;2024-08-29;WhatsApp;12;;;Ativo
+778;2;3;2023-06-19;Vendedor externo;0;;;Ativo
+779;1;2;2024-01-23;Site;12;;;Ativo
+780;1;4;2026-05-01;Vendedor externo;0;;;Ativo
+781;1;2;2026-06-09;Vendedor externo;12;;;Ativo
+782;1;2;2025-06-30;Site;12;;;Ativo
+783;3;3;2023-06-25;Vendedor externo;12;;;Ativo
+784;2;1;2023-06-24;Loja;12;;;Ativo
+785;1;3;2024-11-14;WhatsApp;0;2026-12-24;Concorrente com oferta melhor;Cancelado
+786;3;2;2025-04-21;WhatsApp;12;;;Ativo
+787;3;2;2023-02-16;Site;12;;;Ativo
+788;2;4;2025-09-08;Loja;12;;;Ativo
+789;5;4;2025-02-17;Loja;12;;;Ativo
+790;2;5;2023-01-18;Loja;12;;;Ativo
+791;4;2;2023-05-17;WhatsApp;12;2026-10-12;Instabilidade na conexão;Cancelado
+792;1;2;2024-10-11;WhatsApp;12;2026-08-26;Mudança de cidade;Cancelado
+793;3;4;2025-10-30;Vendedor externo;12;;;Ativo
+794;5;3;2026-03-26;WhatsApp;12;;;Ativo
+795;4;3;2024-09-08;Loja;12;;;Ativo
+796;2;3;2024-02-27;Vendedor externo;12;;;Ativo
+797;3;4;2026-10-16;Loja;12;;;Ativo
+798;2;1;2024-10-17;Vendedor externo;0;;;Ativo
+799;3;3;2024-03-27;WhatsApp;12;;;Ativo
+800;3;1;2024-09-24;WhatsApp;12;;;Ativo
+801;5;2;2023-01-18;Loja;0;;;Ativo
+802;2;3;2024-03-07;Loja;12;2026-01-16;Preço;Cancelado
+803;1;2;2025-01-07;Vendedor externo;0;;;Ativo
+804;2;2;2026-08-06;Loja;0;;;Ativo
+805;1;5;2025-11-21;Vendedor externo;12;;;Ativo
+806;1;4;2026-01-22;Vendedor externo;12;;;Ativo
+807;2;3;2025-02-18;Vendedor externo;12;;;Ativo
+808;3;6;2023-06-08;Vendedor externo;0;;;Ativo
+809;1;2;2024-07-13;Loja;12;;;Ativo
+810;1;4;2026-11-26;WhatsApp;0;;;Ativo
+811;1;1;2023-03-05;Vendedor externo;12;;;Ativo
+812;4;1;2026-06-11;Vendedor externo;0;;;Ativo
+813;3;2;2025-09-05;Vendedor externo;12;;;Ativo
+814;1;1;2024-02-10;Site;0;;;Ativo
+815;1;2;2026-01-17;Loja;0;;;Ativo
+816;2;1;2026-04-11;Loja;12;2026-09-12;Atendimento;Cancelado
+817;1;3;2023-03-03;Site;12;;;Ativo
+818;2;1;2023-06-02;Site;12;;;Ativo
+819;2;1;2025-08-10;Vendedor externo;12;;;Ativo
+820;5;6;2026-11-29;Vendedor externo;12;;;Ativo
+821;1;3;2023-02-04;WhatsApp;0;;;Ativo
+822;3;6;2025-08-09;Loja;12;;;Ativo
+823;1;2;2023-07-15;Loja;12;2026-02-28;Concorrente com oferta melhor;Cancelado
+824;5;1;2025-07-18;Vendedor externo;12;;;Ativo
+825;5;3;2025-06-10;Vendedor externo;12;;;Ativo
+826;3;3;2023-05-10;Site;12;;;Ativo
+827;2;1;2025-08-31;Site;12;;;Ativo
+828;1;5;2026-07-06;Vendedor externo;0;;;Ativo
+829;3;3;2026-05-19;Site;12;;;Ativo
+830;3;4;2023-02-11;Vendedor externo;12;;;Ativo
+831;1;2;2023-12-18;WhatsApp;12;;;Ativo
+832;2;3;2023-12-11;Loja;12;;;Ativo
+833;2;1;2024-10-10;Vendedor externo;12;2026-01-29;Preço;Cancelado
+834;4;6;2023-07-24;Site;0;2026-12-27;Instabilidade na conexão;Cancelado
+835;3;2;2026-05-06;Vendedor externo;12;;;Ativo
+836;3;1;2026-01-15;Loja;12;;;Ativo
+837;3;1;2026-03-01;Vendedor externo;12;;;Ativo
+838;1;3;2023-10-11;Site;0;;;Ativo
+839;2;6;2023-01-21;Loja;12;2026-01-20;Atendimento;Cancelado
+840;1;5;2026-07-26;Site;0;2026-11-03;Preço;Cancelado
+841;3;4;2024-02-18;WhatsApp;0;;;Ativo
+842;2;6;2025-07-27;Site;12;;;Ativo
+843;2;4;2026-07-24;Loja;0;;;Ativo
+844;1;2;2023-02-21;WhatsApp;12;2026-03-18;Mudança de cidade;Cancelado
+845;1;3;2023-01-08;Loja;0;;;Ativo
+846;2;1;2023-01-08;WhatsApp;0;2026-02-25;Preço;Cancelado
+847;1;1;2023-08-12;Site;0;2026-09-17;Mudança de cidade;Cancelado
+848;1;2;2023-03-15;Loja;12;2026-08-16;Instabilidade na conexão;Cancelado
+849;3;1;2026-03-18;WhatsApp;0;;;Ativo
+850;2;6;2025-05-16;Vendedor externo;0;;;Ativo
+851;2;6;2026-11-02;Vendedor externo;12;;;Ativo
+852;2;2;2026-02-20;Vendedor externo;12;;;Ativo
+853;3;4;2026-10-09;Site;12;;;Ativo
+854;2;2;2023-12-08;Site;0;;;Ativo
+855;3;1;2024-02-16;WhatsApp;12;;;Ativo
+856;5;2;2026-04-29;Vendedor externo;12;2026-11-19;Mudança de cidade;Cancelado
+857;3;1;2023-12-17;Site;12;;;Ativo
+858;2;2;2023-03-23;Site;0;;;Ativo
+859;3;1;2025-08-14;Site;0;;;Ativo
+860;2;1;2026-02-19;Vendedor externo;12;;;Ativo
+861;2;1;2026-10-16;Vendedor externo;0;;;Ativo
+862;2;5;2026-08-19;WhatsApp;12;;;Ativo
+863;2;1;2023-06-21;Vendedor externo;0;;;Ativo
+864;1;2;2026-01-09;Loja;0;;;Ativo
+865;2;3;2026-04-24;Vendedor externo;0;;;Ativo
+866;1;2;2025-09-25;Vendedor externo;0;;;Ativo
+867;2;2;2026-03-18;Loja;12;;;Ativo
+868;2;1;2026-04-13;Loja;0;;;Ativo
+869;5;3;2024-09-30;Site;12;;;Ativo
+870;1;3;2023-02-27;WhatsApp;0;;;Ativo
+871;3;4;2024-10-14;Vendedor externo;12;;;Ativo
+872;2;3;2023-10-16;Loja;12;;;Ativo
+873;1;2;2023-06-12;WhatsApp;12;;;Ativo
+874;1;2;2023-06-28;Vendedor externo;12;2026-05-01;Preço;Cancelado
+875;1;1;2025-09-24;WhatsApp;12;;;Ativo
+876;1;2;2024-12-22;Vendedor externo;12;;;Ativo
+877;1;1;2025-02-10;Loja;12;;;Ativo
+878;2;2;2025-12-01;Vendedor externo;12;;;Ativo
+879;2;3;2025-02-23;Vendedor externo;0;2026-06-18;Instabilidade na conexão;Cancelado
+880;1;1;2025-06-19;WhatsApp;12;;;Ativo
+881;1;1;2023-05-04;Loja;0;;;Ativo
+882;1;3;2026-05-02;WhatsApp;12;;;Ativo
+883;2;2;2024-10-03;WhatsApp;0;;;Ativo
+884;2;5;2023-08-10;WhatsApp;0;;;Ativo
+885;2;6;2026-03-09;WhatsApp;12;;;Ativo
+886;1;6;2025-11-16;Loja;12;2026-09-28;Concorrente com oferta melhor;Cancelado
+887;1;2;2023-03-17;Vendedor externo;12;;;Ativo
+888;5;1;2023-10-04;WhatsApp;12;;;Ativo
+889;1;3;2023-01-23;Vendedor externo;12;;;Ativo
+890;1;3;2024-01-23;Loja;12;;;Ativo
+891;1;3;2023-05-23;Vendedor externo;12;;;Ativo
+892;5;2;2025-10-12;Loja;12;;;Ativo
+893;2;1;2025-01-17;WhatsApp;0;;;Ativo
+894;2;1;2026-11-02;Vendedor externo;12;;;Ativo
+895;5;1;2025-12-07;Site;12;;;Ativo
+896;1;1;2025-05-24;WhatsApp;12;2026-01-12;Preço;Cancelado
+897;5;6;2024-12-29;Vendedor externo;0;;;Ativo
+898;1;1;2023-03-19;WhatsApp;0;;;Ativo
+899;3;3;2023-04-11;Loja;0;;;Ativo
+900;2;6;2025-05-31;Loja;12;;;Ativo
+901;2;2;2023-01-07;Loja;12;;;Ativo
+902;5;3;2023-03-02;Vendedor externo;12;;;Ativo
+903;1;4;2023-11-10;Vendedor externo;0;2026-01-24;Concorrente com oferta melhor;Cancelado
+904;5;2;2026-06-18;Vendedor externo;12;2026-11-09;Instabilidade na conexão;Cancelado
+905;2;2;2024-10-18;Loja;0;2026-09-06;Instabilidade na conexão;Cancelado
+906;3;5;2025-10-11;Loja;12;2026-07-25;Preço;Cancelado
+907;5;4;2024-08-11;Site;12;2026-07-13;Instabilidade na conexão;Cancelado
+908;1;5;2023-09-05;Loja;0;;;Ativo
+909;5;6;2024-06-14;WhatsApp;12;;;Ativo
+910;2;2;2023-05-12;WhatsApp;12;;;Ativo
+911;3;4;2026-01-06;Site;0;2026-08-16;Atendimento;Cancelado
+912;1;3;2023-09-20;Vendedor externo;12;;;Ativo
+913;2;3;2024-06-22;Site;12;2026-09-24;Mudança de cidade;Cancelado
+914;3;4;2026-11-02;Site;12;;;Ativo
+915;2;4;2025-04-26;WhatsApp;0;;;Ativo
+916;1;5;2024-10-17;WhatsApp;0;;;Ativo
+917;1;2;2025-02-15;Vendedor externo;12;2026-09-29;Atendimento;Cancelado
+918;4;3;2026-01-26;Site;0;;;Ativo
+919;1;1;2023-12-30;WhatsApp;12;;;Ativo
+920;3;3;2025-06-29;Loja;12;;;Ativo
+921;5;4;2026-06-01;Vendedor externo;12;;;Ativo
+922;1;4;2025-03-29;Site;12;;;Ativo
+923;1;2;2024-09-30;Site;12;;;Ativo
+924;3;2;2023-07-27;Vendedor externo;0;;;Ativo
+925;1;2;2023-12-22;Vendedor externo;0;;;Ativo
+926;2;1;2026-09-14;Loja;12;;;Ativo
+927;3;1;2025-02-13;Vendedor externo;12;;;Ativo
+928;2;5;2024-03-06;WhatsApp;12;;;Ativo
+929;2;2;2024-08-21;WhatsApp;12;;;Ativo
+930;3;6;2025-04-06;Vendedor externo;12;;;Ativo
+931;2;1;2025-02-07;Vendedor externo;0;;;Ativo
+932;1;4;2025-09-27;WhatsApp;0;2026-08-15;Instabilidade na conexão;Cancelado
+933;2;3;2024-01-04;Site;12;;;Ativo
+934;4;4;2025-07-17;Vendedor externo;0;2026-11-14;Mudança de cidade;Cancelado
+935;3;3;2024-09-25;Vendedor externo;12;2026-03-29;Instabilidade na conexão;Cancelado
+936;2;4;2026-09-07;Loja;0;;;Ativo
+937;2;5;2023-08-14;WhatsApp;12;;;Ativo
+938;1;3;2023-08-01;Site;0;;;Ativo
+939;1;1;2024-10-22;Vendedor externo;12;;;Ativo
+940;1;1;2024-12-27;WhatsApp;0;;;Ativo
+941;5;4;2025-09-14;Site;12;;;Ativo
+942;1;2;2024-07-31;WhatsApp;12;;;Ativo
+943;3;3;2026-07-30;Vendedor externo;12;;;Ativo
+944;1;3;2024-11-09;Vendedor externo;0;;;Ativo
+945;1;2;2023-07-04;WhatsApp;12;;;Ativo
+946;2;4;2023-06-20;WhatsApp;12;2026-07-16;Mudança de cidade;Cancelado
+947;2;4;2026-10-23;WhatsApp;0;;;Ativo
+948;3;4;2023-07-11;WhatsApp;12;;;Ativo
+949;5;4;2026-09-17;Vendedor externo;12;;;Ativo
+950;4;5;2024-02-02;Loja;12;;;Ativo
+951;1;3;2023-05-14;Vendedor externo;12;;;Ativo
+952;3;6;2024-03-11;WhatsApp;12;;;Ativo
+953;1;1;2025-05-29;Vendedor externo;12;2026-06-18;Instabilidade na conexão;Cancelado
+954;4;3;2024-09-03;WhatsApp;0;;;Ativo
+955;2;4;2026-01-28;WhatsApp;12;;;Ativo
+956;2;2;2025-05-23;WhatsApp;12;;;Ativo
+957;1;1;2024-07-27;WhatsApp;0;;;Ativo
+958;1;3;2025-06-26;Vendedor externo;0;;;Ativo
+959;1;2;2026-10-21;Vendedor externo;12;;;Ativo
+960;4;5;2024-08-11;WhatsApp;0;;;Ativo
+961;3;2;2023-08-08;Loja;0;;;Ativo
+962;5;1;2024-08-07;Loja;0;;;Ativo
+963;1;3;2026-04-16;WhatsApp;0;;;Ativo
+964;2;2;2023-11-08;Site;12;;;Ativo
+965;1;1;2026-09-19;Vendedor externo;12;;;Ativo
+966;2;3;2025-04-21;Loja;12;2026-07-05;Preço;Cancelado
+967;2;3;2025-05-10;Vendedor externo;12;;;Ativo
+968;1;1;2024-03-29;WhatsApp;12;;;Ativo
+969;2;3;2026-08-09;Site;12;;;Ativo
+970;1;3;2023-02-21;Vendedor externo;12;;;Ativo
+971;2;4;2024-03-03;Vendedor externo;12;;;Ativo
+972;3;2;2024-08-21;WhatsApp;12;2026-12-05;Preço;Cancelado
+973;1;1;2024-11-13;WhatsApp;12;;;Ativo
+974;5;6;2024-11-09;Vendedor externo;12;;;Ativo
+975;2;3;2023-07-31;Site;0;;;Ativo
+976;3;1;2023-11-19;Vendedor externo;12;2026-11-27;Preço;Cancelado
+977;3;5;2023-05-17;Vendedor externo;12;;;Ativo
+978;3;1;2025-03-29;Loja;12;;;Ativo
+979;3;4;2024-05-16;Vendedor externo;12;;;Ativo
+980;4;4;2025-03-20;Vendedor externo;12;;;Ativo
+981;2;6;2025-04-23;Vendedor externo;0;;;Ativo
+982;1;6;2025-09-30;Vendedor externo;12;;;Ativo
+983;1;1;2025-02-21;Loja;12;;;Ativo
+984;2;4;2025-07-15;Loja;12;;;Ativo
+985;1;2;2025-04-19;Site;12;;;Ativo
+986;1;3;2025-07-21;Loja;12;;;Ativo
+987;1;3;2025-05-31;Loja;12;;;Ativo
+988;2;1;2024-03-28;WhatsApp;0;2026-07-14;Preço;Cancelado
+989;1;1;2023-12-19;Vendedor externo;12;;;Ativo
+990;2;1;2026-01-31;WhatsApp;12;;;Ativo
+991;3;1;2024-05-05;Site;12;;;Ativo
+992;4;1;2025-02-24;Site;0;;;Ativo
+993;2;5;2023-10-09;Vendedor externo;0;2026-10-25;Mudança de cidade;Cancelado
+994;2;2;2024-09-08;Loja;0;;;Ativo
+995;2;4;2025-01-27;WhatsApp;12;;;Ativo
+996;2;5;2025-06-14;WhatsApp;12;;;Ativo
+997;3;4;2025-01-22;Vendedor externo;12;;;Ativo
+998;1;2;2024-05-30;WhatsApp;0;2026-02-16;Mudança de cidade;Cancelado
+999;5;5;2026-10-07;Vendedor externo;0;;;Ativo
+1000;1;4;2025-01-03;WhatsApp;12;2026-04-03;Instabilidade na conexão;Cancelado
+1001;4;4;2026-03-01;WhatsApp;0;2026-08-25;Concorrente com oferta melhor;Cancelado
+1002;2;5;2025-11-19;Loja;0;;;Ativo
+1003;1;3;2025-03-09;WhatsApp;0;2026-12-20;Instabilidade na conexão;Cancelado
+1004;3;3;2026-06-21;WhatsApp;12;2026-12-23;Instabilidade na conexão;Cancelado
+1005;1;5;2023-07-03;Site;12;2026-04-08;Preço;Cancelado
+1006;3;2;2026-08-10;Loja;0;2026-11-12;Instabilidade na conexão;Cancelado
+1007;2;5;2026-04-30;WhatsApp;0;;;Ativo
+1008;1;1;2024-12-21;Site;12;;;Ativo
+1009;1;1;2025-11-14;Vendedor externo;12;2026-04-03;Instabilidade na conexão;Cancelado
+1010;3;3;2025-01-13;WhatsApp;12;;;Ativo
+1011;1;1;2024-01-20;Vendedor externo;0;;;Ativo
+1012;4;6;2026-02-17;WhatsApp;0;;;Ativo
+1013;3;1;2023-12-18;Site;12;2026-06-11;Atendimento;Cancelado
+1014;3;4;2024-03-25;Vendedor externo;12;;;Ativo
+1015;1;1;2025-01-12;WhatsApp;12;;;Ativo
+1016;3;6;2026-04-12;Vendedor externo;12;2026-07-19;Instabilidade na conexão;Cancelado
+1017;5;2;2024-07-03;Vendedor externo;12;;;Ativo
+1018;1;1;2024-12-07;Vendedor externo;12;2026-04-13;Atendimento;Cancelado
+1019;2;1;2023-03-01;Loja;0;;;Ativo
+1020;1;3;2023-06-15;Site;0;;;Ativo
+1021;2;6;2023-03-22;Vendedor externo;12;;;Ativo
+1022;3;6;2023-04-14;WhatsApp;12;;;Ativo
+1023;2;2;2026-05-26;WhatsApp;12;;;Ativo
+1024;2;2;2026-04-19;WhatsApp;12;;;Ativo
+1025;2;1;2026-03-21;Loja;12;;;Ativo
+1026;1;3;2023-03-21;Site;12;;;Ativo
+1027;1;3;2023-04-22;Loja;0;;;Ativo
+1028;4;1;2024-02-06;WhatsApp;12;;;Ativo
+1029;2;3;2025-03-19;Vendedor externo;12;2026-12-15;Instabilidade na conexão;Cancelado
+1030;2;5;2024-04-22;WhatsApp;12;;;Ativo
+1031;3;1;2024-11-28;Vendedor externo;12;;;Ativo
+1032;1;1;2023-09-05;Vendedor externo;12;;;Ativo
+1033;1;1;2025-11-11;WhatsApp;0;;;Ativo
+1034;1;1;2024-03-24;Vendedor externo;0;;;Ativo
+1035;5;1;2023-04-06;WhatsApp;12;;;Ativo
+1036;3;3;2025-11-28;WhatsApp;0;2026-05-04;Preço;Cancelado
+1037;2;1;2026-07-14;Vendedor externo;12;;;Ativo
+1038;1;4;2023-01-21;Vendedor externo;0;;;Ativo
+1039;1;5;2024-09-16;Vendedor externo;12;;;Ativo
+1040;3;6;2026-03-28;WhatsApp;12;;;Ativo
+1041;2;3;2025-10-06;WhatsApp;12;;;Ativo
+1042;5;1;2026-05-09;Vendedor externo;12;;;Ativo
+1043;3;1;2024-08-16;Site;0;;;Ativo
+1044;2;1;2024-06-16;Vendedor externo;12;;;Ativo
+1045;3;6;2025-10-11;Site;12;;;Ativo
+1046;5;6;2023-08-08;WhatsApp;12;;;Ativo
+1047;2;2;2023-12-09;WhatsApp;0;;;Ativo
+1048;3;2;2025-05-09;Vendedor externo;0;;;Ativo
+1049;4;2;2025-08-13;Vendedor externo;12;2026-05-24;Instabilidade na conexão;Cancelado
+1050;1;1;2023-06-21;Vendedor externo;12;2026-06-17;Atendimento;Cancelado
+1051;4;6;2024-12-27;Loja;12;;;Ativo
+1052;1;1;2024-06-05;Vendedor externo;12;;;Ativo
+1053;3;2;2024-12-18;WhatsApp;12;;;Ativo
+1054;3;2;2026-10-02;Vendedor externo;12;;;Ativo
+1055;2;1;2023-04-20;Vendedor externo;12;;;Ativo
+1056;2;2;2026-11-24;Site;12;;;Ativo
+1057;2;5;2024-10-04;Loja;12;;;Ativo
+1058;1;1;2026-01-09;Vendedor externo;12;;;Ativo
+1059;1;3;2024-08-29;WhatsApp;12;;;Ativo
+1060;1;2;2024-03-20;Loja;0;;;Ativo
+1061;2;1;2026-01-06;Vendedor externo;0;;;Ativo
+1062;2;1;2025-09-10;Vendedor externo;12;;;Ativo
+1063;1;1;2023-07-26;Loja;12;;;Ativo
+1064;4;1;2025-10-05;Vendedor externo;0;;;Ativo
+1065;2;2;2025-12-12;Loja;12;2026-09-09;Instabilidade na conexão;Cancelado
+1066;2;5;2024-07-08;Vendedor externo;12;;;Ativo
+1067;2;4;2026-08-16;WhatsApp;12;;;Ativo
+1068;1;6;2025-07-05;Vendedor externo;12;;;Ativo
+1069;3;2;2024-04-22;Vendedor externo;0;;;Ativo
+1070;2;4;2023-01-16;Vendedor externo;12;;;Ativo
+1071;1;3;2025-08-23;WhatsApp;0;;;Ativo
+1072;5;1;2023-10-26;Loja;12;;;Ativo
+1073;3;2;2025-12-17;WhatsApp;0;;;Ativo
+1074;3;3;2025-01-20;Vendedor externo;12;;;Ativo
+1075;4;4;2024-10-29;WhatsApp;12;2026-05-31;Concorrente com oferta melhor;Cancelado
+1076;4;2;2023-08-23;Vendedor externo;12;;;Ativo
+1077;2;1;2025-10-14;Loja;12;;;Ativo
+1078;2;6;2023-08-26;Vendedor externo;12;;;Ativo
+1079;2;1;2024-08-20;Loja;12;;;Ativo
+1080;1;6;2026-04-10;WhatsApp;0;2026-06-29;Instabilidade na conexão;Cancelado
+1081;1;5;2026-08-09;Site;12;;;Ativo
+1082;1;5;2026-11-15;Site;12;2026-12-23;Atendimento;Cancelado
+1083;3;4;2026-10-01;Loja;0;2026-11-14;Atendimento;Cancelado
+1084;3;1;2025-03-06;Site;12;;;Ativo
+1085;3;3;2023-10-14;Vendedor externo;0;;;Ativo
+1086;2;4;2026-04-14;WhatsApp;12;;;Ativo
+1087;1;4;2026-02-20;Site;0;2026-04-12;Concorrente com oferta melhor;Cancelado
+1088;2;1;2026-11-17;Vendedor externo;12;;;Ativo
+1089;2;1;2025-07-19;WhatsApp;0;2026-03-09;Mudança de cidade;Cancelado
+1090;4;2;2023-07-22;Vendedor externo;12;2026-11-01;Mudança de cidade;Cancelado
+1091;4;2;2024-12-20;Vendedor externo;0;;;Ativo
+1092;4;3;2024-10-02;Loja;12;;;Ativo
+1093;4;5;2026-04-20;Site;0;;;Ativo
+1094;5;4;2024-07-15;Vendedor externo;12;;;Ativo
+1095;2;3;2024-04-14;Loja;12;;;Ativo
+1096;1;1;2023-04-25;WhatsApp;12;;;Ativo
+1097;1;2;2026-04-09;Loja;12;;;Ativo
+1098;2;2;2025-12-16;Site;12;;;Ativo
+1099;1;1;2023-02-28;Loja;12;;;Ativo
+1100;1;1;2024-09-12;Vendedor externo;0;;;Ativo
+1101;5;2;2024-11-16;WhatsApp;12;;;Ativo
+1102;1;1;2024-11-02;Loja;12;;;Ativo
+1103;5;3;2026-08-07;Site;12;;;Ativo
+1104;3;1;2023-08-04;Site;0;;;Ativo
+1105;3;1;2024-03-14;WhatsApp;12;;;Ativo
+1106;3;1;2023-09-16;Loja;12;;;Ativo
+1107;2;3;2023-12-16;WhatsApp;12;;;Ativo
+1108;3;3;2026-07-21;Vendedor externo;0;;;Ativo
+1109;1;2;2026-09-07;Vendedor externo;12;;;Ativo
+1110;5;1;2023-03-05;Vendedor externo;12;;;Ativo
+1111;2;6;2025-06-22;Vendedor externo;0;;;Ativo
+1112;1;3;2023-11-29;Vendedor externo;12;;;Ativo
+1113;3;3;2023-10-03;Loja;12;;;Ativo
+1114;3;3;2024-02-22;Vendedor externo;12;;;Ativo
+1115;2;5;2023-10-05;Site;0;;;Ativo
+1116;3;5;2024-12-01;Vendedor externo;12;;;Ativo
+1117;1;2;2026-11-24;Loja;0;;;Ativo
+1118;3;4;2025-04-18;Vendedor externo;12;;;Ativo
+1119;1;1;2025-10-31;Vendedor externo;12;;;Ativo
+1120;1;3;2024-12-06;Site;12;;;Ativo
+1121;1;2;2023-01-20;WhatsApp;0;;;Ativo
+1122;2;1;2023-05-01;Vendedor externo;12;;;Ativo
+1123;2;6;2024-01-20;Site;0;;;Ativo
+1124;2;5;2023-12-15;Loja;12;2026-03-22;Atendimento;Cancelado
+1125;1;1;2026-04-17;WhatsApp;12;;;Ativo
+1126;1;6;2026-04-21;Vendedor externo;12;;;Ativo
+1127;2;2;2026-05-06;Vendedor externo;12;;;Ativo
+1128;1;2;2025-06-30;Loja;0;;;Ativo
+1129;3;5;2025-03-06;Loja;0;;;Ativo
+1130;5;2;2025-07-17;WhatsApp;12;;;Ativo
+1131;2;2;2024-08-04;Loja;12;;;Ativo
+1132;4;3;2025-08-16;Vendedor externo;0;;;Ativo
+1133;1;1;2026-02-10;Loja;12;2026-06-30;Instabilidade na conexão;Cancelado
+1134;1;2;2025-12-26;WhatsApp;12;;;Ativo
+1135;3;2;2025-05-27;WhatsApp;12;;;Ativo
+1136;3;3;2023-03-25;WhatsApp;12;;;Ativo
+1137;4;1;2025-11-02;WhatsApp;0;;;Ativo
+1138;1;1;2024-06-08;WhatsApp;0;;;Ativo
+1139;3;4;2025-11-29;Vendedor externo;12;;;Ativo
+1140;2;1;2025-02-10;Loja;12;;;Ativo
+1141;2;2;2026-06-14;Vendedor externo;12;;;Ativo
+1142;1;4;2024-04-28;Vendedor externo;12;;;Ativo
+1143;5;4;2026-08-24;Site;0;;;Ativo
+1144;1;1;2026-04-22;Loja;12;;;Ativo
+1145;4;5;2024-04-18;Loja;12;;;Ativo
+1146;3;4;2024-11-21;Site;0;;;Ativo
+1147;3;2;2025-01-29;Loja;12;;;Ativo
+1148;3;4;2026-01-04;Loja;12;;;Ativo
+1149;4;4;2025-09-12;Loja;0;;;Ativo
+1150;1;3;2026-05-03;Site;12;;;Ativo
+1151;1;3;2024-06-12;Loja;0;2026-05-30;Instabilidade na conexão;Cancelado
+1152;2;4;2024-12-22;Loja;12;;;Ativo
+1153;2;6;2024-09-08;Loja;12;2026-07-16;Instabilidade na conexão;Cancelado
+1154;1;3;2026-07-24;WhatsApp;0;;;Ativo
+1155;1;5;2024-03-12;Loja;12;2026-04-18;Concorrente com oferta melhor;Cancelado
+1156;2;4;2025-04-19;Loja;12;2026-09-08;Instabilidade na conexão;Cancelado
+1157;1;5;2023-06-21;WhatsApp;0;2026-08-06;Concorrente com oferta melhor;Cancelado
+1158;1;6;2026-04-30;WhatsApp;12;;;Ativo
+1159;4;1;2024-07-03;Loja;12;;;Ativo
+1160;2;1;2024-05-02;Vendedor externo;0;2026-08-24;Instabilidade na conexão;Cancelado
+1161;5;3;2025-04-13;Loja;0;;;Ativo
+1162;5;2;2024-12-14;Site;0;;;Ativo
+1163;1;3;2026-04-27;Vendedor externo;12;;;Ativo
+1164;3;4;2025-01-29;WhatsApp;12;2026-07-12;Mudança de cidade;Cancelado
+1165;2;6;2025-01-09;WhatsApp;12;2026-09-23;Concorrente com oferta melhor;Cancelado
+1166;3;2;2023-05-31;Vendedor externo;0;;;Ativo
+1167;1;4;2023-02-01;Loja;0;2026-02-18;Atendimento;Cancelado
+1168;1;1;2024-07-23;WhatsApp;12;;;Ativo
+1169;1;3;2026-11-28;Site;0;;;Ativo
+1170;2;1;2026-08-04;WhatsApp;12;;;Ativo
+1171;5;2;2025-06-18;Loja;12;;;Ativo
+1172;3;3;2025-06-21;Site;12;;;Ativo
+1173;3;4;2024-07-13;WhatsApp;12;2026-04-26;Instabilidade na conexão;Cancelado
+1174;5;3;2023-09-11;WhatsApp;12;;;Ativo
+1175;3;2;2023-01-13;Vendedor externo;0;;;Ativo
+1176;1;1;2024-04-29;Vendedor externo;12;;;Ativo
+1177;4;1;2024-03-28;Vendedor externo;0;;;Ativo
+1178;2;6;2023-10-01;Site;0;;;Ativo
+1179;1;6;2024-01-06;WhatsApp;12;;;Ativo
+1180;2;2;2023-02-05;Vendedor externo;0;;;Ativo
+1181;5;1;2025-05-19;Loja;12;;;Ativo
+1182;1;2;2026-08-19;Loja;12;2026-12-10;Preço;Cancelado
+1183;2;4;2025-09-14;Site;12;;;Ativo
+1184;1;2;2024-10-02;WhatsApp;12;2026-05-25;Atendimento;Cancelado
+1185;1;1;2024-08-23;Loja;12;;;Ativo
+1186;1;2;2024-03-15;Vendedor externo;12;;;Ativo
+1187;3;1;2023-07-23;WhatsApp;0;;;Ativo
+1188;4;2;2025-05-05;Vendedor externo;12;;;Ativo
+1189;1;1;2025-03-21;Loja;0;;;Ativo
+1190;1;3;2023-01-11;Vendedor externo;0;;;Ativo
+1191;1;3;2024-08-17;Vendedor externo;0;;;Ativo
+1192;1;1;2024-02-02;Loja;0;;;Ativo
+1193;2;3;2023-09-01;Site;0;2026-09-20;Instabilidade na conexão;Cancelado
+1194;3;2;2025-10-02;Vendedor externo;0;;;Ativo
+1195;3;4;2025-01-21;Site;12;;;Ativo
+1196;2;6;2025-06-25;Site;12;;;Ativo
+1197;2;1;2025-10-17;Loja;12;;;Ativo
+1198;1;5;2026-11-04;Loja;0;;;Ativo
+1199;1;4;2026-02-21;Loja;0;;;Ativo
+1200;5;4;2025-06-06;Loja;12;2026-04-10;Instabilidade na conexão;Cancelado
+1201;3;2;2026-06-11;Site;0;;;Ativo
+1202;5;2;2024-11-13;Loja;12;;;Ativo
+1203;4;1;2026-11-09;Site;12;2026-12-16;Mudança de cidade;Cancelado
+1204;3;6;2025-12-24;Loja;12;;;Ativo
+1205;5;3;2025-07-19;Loja;0;;;Ativo
+1206;2;2;2026-07-15;Loja;12;;;Ativo
+1207;1;3;2025-01-06;Vendedor externo;12;;;Ativo
+1208;1;1;2025-10-27;Site;12;2026-09-11;Preço;Cancelado
+1209;1;1;2024-02-12;WhatsApp;0;;;Ativo
+1210;1;3;2026-10-09;Loja;12;;;Ativo
+1211;2;2;2025-06-10;Site;12;;;Ativo
+1212;3;4;2026-01-23;WhatsApp;0;;;Ativo
+1213;3;3;2024-10-20;Vendedor externo;12;;;Ativo
+1214;2;3;2026-05-24;Loja;12;;;Ativo
+1215;1;5;2023-04-17;Loja;0;2026-03-03;Preço;Cancelado
+1216;3;1;2023-06-13;Loja;12;;;Ativo
+1217;2;4;2024-12-26;WhatsApp;12;;;Ativo
+1218;1;4;2025-11-13;Vendedor externo;12;;;Ativo
+1219;1;1;2026-03-03;Vendedor externo;0;;;Ativo
+1220;2;1;2024-09-21;WhatsApp;12;;;Ativo
+1221;1;1;2025-07-18;Vendedor externo;0;2026-10-15;Concorrente com oferta melhor;Cancelado
+1222;3;1;2025-03-01;Site;12;;;Ativo
+1223;3;3;2026-10-06;Loja;12;;;Ativo
+1224;3;1;2025-07-24;Vendedor externo;12;;;Ativo
+1225;1;3;2024-08-19;Loja;12;;;Ativo
+1226;3;1;2026-10-18;Loja;0;2026-12-25;Mudança de cidade;Cancelado
+1227;3;1;2023-06-03;Vendedor externo;0;;;Ativo
+1228;1;2;2026-11-08;Site;12;;;Ativo
+1229;3;1;2023-08-09;Site;0;;;Ativo
+1230;2;6;2024-02-17;Site;12;;;Ativo
+1231;2;2;2026-03-20;Loja;12;;;Ativo
+1232;1;1;2025-11-15;WhatsApp;12;2026-01-03;Atendimento;Cancelado
+1233;2;1;2026-10-19;Loja;0;;;Ativo
+1234;1;2;2025-12-08;WhatsApp;12;;;Ativo
+1235;1;3;2025-06-29;Site;0;2026-05-31;Mudança de cidade;Cancelado
+1236;1;4;2024-05-10;Vendedor externo;12;;;Ativo
+1237;5;2;2023-01-07;Vendedor externo;12;;;Ativo
+1238;1;3;2023-06-27;WhatsApp;12;;;Ativo
+1239;2;2;2024-03-01;Site;12;;;Ativo
+1240;2;5;2023-02-28;Loja;0;;;Ativo
+1241;4;3;2024-12-27;WhatsApp;12;;;Ativo
+1242;2;1;2026-01-16;Loja;12;;;Ativo
+1243;4;4;2026-10-09;Vendedor externo;0;;;Ativo
+1244;1;5;2024-12-01;Site;12;;;Ativo
+1245;1;2;2026-06-05;WhatsApp;12;;;Ativo
+1246;2;6;2026-11-10;Vendedor externo;12;;;Ativo
+1247;2;5;2026-05-14;Loja;12;;;Ativo
+1248;3;1;2024-10-26;Vendedor externo;0;;;Ativo
+1249;4;4;2024-04-10;Vendedor externo;12;;;Ativo
+1250;2;3;2026-10-30;Vendedor externo;0;;;Ativo
+1251;5;3;2023-12-12;Vendedor externo;12;;;Ativo
+1252;2;2;2024-08-11;WhatsApp;0;2026-11-26;Mudança de cidade;Cancelado
+1253;1;5;2023-04-16;Loja;12;;;Ativo
+1254;2;3;2026-02-08;Loja;0;;;Ativo
+1255;1;3;2025-07-18;Vendedor externo;0;;;Ativo
+1256;3;1;2023-05-02;Loja;0;;;Ativo
+1257;1;2;2023-11-14;Loja;12;;;Ativo
+1258;2;5;2025-03-05;Vendedor externo;0;;;Ativo
+1259;2;4;2025-02-11;Vendedor externo;0;;;Ativo
+1260;1;1;2026-02-20;Vendedor externo;0;;;Ativo
+1261;1;5;2024-01-16;Vendedor externo;0;2026-08-17;Instabilidade na conexão;Cancelado
+1262;3;5;2026-08-15;WhatsApp;12;;;Ativo
+1263;1;3;2024-09-27;Vendedor externo;12;;;Ativo
+1264;2;1;2026-03-22;Vendedor externo;0;;;Ativo
+1265;2;3;2023-12-07;Loja;0;;;Ativo
+1266;1;1;2023-02-22;Loja;0;;;Ativo
+1267;1;2;2023-03-20;Vendedor externo;12;;;Ativo
+1268;3;3;2024-06-16;Site;0;;;Ativo
+1269;5;5;2026-09-25;Loja;0;;;Ativo
+1270;1;2;2023-03-11;Loja;0;2026-10-21;Concorrente com oferta melhor;Cancelado
+1271;5;5;2024-06-11;Vendedor externo;0;2026-09-06;Preço;Cancelado
+1272;2;5;2023-06-06;Vendedor externo;12;;;Ativo
+1273;3;1;2026-08-25;WhatsApp;0;;;Ativo
+1274;3;1;2025-08-23;Loja;12;;;Ativo
+1275;3;4;2025-12-26;Loja;12;2026-11-13;Atendimento;Cancelado
+1276;3;4;2025-10-16;Vendedor externo;12;2026-04-07;Concorrente com oferta melhor;Cancelado
+1277;2;2;2025-07-28;Loja;0;;;Ativo
+1278;2;3;2026-01-11;Loja;12;;;Ativo
+1279;2;3;2023-01-12;Vendedor externo;12;;;Ativo
+1280;1;4;2026-05-22;Vendedor externo;12;;;Ativo
+1281;3;4;2025-11-24;Loja;12;;;Ativo
+1282;1;1;2025-11-23;Site;0;;;Ativo
+1283;1;1;2024-07-16;Vendedor externo;12;2026-09-12;Instabilidade na conexão;Cancelado
+1284;1;1;2026-02-19;Loja;12;;;Ativo
+1285;1;6;2024-06-30;WhatsApp;0;2026-05-29;Instabilidade na conexão;Cancelado
+1286;3;5;2023-03-12;Vendedor externo;0;;;Ativo
+1287;3;4;2026-07-22;WhatsApp;12;;;Ativo
+1288;2;1;2023-12-02;WhatsApp;0;;;Ativo
+1289;1;3;2023-05-26;Vendedor externo;12;;;Ativo
+1290;2;1;2025-06-08;Loja;12;;;Ativo
+1291;2;2;2023-12-01;WhatsApp;12;;;Ativo
+1292;3;1;2026-05-12;Vendedor externo;0;;;Ativo
+1293;2;5;2024-09-26;Loja;12;;;Ativo
+1294;2;1;2023-01-07;Vendedor externo;12;;;Ativo
+1295;2;3;2026-09-22;Vendedor externo;12;;;Ativo
+1296;5;6;2025-01-05;WhatsApp;0;2026-10-20;Instabilidade na conexão;Cancelado
+1297;3;4;2024-01-12;Site;0;;;Ativo
+1298;2;1;2025-08-26;WhatsApp;0;;;Ativo
+1299;2;5;2025-01-28;Site;0;;;Ativo
+1300;1;3;2023-02-12;Site;12;;;Ativo
+1301;5;2;2025-12-22;Vendedor externo;0;;;Ativo
+1302;2;3;2024-07-27;WhatsApp;0;;;Ativo
+1303;1;5;2025-09-27;WhatsApp;12;;;Ativo
+1304;5;2;2026-07-04;WhatsApp;0;;;Ativo
+1305;3;3;2025-05-23;WhatsApp;0;2026-11-11;Instabilidade na conexão;Cancelado
+1306;1;2;2025-08-18;Vendedor externo;12;;;Ativo
+1307;1;1;2023-12-31;Vendedor externo;12;;;Ativo
+1308;1;4;2023-12-06;WhatsApp;12;;;Ativo
+1309;2;1;2024-08-16;Loja;12;;;Ativo
+1310;1;2;2026-05-04;Loja;0;;;Ativo
+1311;5;2;2025-01-19;Vendedor externo;12;;;Ativo
+1312;5;1;2024-05-12;Vendedor externo;12;;;Ativo
+1313;2;2;2026-01-19;Vendedor externo;12;;;Ativo
+1314;2;3;2026-05-05;Loja;12;;;Ativo
+1315;1;2;2026-07-14;Loja;12;2026-09-29;Preço;Cancelado
+1316;1;1;2024-03-03;Loja;12;;;Ativo
+1317;3;5;2025-10-11;Vendedor externo;12;2026-03-28;Preço;Cancelado
+1318;1;6;2025-04-24;Loja;0;;;Ativo
+1319;1;2;2024-10-04;Site;12;2026-08-10;Preço;Cancelado
+1320;2;2;2024-07-21;Loja;0;2026-01-10;Atendimento;Cancelado
+1321;1;1;2023-06-13;Vendedor externo;12;2026-09-02;Mudança de cidade;Cancelado
+1322;2;1;2024-01-28;Vendedor externo;12;2026-06-29;Instabilidade na conexão;Cancelado
+1323;3;2;2025-02-25;Vendedor externo;0;;;Ativo
+1324;3;6;2026-06-21;WhatsApp;0;2026-11-04;Instabilidade na conexão;Cancelado
+1325;2;4;2026-05-23;Loja;12;;;Ativo
+1326;4;2;2023-09-26;Vendedor externo;0;;;Ativo
+1327;2;6;2025-08-29;Site;0;;;Ativo
+1328;4;2;2023-05-02;Loja;0;2026-01-03;Preço;Cancelado
+1329;2;1;2025-08-23;WhatsApp;12;2026-05-18;Atendimento;Cancelado
+1330;1;2;2024-05-03;WhatsApp;0;;;Ativo
+1331;5;1;2024-10-05;Site;12;;;Ativo
+1332;1;5;2025-10-23;WhatsApp;12;;;Ativo
+1333;1;2;2024-08-30;Vendedor externo;0;;;Ativo
+1334;1;3;2026-02-28;Vendedor externo;12;;;Ativo
+1335;2;2;2025-02-02;Loja;0;;;Ativo
+1336;2;5;2026-11-29;Loja;0;;;Ativo
+1337;2;3;2025-07-01;Loja;12;;;Ativo
+1338;4;2;2024-02-28;Vendedor externo;0;;;Ativo
+1339;1;1;2026-01-13;Vendedor externo;12;;;Ativo
+1340;2;5;2024-08-06;Loja;12;;;Ativo
+1341;2;3;2025-02-02;Site;0;;;Ativo
+1342;4;1;2023-07-15;Loja;12;;;Ativo
+1343;1;5;2023-06-20;Vendedor externo;12;2026-03-15;Atendimento;Cancelado
+1344;1;1;2025-04-02;Loja;0;;;Ativo
+1345;2;2;2023-09-24;Site;12;;;Ativo
+1346;3;3;2026-11-27;Vendedor externo;12;;;Ativo
+1347;3;2;2026-05-08;Site;12;;;Ativo
+1348;2;2;2025-09-29;Loja;12;2026-03-03;Instabilidade na conexão;Cancelado
+1349;3;1;2025-11-16;Vendedor externo;12;;;Ativo
+1350;2;1;2025-05-01;WhatsApp;0;;;Ativo
+1351;1;1;2023-03-28;Loja;0;;;Ativo
+1352;1;1;2024-07-15;Vendedor externo;12;2026-07-05;Preço;Cancelado
+1353;1;6;2024-12-09;Loja;12;;;Ativo
+1354;2;3;2026-08-01;Loja;12;;;Ativo
+1355;2;2;2023-11-10;Vendedor externo;0;2026-06-08;Concorrente com oferta melhor;Cancelado
+1356;2;2;2024-12-11;Loja;12;;;Ativo
+1357;2;4;2024-05-07;Vendedor externo;0;2026-05-17;Concorrente com oferta melhor;Cancelado
+1358;2;1;2023-07-12;WhatsApp;0;;;Ativo
+1359;3;1;2023-05-28;Loja;12;;;Ativo
+1360;3;3;2024-06-06;Loja;0;;;Ativo
+1361;2;2;2023-04-28;WhatsApp;12;;;Ativo
+1362;2;4;2023-04-07;Vendedor externo;12;;;Ativo
+1363;2;5;2024-05-16;WhatsApp;12;;;Ativo
+1364;2;5;2023-10-16;Vendedor externo;12;;;Ativo
+1365;2;1;2025-03-04;Site;12;;;Ativo
+1366;2;1;2023-01-26;WhatsApp;12;;;Ativo
+1367;3;1;2024-03-07;Loja;12;;;Ativo
+1368;3;4;2024-10-10;WhatsApp;12;;;Ativo
+1369;1;5;2026-10-09;Site;0;;;Ativo
+1370;2;6;2025-06-26;WhatsApp;0;;;Ativo
+1371;4;1;2026-06-13;Loja;12;;;Ativo
+1372;1;5;2024-05-05;Vendedor externo;0;;;Ativo
+1373;4;3;2024-10-05;Loja;12;;;Ativo
+1374;1;5;2024-08-24;WhatsApp;0;2026-02-01;Preço;Cancelado
+1375;2;3;2026-06-22;Loja;12;;;Ativo
+1376;2;1;2026-10-03;Loja;0;;;Ativo
+1377;1;1;2026-10-08;WhatsApp;12;;;Ativo
+1378;4;6;2025-12-11;Vendedor externo;0;;;Ativo
+1379;2;2;2024-12-20;Vendedor externo;12;;;Ativo
+1380;5;2;2025-02-12;Vendedor externo;12;2026-06-15;Concorrente com oferta melhor;Cancelado
+1381;1;2;2026-11-03;Site;0;;;Ativo
+1382;4;2;2024-02-11;Loja;0;;;Ativo
+1383;5;6;2024-05-10;Vendedor externo;12;;;Ativo
+1384;2;1;2026-07-06;Vendedor externo;12;;;Ativo
+1385;1;1;2024-07-06;Vendedor externo;0;;;Ativo
+1386;3;4;2023-12-03;Vendedor externo;12;;;Ativo
+1387;2;3;2025-03-12;Loja;0;;;Ativo
+1388;5;1;2024-04-10;Site;0;;;Ativo
+1389;2;1;2026-06-27;Loja;12;;;Ativo
+1390;1;1;2026-07-23;Vendedor externo;0;;;Ativo
+1391;1;1;2024-03-13;Vendedor externo;12;2026-03-08;Preço;Cancelado
+1392;3;1;2025-01-27;Vendedor externo;0;;;Ativo
+1393;5;1;2026-11-08;Site;12;;;Ativo
+1394;1;4;2025-11-27;Vendedor externo;12;;;Ativo
+1395;3;5;2023-11-05;WhatsApp;0;;;Ativo
+1396;5;5;2025-04-24;Site;12;;;Ativo
+1397;1;2;2025-06-05;WhatsApp;12;2026-01-20;Atendimento;Cancelado
+1398;1;2;2025-07-23;Site;0;;;Ativo
+1399;3;6;2023-02-05;Loja;12;;;Ativo
+1400;3;4;2024-03-04;WhatsApp;0;;;Ativo
+1401;1;3;2026-05-07;WhatsApp;0;;;Ativo
+1402;4;1;2023-12-12;Vendedor externo;12;;;Ativo
+1403;2;2;2024-03-04;Loja;0;;;Ativo
+1404;4;2;2024-04-06;Loja;12;;;Ativo
+1405;4;3;2023-09-11;Site;12;;;Ativo
+1406;3;1;2023-08-11;Vendedor externo;12;;;Ativo
+1407;2;6;2024-05-11;Site;0;;;Ativo
+1408;1;3;2026-06-04;Vendedor externo;0;;;Ativo
+1409;2;3;2023-01-03;Vendedor externo;12;2026-09-29;Instabilidade na conexão;Cancelado
+1410;1;1;2024-02-10;Loja;0;;;Ativo
+1411;3;4;2023-03-28;Loja;12;;;Ativo
+1412;1;4;2025-03-13;Loja;12;;;Ativo
+1413;2;1;2023-12-25;WhatsApp;12;;;Ativo
+1414;1;3;2026-02-06;Vendedor externo;12;;;Ativo
+1415;1;3;2025-04-16;WhatsApp;0;;;Ativo
+1416;1;5;2026-01-25;Site;0;;;Ativo
+1417;3;1;2025-06-26;WhatsApp;12;;;Ativo
+1418;3;5;2024-09-18;Vendedor externo;12;;;Ativo
+1419;1;2;2026-05-16;WhatsApp;0;;;Ativo
+1420;4;1;2024-11-12;WhatsApp;0;;;Ativo
+1421;4;1;2026-09-20;Site;12;;;Ativo
+1422;2;1;2026-11-23;Loja;0;;;Ativo
+1423;3;1;2025-04-22;Site;12;;;Ativo
+1424;2;2;2025-08-22;Loja;0;;;Ativo
+1425;1;4;2024-01-01;Loja;12;;;Ativo
+1426;2;1;2026-03-10;Site;12;;;Ativo
+1427;1;6;2025-08-18;WhatsApp;12;;;Ativo
+1428;4;1;2026-07-14;Loja;12;;;Ativo
+1429;5;3;2024-01-17;Loja;0;;;Ativo
+1430;4;6;2026-01-31;WhatsApp;12;;;Ativo
+1431;2;5;2024-11-03;Loja;12;;;Ativo
+1432;2;3;2023-09-22;Loja;12;2026-01-04;Preço;Cancelado
+1433;5;4;2023-09-02;Site;12;;;Ativo
+1434;1;1;2025-03-14;WhatsApp;12;;;Ativo
+1435;1;1;2024-04-01;Vendedor externo;0;;;Ativo
+1436;2;2;2023-05-26;Vendedor externo;12;2026-10-04;Concorrente com oferta melhor;Cancelado
+1437;2;1;2024-09-02;Vendedor externo;0;;;Ativo
+1438;2;2;2025-07-22;Loja;12;;;Ativo
+1439;1;1;2024-04-01;WhatsApp;12;2026-11-28;Instabilidade na conexão;Cancelado
+1440;2;5;2026-09-28;WhatsApp;12;;;Ativo
+1441;1;5;2026-01-19;Vendedor externo;0;2026-03-08;Instabilidade na conexão;Cancelado
+1442;1;5;2025-01-03;Vendedor externo;12;;;Ativo
+1443;1;4;2026-08-29;Vendedor externo;12;;;Ativo
+1444;2;1;2024-09-11;Loja;0;;;Ativo
+1445;4;1;2023-07-19;Vendedor externo;12;;;Ativo
+1446;2;3;2023-02-21;Loja;0;;;Ativo
+1447;3;3;2026-09-03;WhatsApp;12;;;Ativo
+1448;3;2;2026-10-04;Vendedor externo;12;;;Ativo
+1449;2;2;2025-11-23;Site;12;;;Ativo
+1450;4;2;2023-05-28;Vendedor externo;0;;;Ativo
+1451;3;1;2024-02-24;WhatsApp;0;2026-10-08;Instabilidade na conexão;Cancelado
+1452;2;2;2023-02-28;WhatsApp;12;;;Ativo
+1453;1;2;2023-03-15;Vendedor externo;12;2026-07-03;Preço;Cancelado
+1454;1;3;2023-12-18;Loja;0;2026-03-19;Instabilidade na conexão;Cancelado
+1455;5;6;2025-03-29;Site;0;;;Ativo
+1456;3;3;2023-04-04;Loja;12;;;Ativo
+1457;5;4;2026-11-08;Loja;12;2026-12-24;Instabilidade na conexão;Cancelado
+1458;4;5;2024-10-12;Loja;0;2026-01-30;Preço;Cancelado
+1459;1;1;2024-01-13;WhatsApp;12;;;Ativo
+1460;3;3;2025-01-08;Loja;12;;;Ativo
+1461;2;2;2026-02-03;Vendedor externo;12;;;Ativo
+1462;3;3;2024-03-22;Vendedor externo;12;;;Ativo
+1463;1;1;2023-03-09;Site;12;2026-02-03;Instabilidade na conexão;Cancelado
+1464;1;5;2023-03-14;Vendedor externo;0;;;Ativo
+1465;3;6;2026-05-03;WhatsApp;12;;;Ativo
+1466;3;1;2023-06-09;Site;0;;;Ativo
+1467;2;1;2025-06-27;Vendedor externo;12;;;Ativo
+1468;2;1;2024-07-03;Vendedor externo;0;;;Ativo
+1469;2;4;2026-01-16;WhatsApp;0;;;Ativo
+1470;5;3;2023-03-28;WhatsApp;0;;;Ativo
+1471;2;1;2026-07-07;Vendedor externo;0;;;Ativo
+1472;2;5;2025-09-25;Vendedor externo;12;;;Ativo
+1473;2;2;2024-10-04;Loja;12;;;Ativo
+1474;2;2;2023-10-24;Loja;12;;;Ativo
+1475;2;2;2026-10-29;Loja;12;;;Ativo
+1476;2;3;2024-03-07;Loja;12;;;Ativo
+1477;4;2;2024-12-02;Loja;0;;;Ativo
+1478;4;1;2024-07-17;WhatsApp;12;;;Ativo
+1479;5;2;2023-11-26;WhatsApp;0;2026-03-20;Instabilidade na conexão;Cancelado
+1480;2;5;2024-08-18;WhatsApp;0;;;Ativo
+1481;2;2;2023-08-05;Site;0;;;Ativo
+1482;3;5;2023-01-03;Site;0;;;Ativo
+1483;4;3;2024-02-19;Loja;12;;;Ativo
+1484;2;4;2023-06-10;Site;0;;;Ativo
+1485;3;1;2024-08-16;Vendedor externo;0;;;Ativo
+1486;3;4;2026-05-18;Vendedor externo;12;;;Ativo
+1487;3;1;2023-08-21;WhatsApp;0;;;Ativo
+1488;3;1;2023-01-02;WhatsApp;12;;;Ativo
+1489;1;1;2023-06-08;Loja;12;;;Ativo
+1490;2;1;2024-12-27;Site;12;;;Ativo
+1491;2;6;2024-01-29;Loja;12;;;Ativo
+1492;1;6;2024-11-30;Loja;0;;;Ativo
+1493;4;4;2023-02-11;Loja;12;;;Ativo
+1494;2;1;2024-04-21;Loja;12;;;Ativo
+1495;1;5;2024-08-09;Site;0;;;Ativo
+1496;3;4;2024-09-08;Vendedor externo;12;;;Ativo
+1497;3;2;2025-02-27;Loja;12;;;Ativo
+1498;3;2;2026-01-21;WhatsApp;0;;;Ativo
+1499;2;3;2024-10-30;Vendedor externo;12;;;Ativo
+1500;4;1;2026-04-17;Vendedor externo;0;;;Ativo
+1501;2;2;2025-01-27;Vendedor externo;12;;;Ativo
+1502;2;4;2024-01-08;Vendedor externo;12;2026-10-03;Mudança de cidade;Cancelado
+1503;1;1;2023-11-24;Vendedor externo;12;2026-12-16;Concorrente com oferta melhor;Cancelado
+1504;3;2;2024-04-06;Site;12;;;Ativo
+1505;3;3;2025-05-04;WhatsApp;0;;;Ativo
+1506;2;4;2023-12-13;Vendedor externo;12;;;Ativo
+1507;2;6;2026-07-31;Vendedor externo;12;;;Ativo
+1508;3;5;2024-11-17;Loja;12;;;Ativo
+1509;3;3;2026-05-19;WhatsApp;0;;;Ativo
+1510;1;3;2025-09-04;Vendedor externo;0;;;Ativo
+1511;5;3;2024-04-21;Vendedor externo;0;;;Ativo
+1512;3;3;2023-11-23;WhatsApp;12;;;Ativo
+1513;5;1;2025-11-29;Vendedor externo;12;2026-10-22;Instabilidade na conexão;Cancelado
+1514;5;4;2024-04-17;Loja;12;;;Ativo
+1515;4;4;2023-12-20;Vendedor externo;0;;;Ativo
+1516;3;2;2026-08-23;Vendedor externo;0;;;Ativo
+1517;2;5;2024-11-21;WhatsApp;12;;;Ativo
+1518;1;3;2023-03-11;Vendedor externo;12;;;Ativo
+1519;2;2;2024-12-08;Loja;0;;;Ativo
+1520;3;1;2024-10-20;Vendedor externo;12;;;Ativo
+1521;2;1;2026-05-20;Vendedor externo;0;;;Ativo
+1522;4;2;2025-10-14;Loja;12;;;Ativo
+1523;1;2;2023-10-01;WhatsApp;12;2026-11-01;Mudança de cidade;Cancelado
+1524;2;1;2023-08-04;Loja;0;;;Ativo
+1525;2;1;2025-05-13;WhatsApp;12;;;Ativo
+1526;2;1;2023-03-09;WhatsApp;12;;;Ativo
+1527;1;4;2024-04-01;Loja;12;;;Ativo
+1528;1;4;2023-07-17;Site;12;;;Ativo
+1529;4;2;2023-01-30;WhatsApp;12;;;Ativo
+1530;2;1;2026-08-06;Site;0;;;Ativo
+1531;1;1;2023-05-09;Vendedor externo;12;;;Ativo
+1532;1;1;2023-01-14;Loja;12;;;Ativo
+1533;2;2;2026-08-27;Loja;0;;;Ativo
+1534;1;1;2023-09-27;Site;12;;;Ativo
+1535;3;2;2026-03-13;Loja;12;;;Ativo
+1536;3;6;2023-02-14;Loja;0;;;Ativo
+1537;1;2;2023-08-08;Vendedor externo;12;;;Ativo
+1538;2;5;2023-06-08;Loja;0;;;Ativo
+1539;1;1;2025-10-06;WhatsApp;12;;;Ativo
+1540;2;1;2025-06-05;WhatsApp;12;;;Ativo
+1541;4;6;2024-11-10;WhatsApp;12;;;Ativo
+1542;2;2;2023-12-12;Loja;12;;;Ativo
+1543;4;3;2023-05-08;Vendedor externo;0;;;Ativo
+1544;1;6;2025-03-24;WhatsApp;12;;;Ativo
+1545;2;3;2023-11-26;Vendedor externo;12;;;Ativo
+1546;2;2;2025-04-23;Site;0;;;Ativo
+1547;2;3;2025-09-10;Vendedor externo;12;;;Ativo
+1548;5;1;2026-04-29;Vendedor externo;12;;;Ativo
+1549;1;1;2024-12-07;Vendedor externo;12;;;Ativo
+1550;4;1;2023-01-07;Site;12;2026-04-25;Instabilidade na conexão;Cancelado
+1551;4;5;2024-02-06;Loja;12;;;Ativo
+1552;2;3;2026-05-05;WhatsApp;12;;;Ativo
+1553;2;1;2025-02-01;Vendedor externo;12;;;Ativo
+1554;2;1;2025-06-04;Loja;12;;;Ativo
+1555;1;4;2024-10-16;Site;12;;;Ativo
+1556;3;5;2023-08-21;Vendedor externo;12;;;Ativo
+1557;2;1;2026-07-06;Loja;12;;;Ativo
+1558;5;2;2026-01-10;WhatsApp;0;;;Ativo
+1559;3;5;2026-11-24;Site;0;;;Ativo
+1560;2;5;2026-05-08;Vendedor externo;12;2026-11-11;Atendimento;Cancelado
+1561;3;5;2024-02-21;WhatsApp;0;;;Ativo
+1562;2;1;2023-12-30;Vendedor externo;12;;;Ativo
+1563;4;1;2023-12-22;Vendedor externo;12;;;Ativo
+1564;1;2;2026-08-06;Loja;12;;;Ativo
+1565;5;1;2025-03-07;Loja;12;;;Ativo
+1566;3;5;2024-10-11;Vendedor externo;12;2026-12-01;Mudança de cidade;Cancelado
+1567;4;1;2026-10-16;Vendedor externo;12;;;Ativo
+1568;2;3;2025-05-12;Site;12;;;Ativo
+1569;4;5;2026-07-24;Vendedor externo;12;2026-11-11;Atendimento;Cancelado
+1570;2;6;2026-11-09;Vendedor externo;0;;;Ativo
+1571;3;3;2023-04-24;WhatsApp;0;;;Ativo
+1572;1;6;2024-05-31;WhatsApp;12;;;Ativo
+1573;2;1;2025-11-15;Vendedor externo;0;;;Ativo
+1574;2;2;2026-03-08;WhatsApp;12;;;Ativo
+1575;2;1;2023-08-01;WhatsApp;12;;;Ativo
+1576;2;6;2024-03-31;Loja;0;;;Ativo
+1577;4;5;2025-02-22;Vendedor externo;12;2026-03-08;Atendimento;Cancelado
+1578;1;1;2026-02-16;Loja;0;2026-09-16;Instabilidade na conexão;Cancelado
+1579;3;1;2023-06-11;Site;12;;;Ativo
+1580;1;2;2025-05-09;Vendedor externo;12;;;Ativo
+1581;3;1;2024-02-28;Vendedor externo;0;;;Ativo
+1582;3;5;2023-11-06;WhatsApp;0;;;Ativo
+1583;2;1;2025-01-07;Vendedor externo;12;;;Ativo
+1584;3;4;2024-08-15;Vendedor externo;0;2026-12-06;Concorrente com oferta melhor;Cancelado
+1585;4;3;2025-06-28;WhatsApp;12;;;Ativo
+1586;3;2;2024-03-30;WhatsApp;12;;;Ativo
+1587;2;1;2026-03-23;WhatsApp;0;;;Ativo
+1588;2;6;2023-04-22;Loja;0;;;Ativo
+1589;3;3;2026-05-17;Loja;0;;;Ativo
+1590;1;2;2023-02-12;Loja;12;;;Ativo
+1591;3;2;2025-11-18;Vendedor externo;12;;;Ativo
+1592;2;5;2024-05-10;Loja;0;2026-11-12;Mudança de cidade;Cancelado
+1593;3;5;2024-07-02;WhatsApp;12;;;Ativo
+1594;1;5;2023-01-28;Site;12;;;Ativo
+1595;1;3;2025-10-01;Vendedor externo;12;;;Ativo
+1596;5;5;2023-08-25;Vendedor externo;0;;;Ativo
+1597;4;1;2025-07-31;Vendedor externo;0;;;Ativo
+1598;4;4;2025-11-03;Vendedor externo;0;;;Ativo
+1599;5;2;2026-04-23;Site;12;;;Ativo
+1600;2;3;2025-10-09;Loja;12;;;Ativo
+1601;1;6;2024-03-07;WhatsApp;0;;;Ativo
+1602;1;6;2025-11-22;Loja;0;;;Ativo
+1603;2;2;2026-03-27;Vendedor externo;12;;;Ativo
+1604;1;3;2024-03-29;WhatsApp;0;;;Ativo
+1605;5;5;2023-06-27;Loja;12;;;Ativo
+1606;1;6;2026-06-26;Loja;12;;;Ativo
+1607;1;4;2023-07-31;Site;0;;;Ativo
+1608;1;1;2025-04-29;Vendedor externo;12;;;Ativo
+1609;1;2;2023-12-04;Loja;0;;;Ativo
+1610;1;5;2023-06-30;Loja;12;;;Ativo
+1611;3;4;2026-01-15;Loja;0;2026-09-06;Instabilidade na conexão;Cancelado
+1612;2;4;2023-07-25;Vendedor externo;12;;;Ativo
+1613;2;3;2025-08-16;Loja;12;;;Ativo
+1614;4;2;2025-09-18;WhatsApp;0;;;Ativo
+1615;2;2;2023-03-28;WhatsApp;12;;;Ativo
+1616;3;5;2023-09-05;Loja;12;;;Ativo
+1617;2;1;2026-02-09;Vendedor externo;12;;;Ativo
+1618;1;4;2024-12-26;Loja;0;;;Ativo
+1619;2;4;2023-06-23;Vendedor externo;0;2026-02-06;Instabilidade na conexão;Cancelado
+1620;5;5;2026-11-19;Loja;0;;;Ativo
+1621;3;2;2024-01-14;WhatsApp;12;;;Ativo
+1622;1;4;2023-01-06;Vendedor externo;12;2026-11-12;Preço;Cancelado
+1623;2;1;2026-08-14;Vendedor externo;0;;;Ativo
+1624;4;1;2023-01-24;Site;12;;;Ativo
+1625;3;2;2025-03-02;WhatsApp;0;2026-03-27;Instabilidade na conexão;Cancelado
+1626;2;1;2026-11-21;Vendedor externo;12;;;Ativo
+1627;4;6;2025-04-06;Loja;12;;;Ativo
+1628;3;5;2025-04-16;WhatsApp;12;;;Ativo
+1629;3;1;2024-07-09;Vendedor externo;12;;;Ativo
+1630;1;5;2023-07-01;Site;0;;;Ativo
+1631;1;2;2025-03-29;Site;12;;;Ativo
+1632;5;4;2026-07-07;Vendedor externo;12;;;Ativo
+1633;2;5;2023-05-11;Loja;0;;;Ativo
+1634;2;3;2026-06-12;Loja;12;;;Ativo
+1635;2;1;2024-08-16;Vendedor externo;12;;;Ativo
+1636;1;1;2025-02-05;Vendedor externo;12;;;Ativo
+1637;4;2;2023-08-25;WhatsApp;12;;;Ativo
+1638;1;6;2025-06-08;Site;0;;;Ativo
+1639;3;3;2023-09-18;WhatsApp;12;;;Ativo
+1640;2;2;2024-01-26;WhatsApp;12;;;Ativo
+1641;1;1;2025-10-28;Site;0;;;Ativo
+1642;1;5;2023-03-14;Loja;12;;;Ativo
+1643;3;2;2024-10-01;Vendedor externo;0;;;Ativo
+1644;1;4;2025-04-30;Site;0;;;Ativo
+1645;1;4;2023-07-08;Vendedor externo;12;;;Ativo
+1646;3;1;2024-02-26;Loja;0;;;Ativo
+1647;2;1;2024-05-06;Vendedor externo;12;;;Ativo
+1648;2;2;2025-08-06;Vendedor externo;12;;;Ativo
+1649;1;2;2026-10-28;Vendedor externo;12;;;Ativo
+1650;4;4;2026-04-10;WhatsApp;0;;;Ativo
+1651;1;5;2023-09-29;Vendedor externo;12;;;Ativo
+1652;1;1;2023-01-26;Vendedor externo;12;;;Ativo
+1653;2;3;2023-03-16;Vendedor externo;12;;;Ativo
+1654;1;1;2025-05-01;Vendedor externo;0;;;Ativo
+1655;2;1;2023-08-12;Loja;0;;;Ativo
+1656;1;4;2023-11-27;Vendedor externo;12;;;Ativo
+1657;1;4;2026-04-26;Vendedor externo;0;;;Ativo
+1658;2;4;2026-06-03;Site;12;;;Ativo
+1659;4;1;2026-04-14;Loja;12;;;Ativo
+1660;1;3;2023-12-29;WhatsApp;12;;;Ativo
+1661;1;2;2025-06-05;WhatsApp;12;;;Ativo
+1662;4;6;2025-05-23;Vendedor externo;12;;;Ativo
+1663;4;3;2023-09-22;Vendedor externo;12;;;Ativo
+1664;3;6;2025-03-02;Vendedor externo;12;;;Ativo
+1665;1;1;2025-01-21;Site;0;;;Ativo
+1666;2;2;2024-07-20;Site;12;;;Ativo
+1667;1;4;2025-12-10;Site;12;;;Ativo
+1668;1;2;2025-08-26;WhatsApp;12;;;Ativo
+1669;2;3;2025-01-31;Vendedor externo;0;;;Ativo
+1670;2;2;2025-11-03;Site;0;;;Ativo
+1671;2;6;2025-12-27;Vendedor externo;12;;;Ativo
+1672;2;1;2025-03-21;Site;0;;;Ativo
+1673;1;6;2024-01-18;Vendedor externo;12;2026-04-15;Instabilidade na conexão;Cancelado
+1674;2;2;2025-12-20;WhatsApp;12;;;Ativo
+1675;3;2;2025-10-23;Loja;0;;;Ativo
+1676;4;3;2026-11-07;Loja;0;;;Ativo
+1677;2;1;2023-08-03;Vendedor externo;12;;;Ativo
+1678;2;6;2024-08-22;WhatsApp;0;;;Ativo
+1679;1;5;2026-08-14;Vendedor externo;12;;;Ativo
+1680;1;6;2025-01-05;Vendedor externo;12;;;Ativo
+1681;3;6;2026-09-09;Vendedor externo;12;;;Ativo
+1682;1;3;2023-01-18;Vendedor externo;12;;;Ativo
+1683;2;2;2023-02-20;WhatsApp;0;;;Ativo
+1684;2;5;2026-02-12;WhatsApp;12;;;Ativo
+1685;1;1;2024-05-27;WhatsApp;0;;;Ativo
+1686;1;5;2025-01-13;WhatsApp;0;;;Ativo
+1687;2;2;2024-09-04;Loja;12;;;Ativo
+1688;5;3;2024-08-06;Vendedor externo;0;2026-02-08;Preço;Cancelado
+1689;2;2;2026-09-05;Vendedor externo;0;;;Ativo
+1690;2;2;2023-05-15;Site;12;2026-11-16;Instabilidade na conexão;Cancelado
+1691;1;1;2026-01-09;Loja;0;;;Ativo
+1692;2;2;2026-06-26;Site;0;;;Ativo
+1693;1;2;2025-07-29;Loja;12;;;Ativo
+1694;2;1;2024-07-18;Vendedor externo;12;;;Ativo
+1695;3;1;2023-08-17;Vendedor externo;12;;;Ativo
+1696;2;3;2025-09-03;WhatsApp;12;;;Ativo
+1697;1;2;2024-11-01;Site;12;;;Ativo
+1698;1;5;2023-08-02;Vendedor externo;0;;;Ativo
+1699;1;1;2024-05-29;WhatsApp;12;;;Ativo
+1700;2;3;2026-10-07;WhatsApp;0;;;Ativo
+1701;4;1;2024-01-15;Vendedor externo;12;;;Ativo
+1702;1;3;2023-09-13;WhatsApp;12;;;Ativo
+1703;2;3;2025-09-02;Loja;0;;;Ativo
+1704;3;3;2023-10-13;Vendedor externo;12;;;Ativo
+1705;1;2;2026-08-08;Loja;12;;;Ativo
+1706;1;2;2026-05-13;Vendedor externo;0;;;Ativo
+1707;2;1;2026-11-07;Vendedor externo;12;;;Ativo
+1708;3;2;2026-07-28;Loja;12;;;Ativo
+1709;2;2;2023-12-15;Vendedor externo;0;;;Ativo
+1710;3;3;2023-10-31;Site;0;;;Ativo
+1711;4;2;2024-05-04;Site;12;;;Ativo
+1712;3;4;2024-11-02;Loja;12;;;Ativo
+1713;5;2;2026-06-12;Loja;12;2026-11-15;Concorrente com oferta melhor;Cancelado
+1714;3;1;2025-11-14;Vendedor externo;12;;;Ativo
+1715;4;1;2025-07-10;WhatsApp;12;;;Ativo
+1716;4;1;2026-06-10;WhatsApp;0;2026-12-20;Concorrente com oferta melhor;Cancelado
+1717;3;3;2025-07-12;Vendedor externo;0;;;Ativo
+1718;3;5;2024-06-26;Site;12;2026-09-13;Preço;Cancelado
+1719;5;4;2024-08-13;Vendedor externo;12;;;Ativo
+1720;2;2;2025-01-09;WhatsApp;12;;;Ativo
+1721;3;1;2023-05-07;Loja;12;;;Ativo
+1722;2;5;2025-11-26;Vendedor externo;0;;;Ativo
+1723;4;1;2025-07-22;Vendedor externo;12;2026-08-12;Instabilidade na conexão;Cancelado
+1724;2;2;2025-11-11;Vendedor externo;12;2026-07-15;Instabilidade na conexão;Cancelado
+1725;3;5;2025-02-02;Loja;12;;;Ativo
+1726;3;2;2026-01-24;Loja;0;;;Ativo
+1727;5;1;2026-09-20;Vendedor externo;0;;;Ativo
+1728;1;1;2025-03-26;Site;12;;;Ativo
+1729;3;3;2024-09-27;Site;12;;;Ativo
+1730;3;1;2023-05-30;Loja;12;2026-12-13;Preço;Cancelado
+1731;5;3;2026-01-18;WhatsApp;12;;;Ativo
+1732;4;2;2026-07-16;Vendedor externo;12;;;Ativo
+1733;2;2;2025-09-27;WhatsApp;0;;;Ativo
+1734;2;1;2026-05-22;Loja;12;2026-11-05;Mudança de cidade;Cancelado
+1735;1;5;2026-05-16;WhatsApp;12;;;Ativo
+1736;5;2;2026-02-15;WhatsApp;12;;;Ativo
+1737;1;4;2024-12-20;WhatsApp;0;;;Ativo
+1738;3;2;2023-05-23;WhatsApp;12;;;Ativo
+1739;3;1;2023-01-05;Vendedor externo;0;2026-07-11;Mudança de cidade;Cancelado
+1740;2;2;2023-10-20;Site;12;;;Ativo
+1741;1;2;2024-09-08;Vendedor externo;12;;;Ativo
+1742;1;2;2025-11-29;Vendedor externo;12;;;Ativo
+1743;4;5;2024-10-13;WhatsApp;12;;;Ativo
+1744;2;5;2023-02-03;Vendedor externo;12;;;Ativo
+1745;1;4;2023-10-28;Vendedor externo;0;2026-07-23;Concorrente com oferta melhor;Cancelado
+1746;3;3;2026-11-01;WhatsApp;0;;;Ativo
+1747;1;3;2026-11-13;Vendedor externo;12;;;Ativo
+1748;4;3;2024-06-23;Loja;12;;;Ativo
+1749;2;1;2026-02-25;Vendedor externo;12;;;Ativo
+1750;1;5;2025-10-25;WhatsApp;12;;;Ativo
+1751;1;5;2026-08-24;WhatsApp;0;;;Ativo
+1752;2;1;2026-06-23;Loja;12;;;Ativo
+1753;2;5;2025-06-18;Site;12;;;Ativo
+1754;3;5;2024-07-18;Vendedor externo;12;;;Ativo
+1755;2;2;2025-06-15;Site;12;;;Ativo
+1756;2;5;2024-04-01;Site;0;;;Ativo
+1757;1;1;2024-05-12;WhatsApp;0;;;Ativo
+1758;1;1;2025-05-20;Vendedor externo;0;;;Ativo
+1759;5;2;2025-03-28;Vendedor externo;12;;;Ativo
+1760;1;3;2025-04-10;Vendedor externo;0;;;Ativo
+1761;5;2;2024-07-04;Vendedor externo;0;;;Ativo
+1762;2;6;2024-08-08;Vendedor externo;12;2026-03-28;Instabilidade na conexão;Cancelado
+1763;1;1;2023-01-15;Loja;12;;;Ativo
+1764;1;1;2025-05-10;Loja;12;2026-07-26;Preço;Cancelado
+1765;1;3;2025-04-03;WhatsApp;12;;;Ativo
+1766;3;1;2026-08-30;Loja;0;;;Ativo
+1767;2;4;2024-12-22;Vendedor externo;0;2026-04-24;Preço;Cancelado
+1768;2;2;2024-10-30;WhatsApp;12;;;Ativo
+1769;3;6;2023-04-07;Loja;12;;;Ativo
+1770;3;4;2023-10-09;Loja;12;2026-06-05;Concorrente com oferta melhor;Cancelado
+1771;5;1;2024-04-28;Vendedor externo;12;2026-11-10;Preço;Cancelado
+1772;5;1;2024-06-23;Vendedor externo;0;2026-05-29;Instabilidade na conexão;Cancelado
+1773;3;1;2024-06-02;Vendedor externo;12;;;Ativo
+1774;3;6;2024-07-17;Site;0;2026-07-20;Instabilidade na conexão;Cancelado
+1775;3;4;2026-01-04;Loja;12;;;Ativo
+1776;2;2;2023-07-07;Loja;12;;;Ativo
+1777;3;1;2024-04-20;Loja;0;;;Ativo
+1778;1;5;2023-08-21;Vendedor externo;12;;;Ativo
+1779;3;1;2024-03-16;Vendedor externo;12;;;Ativo
+1780;5;4;2025-09-05;WhatsApp;12;;;Ativo
+1781;1;4;2023-03-08;Loja;0;2026-09-01;Instabilidade na conexão;Cancelado
+1782;4;1;2024-04-30;Vendedor externo;12;;;Ativo
+1783;5;2;2023-02-03;Vendedor externo;12;;;Ativo
+1784;1;1;2026-09-27;Site;0;;;Ativo
+1785;2;2;2025-11-05;Site;12;;;Ativo
+1786;5;6;2023-12-15;Loja;0;2026-08-26;Mudança de cidade;Cancelado
+1787;5;4;2023-10-11;Site;12;2026-08-28;Preço;Cancelado
+1788;1;5;2023-05-22;Vendedor externo;0;;;Ativo
+1789;2;3;2024-11-07;WhatsApp;12;;;Ativo
+1790;3;1;2025-12-13;Loja;12;;;Ativo
+1791;1;4;2025-04-15;Site;12;;;Ativo
+1792;2;2;2026-06-13;Site;12;;;Ativo
+1793;1;1;2024-05-06;Site;12;;;Ativo
+1794;1;2;2024-02-02;Loja;0;;;Ativo
+1795;2;3;2024-11-14;Site;12;;;Ativo
+1796;3;4;2023-10-16;Site;12;;;Ativo
+1797;3;1;2026-10-27;Vendedor externo;0;;;Ativo
+1798;3;5;2023-09-23;Vendedor externo;12;;;Ativo
+1799;2;2;2024-11-15;Loja;0;;;Ativo
+1800;1;1;2025-01-16;Vendedor externo;12;;;Ativo
+1801;1;1;2023-03-23;WhatsApp;12;;;Ativo
+1802;1;5;2024-10-31;Vendedor externo;12;;;Ativo
+1803;2;2;2024-10-12;Site;12;;;Ativo
+1804;1;2;2024-01-06;Site;12;;;Ativo
+1805;1;1;2023-07-02;Site;12;;;Ativo
+1806;1;4;2023-03-06;Site;12;;;Ativo
+1807;3;4;2023-01-13;Site;12;;;Ativo
+1808;3;2;2024-11-19;Vendedor externo;0;;;Ativo
+1809;5;6;2023-05-09;Loja;0;;;Ativo
+1810;3;1;2026-10-03;WhatsApp;0;;;Ativo
+1811;2;1;2023-12-16;WhatsApp;12;;;Ativo
+1812;1;3;2025-07-22;Vendedor externo;12;;;Ativo
+1813;2;4;2025-08-21;WhatsApp;0;;;Ativo
+1814;1;1;2024-12-09;WhatsApp;12;;;Ativo
+1815;2;3;2026-06-17;Vendedor externo;0;;;Ativo
+1816;2;2;2023-06-08;Site;12;;;Ativo
+1817;2;3;2023-12-01;Site;12;;;Ativo
+1818;1;3;2023-12-27;Loja;12;;;Ativo
+1819;3;6;2023-07-13;Loja;0;;;Ativo
+1820;4;2;2024-02-26;Vendedor externo;12;;;Ativo
+1821;3;3;2024-03-23;WhatsApp;12;;;Ativo
+1822;3;3;2025-12-29;Vendedor externo;0;;;Ativo
+1823;2;2;2024-03-07;WhatsApp;12;2026-07-18;Preço;Cancelado
+1824;1;1;2026-06-07;Site;12;;;Ativo
+1825;3;6;2026-01-09;Site;12;;;Ativo
+1826;2;1;2026-07-13;Vendedor externo;12;;;Ativo
+1827;1;4;2023-05-31;Vendedor externo;12;;;Ativo
+1828;2;1;2026-11-08;Loja;12;;;Ativo
+1829;5;5;2025-05-27;Loja;12;;;Ativo
+1830;3;1;2026-11-05;Loja;0;;;Ativo
+1831;2;6;2024-05-22;Loja;12;;;Ativo
+1832;3;4;2026-09-24;Loja;0;;;Ativo
+1833;2;1;2025-04-21;Vendedor externo;12;;;Ativo
+1834;2;4;2023-04-13;Vendedor externo;12;;;Ativo
+1835;1;3;2024-08-09;Vendedor externo;0;;;Ativo
+1836;2;2;2023-07-17;WhatsApp;12;;;Ativo
+1837;3;1;2026-09-08;Vendedor externo;0;;;Ativo
+1838;1;4;2024-03-11;WhatsApp;12;;;Ativo
+1839;3;4;2023-11-14;Site;12;2026-09-22;Preço;Cancelado
+1840;1;2;2025-03-01;Loja;12;;;Ativo
+1841;3;5;2024-08-30;WhatsApp;12;2026-03-22;Mudança de cidade;Cancelado
+1842;3;1;2023-05-19;WhatsApp;12;;;Ativo
+1843;3;1;2026-03-13;Site;12;2026-06-20;Instabilidade na conexão;Cancelado
+1844;2;3;2026-04-24;Vendedor externo;0;;;Ativo
+1845;5;1;2025-11-28;Vendedor externo;12;;;Ativo
+1846;2;1;2025-05-31;Vendedor externo;0;;;Ativo
+1847;3;2;2024-07-29;WhatsApp;0;;;Ativo
+1848;3;1;2025-02-14;Vendedor externo;0;;;Ativo
+1849;1;1;2025-01-15;Loja;12;;;Ativo
+1850;1;4;2023-08-25;Loja;12;;;Ativo
+1851;2;3;2023-04-27;Loja;0;;;Ativo
+1852;1;5;2023-12-29;Vendedor externo;0;;;Ativo
+1853;2;3;2024-10-11;Vendedor externo;12;;;Ativo
+1854;2;2;2023-08-18;WhatsApp;12;;;Ativo
+1855;2;1;2023-06-02;Loja;12;;;Ativo
+1856;1;4;2026-05-03;Vendedor externo;12;;;Ativo
+1857;3;1;2024-06-20;Loja;12;;;Ativo
+1858;2;1;2025-04-15;Vendedor externo;0;;;Ativo
+1859;3;5;2025-01-19;Site;12;;;Ativo
+1860;1;4;2025-11-17;Vendedor externo;12;;;Ativo
+1861;2;3;2025-11-23;WhatsApp;12;;;Ativo
+1862;1;1;2024-02-28;WhatsApp;12;;;Ativo
+1863;3;1;2026-04-27;WhatsApp;12;;;Ativo
+1864;2;2;2024-06-14;WhatsApp;12;2026-05-19;Preço;Cancelado
+1865;5;4;2026-04-09;Vendedor externo;12;;;Ativo
+1866;2;2;2024-08-01;Vendedor externo;0;2026-08-09;Concorrente com oferta melhor;Cancelado
+1867;2;1;2023-06-08;Vendedor externo;12;;;Ativo
+1868;1;1;2025-12-22;WhatsApp;0;2026-08-10;Concorrente com oferta melhor;Cancelado
+1869;3;3;2023-02-13;Loja;12;;;Ativo
+1870;2;4;2026-01-09;Loja;12;;;Ativo
+1871;2;1;2023-03-03;Loja;0;;;Ativo
+1872;1;1;2023-10-23;Site;12;;;Ativo
+1873;1;1;2025-05-12;Site;0;;;Ativo
+1874;1;1;2026-09-08;Loja;12;;;Ativo
+1875;5;3;2024-08-07;Vendedor externo;12;2026-07-09;Concorrente com oferta melhor;Cancelado
+1876;2;1;2023-06-22;Vendedor externo;12;2026-12-07;Preço;Cancelado
+1877;1;3;2023-11-30;WhatsApp;12;;;Ativo
+1878;5;4;2026-07-05;Loja;12;;;Ativo
+1879;1;6;2025-11-05;Loja;12;2026-01-22;Instabilidade na conexão;Cancelado
+1880;2;6;2023-05-24;Site;12;;;Ativo
+1881;3;1;2024-07-04;Vendedor externo;0;;;Ativo
+1882;4;1;2024-01-14;WhatsApp;12;;;Ativo
+1883;3;2;2023-09-12;Vendedor externo;0;;;Ativo
+1884;2;4;2026-04-25;WhatsApp;12;2026-12-18;Concorrente com oferta melhor;Cancelado
+1885;5;1;2025-06-02;Vendedor externo;12;;;Ativo
+1886;1;2;2023-09-14;Vendedor externo;12;;;Ativo
+1887;5;1;2025-07-19;WhatsApp;12;;;Ativo
+1888;4;1;2024-08-14;Loja;0;;;Ativo
+1889;5;4;2023-03-29;WhatsApp;12;;;Ativo
+1890;1;3;2024-10-05;Loja;0;;;Ativo
+1891;1;3;2023-09-22;Vendedor externo;0;;;Ativo
+1892;3;5;2023-12-17;Loja;12;;;Ativo
+1893;2;1;2026-06-10;Vendedor externo;0;;;Ativo
+1894;2;1;2025-10-12;WhatsApp;12;;;Ativo
+1895;5;2;2023-07-11;Loja;12;;;Ativo
+1896;3;3;2026-05-02;Loja;12;;;Ativo
+1897;2;3;2025-04-01;Vendedor externo;0;;;Ativo
+1898;2;1;2026-06-04;Vendedor externo;0;2026-07-30;Instabilidade na conexão;Cancelado
+1899;1;6;2025-12-04;Vendedor externo;0;;;Ativo
+1900;1;2;2024-04-30;WhatsApp;12;2026-07-08;Atendimento;Cancelado
+1901;1;2;2025-02-03;Loja;0;;;Ativo
+1902;3;3;2025-01-29;Vendedor externo;0;;;Ativo
+1903;3;6;2025-10-26;Vendedor externo;12;;;Ativo
+1904;2;3;2023-12-22;Vendedor externo;12;;;Ativo
+1905;2;6;2024-04-21;Vendedor externo;12;;;Ativo
+1906;3;1;2023-12-17;Site;0;;;Ativo
+1907;3;3;2024-02-28;Site;12;;;Ativo
+1908;4;5;2023-08-19;WhatsApp;0;;;Ativo
+1909;2;2;2023-02-22;Vendedor externo;12;;;Ativo
+1910;3;2;2026-09-06;Site;12;;;Ativo
+1911;2;6;2023-04-17;WhatsApp;12;;;Ativo
+1912;2;1;2026-06-23;WhatsApp;12;;;Ativo
+1913;4;2;2023-01-05;WhatsApp;0;;;Ativo
+1914;2;5;2026-01-16;Vendedor externo;12;;;Ativo
+1915;2;5;2024-04-14;WhatsApp;12;2026-05-27;Mudança de cidade;Cancelado
+1916;2;6;2025-01-10;WhatsApp;0;;;Ativo
+1917;2;5;2024-02-08;WhatsApp;12;;;Ativo
+1918;2;1;2024-12-02;Site;0;;;Ativo
+1919;3;6;2024-10-07;WhatsApp;0;2026-02-03;Instabilidade na conexão;Cancelado
+1920;2;2;2025-01-27;Vendedor externo;12;;;Ativo
+1921;1;3;2024-07-16;Site;0;;;Ativo
+1922;4;2;2025-02-06;Site;12;;;Ativo
+1923;2;5;2026-03-26;Site;0;;;Ativo
+1924;5;3;2024-09-13;WhatsApp;12;;;Ativo
+1925;1;5;2024-05-31;Loja;12;;;Ativo
+1926;2;1;2023-07-08;Vendedor externo;12;;;Ativo
+1927;2;1;2024-05-29;Vendedor externo;12;;;Ativo
+1928;4;2;2023-06-29;Site;12;;;Ativo
+1929;1;1;2023-09-18;Site;12;;;Ativo
+1930;4;4;2026-09-23;WhatsApp;0;;;Ativo
+1931;2;1;2023-05-08;WhatsApp;12;;;Ativo
+1932;2;3;2024-11-20;Vendedor externo;12;;;Ativo
+1933;2;1;2026-04-08;Loja;0;;;Ativo
+1934;1;1;2026-09-25;Site;12;;;Ativo
+1935;2;3;2023-07-29;WhatsApp;0;;;Ativo
+1936;1;2;2023-08-22;Site;0;;;Ativo
+1937;2;1;2024-06-16;WhatsApp;12;;;Ativo
+1938;3;1;2025-03-03;WhatsApp;12;;;Ativo
+1939;2;1;2026-10-04;Vendedor externo;12;;;Ativo
+1940;1;3;2023-10-25;Site;0;;;Ativo
+1941;1;1;2023-08-24;Vendedor externo;12;;;Ativo
+1942;1;2;2023-12-29;Vendedor externo;12;;;Ativo
+1943;1;4;2026-06-04;Loja;0;;;Ativo
+1944;2;2;2023-02-12;Loja;12;;;Ativo
+1945;1;3;2024-06-27;Loja;0;;;Ativo
+1946;4;1;2023-06-20;Site;0;;;Ativo
+1947;1;6;2023-08-13;Loja;0;2026-08-09;Instabilidade na conexão;Cancelado
+1948;1;2;2026-08-04;Vendedor externo;0;;;Ativo
+1949;4;1;2023-01-03;Vendedor externo;0;;;Ativo
+1950;1;5;2024-04-04;Vendedor externo;12;;;Ativo
+1951;2;3;2026-08-02;WhatsApp;12;;;Ativo
+1952;5;3;2025-05-19;Vendedor externo;0;;;Ativo
+1953;5;5;2023-04-13;Loja;12;;;Ativo
+1954;3;1;2024-10-26;WhatsApp;0;2026-08-06;Instabilidade na conexão;Cancelado
+1955;1;5;2026-10-20;WhatsApp;12;;;Ativo
+1956;2;3;2024-07-26;Site;12;;;Ativo
+1957;5;2;2025-01-25;WhatsApp;12;;;Ativo
+1958;5;1;2025-01-30;Loja;12;;;Ativo
+1959;1;1;2025-08-02;WhatsApp;0;2026-12-11;Preço;Cancelado
+1960;2;6;2023-09-25;Loja;0;2026-01-24;Preço;Cancelado
+1961;2;1;2026-04-15;Vendedor externo;12;;;Ativo
+1962;1;1;2026-11-14;Loja;12;2026-12-20;Mudança de cidade;Cancelado
+1963;3;4;2023-07-23;WhatsApp;12;;;Ativo
+1964;1;4;2026-03-16;Loja;12;;;Ativo
+1965;2;1;2026-03-14;Vendedor externo;0;;;Ativo
+1966;1;5;2025-11-26;Loja;12;;;Ativo
+1967;2;2;2024-06-14;Site;12;;;Ativo
+1968;1;5;2024-11-01;Vendedor externo;0;;;Ativo
+1969;2;1;2026-04-15;Vendedor externo;0;2026-07-11;Instabilidade na conexão;Cancelado
+1970;1;1;2023-08-07;Vendedor externo;12;;;Ativo
+1971;5;3;2026-03-31;WhatsApp;0;;;Ativo
+1972;1;1;2026-08-09;Loja;12;;;Ativo
+1973;2;3;2025-09-02;WhatsApp;12;2026-08-06;Instabilidade na conexão;Cancelado
+1974;1;1;2024-05-03;Vendedor externo;12;;;Ativo
+1975;1;4;2025-03-10;Loja;12;;;Ativo
+1976;1;5;2023-03-13;Loja;12;;;Ativo
+1977;1;5;2026-08-25;Loja;12;2026-11-10;Preço;Cancelado
+1978;1;6;2024-05-04;Vendedor externo;12;;;Ativo
+1979;2;5;2023-03-23;Vendedor externo;0;2026-11-15;Mudança de cidade;Cancelado
+1980;3;2;2026-02-10;WhatsApp;12;;;Ativo
+1981;1;2;2025-07-29;Vendedor externo;0;;;Ativo
+1982;2;5;2025-06-09;Loja;0;;;Ativo
+1983;2;6;2023-03-19;Vendedor externo;12;;;Ativo
+1984;1;6;2025-12-09;Loja;0;;;Ativo
+1985;2;4;2025-06-30;Loja;0;;;Ativo
+1986;1;1;2026-02-08;Vendedor externo;0;;;Ativo
+1987;1;6;2026-03-29;Loja;12;;;Ativo
+1988;2;6;2023-10-31;Loja;12;;;Ativo
+1989;5;3;2023-10-29;WhatsApp;0;2026-03-14;Concorrente com oferta melhor;Cancelado
+1990;5;5;2026-08-14;Site;12;2026-11-26;Preço;Cancelado
+1991;5;3;2025-01-29;WhatsApp;0;;;Ativo
+1992;2;6;2024-09-18;Vendedor externo;12;;;Ativo
+1993;1;1;2024-02-15;WhatsApp;0;;;Ativo
+1994;2;5;2025-07-02;Vendedor externo;12;;;Ativo
+1995;1;1;2025-12-14;Loja;12;;;Ativo
+1996;1;2;2023-01-04;WhatsApp;12;;;Ativo
+1997;1;1;2025-03-01;Loja;12;;;Ativo
+1998;2;2;2026-11-21;Vendedor externo;0;;;Ativo
+1999;2;1;2024-02-06;WhatsApp;12;;;Ativo
+2000;1;6;2024-02-06;Site;12;2026-04-19;Instabilidade na conexão;Cancelado
+2001;3;3;2026-06-09;Vendedor externo;12;;;Ativo
+2002;2;5;2023-03-30;Vendedor externo;12;2026-12-29;Atendimento;Cancelado
+2003;4;1;2024-07-22;Loja;0;;;Ativo
+2004;1;1;2024-10-17;WhatsApp;0;2026-05-09;Preço;Cancelado
+2005;2;4;2026-02-14;Loja;0;2026-11-05;Instabilidade na conexão;Cancelado
+2006;1;4;2023-07-04;Vendedor externo;12;;;Ativo
+2007;2;3;2024-09-12;Loja;12;;;Ativo
+2008;1;5;2023-08-06;WhatsApp;0;;;Ativo
+2009;1;5;2026-01-31;WhatsApp;12;;;Ativo
+2010;2;3;2025-06-23;Vendedor externo;12;;;Ativo
+2011;1;6;2024-12-11;WhatsApp;12;;;Ativo
+2012;1;4;2024-07-15;Loja;12;2026-05-01;Preço;Cancelado
+2013;5;3;2023-08-08;WhatsApp;12;;;Ativo
+2014;1;2;2026-08-11;Loja;0;;;Ativo
+2015;2;1;2025-07-15;Vendedor externo;12;;;Ativo
+2016;2;1;2024-04-01;Loja;0;;;Ativo
+2017;1;4;2024-08-14;WhatsApp;0;;;Ativo
+2018;2;4;2025-11-04;WhatsApp;12;;;Ativo
+2019;1;2;2025-10-25;Vendedor externo;12;;;Ativo
+2020;3;3;2024-10-21;Loja;12;;;Ativo
+2021;1;1;2024-03-09;Vendedor externo;0;2026-06-19;Atendimento;Cancelado
+2022;1;1;2025-08-01;Vendedor externo;12;;;Ativo
+2023;2;6;2025-07-30;Vendedor externo;12;;;Ativo
+2024;4;2;2025-05-07;Loja;12;;;Ativo
+2025;3;1;2023-04-15;Site;12;2026-01-07;Concorrente com oferta melhor;Cancelado
+2026;5;2;2024-11-07;Site;12;;;Ativo
+2027;3;2;2025-05-27;WhatsApp;12;;;Ativo
+2028;3;4;2026-09-20;Vendedor externo;12;;;Ativo
+2029;2;6;2025-01-21;Vendedor externo;12;;;Ativo
+2030;4;3;2024-05-05;Vendedor externo;12;;;Ativo
+2031;2;3;2025-03-05;Loja;12;;;Ativo
+2032;2;2;2023-09-11;Site;12;;;Ativo
+2033;3;3;2023-05-10;WhatsApp;0;;;Ativo
+2034;2;2;2025-08-27;Loja;0;;;Ativo
+2035;1;1;2026-11-11;Vendedor externo;0;;;Ativo
+2036;2;5;2026-04-24;WhatsApp;12;;;Ativo
+2037;2;2;2025-04-14;Vendedor externo;0;;;Ativo
+2038;4;2;2023-02-27;Vendedor externo;0;;;Ativo
+2039;2;1;2026-11-13;Site;12;;;Ativo
+2040;4;5;2024-10-04;Vendedor externo;0;;;Ativo
+2041;2;1;2024-02-19;Loja;12;;;Ativo
+2042;3;2;2026-06-30;WhatsApp;12;;;Ativo
+2043;1;5;2025-12-03;WhatsApp;0;;;Ativo
+2044;5;2;2025-12-07;Loja;0;;;Ativo
+2045;2;6;2024-02-02;Loja;12;;;Ativo
+2046;1;1;2026-11-19;Site;12;2026-12-19;Mudança de cidade;Cancelado
+2047;1;4;2024-10-09;Site;12;;;Ativo
+2048;1;6;2025-01-29;Vendedor externo;0;;;Ativo
+2049;2;3;2025-12-09;Vendedor externo;12;;;Ativo
+2050;3;4;2025-08-01;Site;12;;;Ativo
+2051;5;2;2023-09-04;Vendedor externo;12;;;Ativo
+2052;3;4;2024-03-08;Loja;12;;;Ativo
+2053;2;5;2024-05-31;Loja;12;;;Ativo
+2054;2;4;2026-09-16;Vendedor externo;12;;;Ativo
+2055;4;6;2025-10-18;WhatsApp;12;;;Ativo
+2056;4;3;2024-06-07;Vendedor externo;12;;;Ativo
+2057;1;3;2025-11-16;Vendedor externo;12;2026-10-20;Preço;Cancelado
+2058;5;2;2025-11-22;WhatsApp;12;;;Ativo
+2059;2;4;2024-07-17;Vendedor externo;12;;;Ativo
+2060;3;5;2024-07-30;Vendedor externo;12;;;Ativo
+2061;5;3;2026-07-02;Loja;12;;;Ativo
+2062;3;1;2025-03-14;Site;0;;;Ativo
+2063;1;3;2023-08-02;Site;12;;;Ativo
+2064;2;4;2025-10-26;WhatsApp;12;;;Ativo
+2065;1;6;2025-04-23;Vendedor externo;0;;;Ativo
+2066;3;1;2024-12-28;Vendedor externo;12;;;Ativo
+2067;1;1;2025-11-02;Loja;0;2026-05-05;Instabilidade na conexão;Cancelado
+2068;3;2;2026-07-21;WhatsApp;12;;;Ativo
+2069;4;1;2024-04-17;Loja;0;;;Ativo
+2070;1;6;2024-08-22;Site;0;;;Ativo
+2071;2;2;2023-09-28;Site;0;2026-10-28;Mudança de cidade;Cancelado
+2072;3;3;2025-07-14;Loja;12;;;Ativo
+2073;2;1;2024-07-29;Vendedor externo;12;;;Ativo
+2074;1;2;2024-05-04;Loja;0;;;Ativo
+2075;1;6;2025-09-23;Vendedor externo;12;;;Ativo
+2076;2;2;2024-08-06;WhatsApp;12;2026-11-15;Instabilidade na conexão;Cancelado
+2077;3;1;2024-10-26;Vendedor externo;0;;;Ativo
+2078;2;1;2024-09-21;WhatsApp;0;;;Ativo
+2079;1;6;2024-01-05;Loja;0;;;Ativo
+2080;2;6;2023-06-29;Vendedor externo;0;2026-08-27;Instabilidade na conexão;Cancelado
+2081;2;1;2026-03-28;WhatsApp;0;;;Ativo
+2082;1;3;2023-05-12;WhatsApp;12;;;Ativo
+2083;3;1;2024-04-09;Vendedor externo;12;;;Ativo
+2084;2;3;2025-08-12;Site;12;;;Ativo
+2085;2;1;2023-07-07;WhatsApp;12;2026-05-25;Preço;Cancelado
+2086;5;5;2025-07-26;WhatsApp;12;;;Ativo
+2087;2;6;2025-11-14;Site;0;2026-08-02;Instabilidade na conexão;Cancelado
+2088;2;1;2025-08-05;Loja;0;;;Ativo
+2089;1;2;2024-03-12;Loja;12;;;Ativo
+2090;1;1;2023-01-29;Site;0;;;Ativo
+2091;1;2;2026-06-22;Vendedor externo;0;;;Ativo
+2092;3;1;2024-04-11;Loja;12;;;Ativo
+2093;4;1;2026-02-25;Vendedor externo;0;;;Ativo
+2094;1;6;2023-10-10;Vendedor externo;0;;;Ativo
+2095;1;1;2023-08-21;Vendedor externo;12;;;Ativo
+2096;2;5;2026-01-17;Vendedor externo;0;;;Ativo
+2097;2;1;2026-09-05;Vendedor externo;12;;;Ativo
+2098;3;3;2026-05-15;Loja;0;;;Ativo
+2099;3;2;2025-12-10;WhatsApp;12;;;Ativo
+2100;4;6;2023-12-19;Site;12;;;Ativo
+2101;1;1;2026-07-29;Loja;12;;;Ativo
+2102;3;1;2025-08-13;Vendedor externo;12;;;Ativo
+2103;2;4;2023-09-04;Vendedor externo;0;;;Ativo
+2104;2;4;2023-07-04;Site;12;;;Ativo
+2105;4;4;2026-05-30;Site;12;;;Ativo
+2106;1;1;2024-01-29;Site;0;2026-03-20;Instabilidade na conexão;Cancelado
+2107;3;1;2025-12-31;Site;0;;;Ativo
+2108;3;5;2023-07-18;Loja;12;;;Ativo
+2109;4;3;2024-02-06;Vendedor externo;12;;;Ativo
+2110;2;3;2024-02-10;Loja;12;;;Ativo
+2111;2;1;2024-02-06;Vendedor externo;12;;;Ativo
+2112;4;1;2025-08-22;Vendedor externo;12;;;Ativo
+2113;3;6;2026-07-31;Site;12;;;Ativo
+2114;2;4;2026-07-25;Loja;12;;;Ativo
+2115;3;1;2025-11-26;Site;0;;;Ativo
+2116;1;6;2023-10-17;Vendedor externo;12;;;Ativo
+2117;2;3;2026-10-05;Vendedor externo;0;;;Ativo
+2118;4;2;2025-02-14;Site;12;;;Ativo
+2119;2;2;2025-02-19;Loja;12;;;Ativo
+2120;2;4;2025-09-29;Vendedor externo;12;;;Ativo
+2121;5;2;2026-01-04;Vendedor externo;0;;;Ativo
+2122;3;3;2026-09-24;Site;12;;;Ativo
+2123;4;4;2025-04-12;Loja;0;;;Ativo
+2124;2;1;2025-05-22;WhatsApp;0;;;Ativo
+2125;5;6;2025-12-02;WhatsApp;12;;;Ativo
+2126;1;2;2023-12-31;WhatsApp;12;;;Ativo
+2127;2;2;2024-03-16;Vendedor externo;12;;;Ativo
+2128;2;4;2025-06-13;Site;0;2026-02-13;Preço;Cancelado
+2129;3;3;2023-04-02;Loja;12;;;Ativo
+2130;4;2;2024-04-03;WhatsApp;12;;;Ativo
+2131;3;3;2025-10-23;Vendedor externo;0;;;Ativo
+2132;3;5;2026-10-27;Loja;12;;;Ativo
+2133;2;5;2025-01-12;Vendedor externo;0;;;Ativo
+2134;2;5;2024-07-25;WhatsApp;0;;;Ativo
+2135;2;1;2024-09-21;WhatsApp;12;;;Ativo
+2136;1;2;2025-09-07;Vendedor externo;12;2026-05-12;Preço;Cancelado
+2137;2;3;2025-02-17;Vendedor externo;12;;;Ativo
+2138;4;1;2023-02-03;WhatsApp;0;;;Ativo
+2139;3;4;2025-02-10;WhatsApp;0;;;Ativo
+2140;3;2;2024-07-26;WhatsApp;12;;;Ativo
+2141;2;1;2025-09-29;Vendedor externo;12;;;Ativo
+2142;2;1;2026-06-05;Site;12;;;Ativo
+2143;1;1;2026-10-08;WhatsApp;0;;;Ativo
+2144;2;2;2025-05-22;Loja;12;;;Ativo
+2145;2;3;2024-06-02;Vendedor externo;12;;;Ativo
+2146;1;3;2024-09-26;Loja;0;;;Ativo
+2147;1;1;2023-09-10;Vendedor externo;0;;;Ativo
+2148;3;1;2026-08-31;WhatsApp;0;;;Ativo
+2149;2;5;2026-04-26;Loja;0;;;Ativo
+2150;2;1;2026-05-06;Vendedor externo;0;;;Ativo
+2151;1;2;2024-04-14;Loja;0;;;Ativo
+2152;2;3;2024-04-05;WhatsApp;0;2026-06-20;Atendimento;Cancelado
+2153;2;3;2026-05-09;WhatsApp;12;;;Ativo
+2154;2;5;2025-02-17;Vendedor externo;12;;;Ativo
+2155;2;3;2025-10-04;Site;12;;;Ativo
+2156;1;6;2024-12-01;Loja;12;;;Ativo
+2157;4;5;2024-09-25;WhatsApp;0;;;Ativo
+2158;1;1;2025-06-23;Site;12;;;Ativo
+2159;2;1;2026-03-08;Loja;12;;;Ativo
+2160;1;2;2024-04-22;WhatsApp;12;;;Ativo
+2161;2;2;2026-03-03;Loja;0;;;Ativo
+2162;1;3;2023-12-16;Site;0;;;Ativo
+2163;4;1;2024-07-30;Loja;12;2026-06-24;Instabilidade na conexão;Cancelado
+2164;2;1;2026-07-29;Site;0;;;Ativo
+2165;3;2;2026-09-26;Loja;0;;;Ativo
+2166;1;3;2026-08-14;Loja;0;;;Ativo
+2167;1;4;2024-03-27;Vendedor externo;12;2026-07-10;Atendimento;Cancelado
+2168;2;6;2026-04-20;WhatsApp;12;;;Ativo
+2169;2;1;2026-08-31;Vendedor externo;0;;;Ativo
+2170;2;2;2026-10-30;Site;12;;;Ativo
+2171;5;6;2023-01-30;Vendedor externo;12;;;Ativo
+2172;3;4;2025-12-01;WhatsApp;0;;;Ativo
+2173;5;3;2026-11-26;Vendedor externo;12;;;Ativo
+2174;1;3;2025-12-29;Vendedor externo;0;;;Ativo
+2175;3;1;2023-11-30;WhatsApp;12;;;Ativo
+2176;2;5;2025-12-26;Vendedor externo;12;;;Ativo
+2177;2;3;2023-05-31;Vendedor externo;12;2026-04-28;Atendimento;Cancelado
+2178;5;3;2024-11-18;WhatsApp;12;;;Ativo
+2179;3;3;2025-06-14;Vendedor externo;0;;;Ativo
+2180;4;2;2024-10-14;Vendedor externo;12;;;Ativo
+2181;3;1;2025-09-27;Vendedor externo;12;;;Ativo
+2182;1;4;2023-12-10;WhatsApp;12;;;Ativo
+2183;3;2;2025-05-16;WhatsApp;12;;;Ativo
+2184;2;1;2025-07-11;Site;0;2026-05-21;Preço;Cancelado
+2185;4;2;2025-06-25;Site;0;2026-04-19;Instabilidade na conexão;Cancelado
+2186;3;6;2024-02-18;Vendedor externo;0;;;Ativo
+2187;1;2;2024-03-12;Loja;12;;;Ativo
+2188;1;2;2024-01-04;Loja;12;;;Ativo
+2189;1;3;2024-10-22;Loja;12;;;Ativo
+2190;2;5;2025-04-17;Loja;0;;;Ativo
+2191;1;3;2024-06-02;Site;0;;;Ativo
+2192;3;5;2024-08-09;Loja;0;;;Ativo
+2193;2;1;2024-02-14;Loja;12;;;Ativo
+2194;4;6;2023-11-09;Vendedor externo;12;;;Ativo
+2195;1;5;2025-07-29;Loja;12;;;Ativo
+2196;2;2;2026-03-12;Loja;12;2026-12-22;Instabilidade na conexão;Cancelado
+2197;1;3;2024-02-20;Loja;12;2026-08-30;Mudança de cidade;Cancelado
+2198;4;1;2026-05-15;Vendedor externo;0;;;Ativo
+2199;1;2;2025-03-27;Vendedor externo;0;;;Ativo
+2200;1;1;2023-08-28;WhatsApp;0;;;Ativo
+2201;1;1;2024-06-07;WhatsApp;0;;;Ativo
+2202;3;6;2023-01-11;WhatsApp;12;;;Ativo
+2203;1;1;2023-02-26;Site;0;;;Ativo
+2204;2;3;2024-04-25;WhatsApp;12;2026-08-14;Preço;Cancelado
+2205;3;2;2024-10-11;Vendedor externo;12;;;Ativo
+2206;3;2;2026-02-14;Site;12;2026-11-29;Concorrente com oferta melhor;Cancelado
+2207;1;2;2023-07-12;Vendedor externo;12;;;Ativo
+2208;1;2;2026-04-15;Vendedor externo;0;;;Ativo
+2209;2;3;2023-12-02;Vendedor externo;12;;;Ativo
+2210;1;6;2023-07-17;Loja;0;;;Ativo
+2211;3;2;2025-09-27;WhatsApp;12;;;Ativo
+2212;2;6;2026-01-12;Loja;12;;;Ativo
+2213;2;3;2025-05-15;Site;0;;;Ativo
+2214;1;3;2023-06-15;WhatsApp;0;;;Ativo
+2215;2;1;2023-06-14;Vendedor externo;12;;;Ativo
+2216;1;1;2024-07-11;Loja;12;2026-05-28;Concorrente com oferta melhor;Cancelado
+2217;3;5;2024-10-06;Vendedor externo;12;;;Ativo
+2218;1;3;2026-11-29;Vendedor externo;12;;;Ativo
+2219;5;2;2024-02-14;WhatsApp;12;;;Ativo
+2220;3;5;2023-10-03;Site;12;;;Ativo
+2221;1;2;2026-09-14;Site;0;;;Ativo
+2222;1;4;2023-08-09;Vendedor externo;12;2026-05-01;Mudança de cidade;Cancelado
+2223;2;2;2023-02-07;Site;12;;;Ativo
+2224;1;6;2024-08-27;Site;12;;;Ativo
+2225;1;1;2024-07-27;Loja;12;;;Ativo
+2226;4;1;2025-06-05;Loja;12;;;Ativo
+2227;2;4;2026-06-09;Loja;12;;;Ativo
+2228;1;1;2026-08-27;Vendedor externo;12;;;Ativo
+2229;2;6;2024-02-19;WhatsApp;0;;;Ativo
+2230;1;3;2026-11-03;Site;12;;;Ativo
+2231;5;1;2025-06-23;Vendedor externo;0;;;Ativo
+2232;1;1;2023-04-10;WhatsApp;12;;;Ativo
+2233;3;6;2026-09-03;Loja;0;;;Ativo
+2234;3;3;2023-07-17;Loja;12;2026-12-11;Concorrente com oferta melhor;Cancelado
+2235;1;5;2025-04-21;WhatsApp;12;;;Ativo
+2236;1;1;2026-02-04;WhatsApp;0;;;Ativo
+2237;2;6;2023-12-23;Site;12;;;Ativo
+2238;4;3;2024-01-23;Loja;12;;;Ativo
+2239;2;3;2024-11-11;WhatsApp;0;;;Ativo
+2240;3;2;2026-06-19;WhatsApp;12;2026-09-23;Mudança de cidade;Cancelado
+2241;3;1;2023-11-16;Site;12;;;Ativo
+2242;4;6;2025-08-06;Loja;12;;;Ativo
+2243;2;6;2024-10-09;Vendedor externo;12;2026-02-25;Concorrente com oferta melhor;Cancelado
+2244;2;2;2023-06-09;WhatsApp;0;;;Ativo
+2245;3;6;2025-10-13;WhatsApp;0;;;Ativo
+2246;1;1;2026-04-05;Vendedor externo;0;;;Ativo
+2247;4;1;2025-04-03;Vendedor externo;12;2026-11-18;Preço;Cancelado
+2248;1;1;2023-09-10;Site;0;;;Ativo
+2249;1;2;2023-08-11;Vendedor externo;12;;;Ativo
+2250;3;1;2024-08-28;Vendedor externo;12;;;Ativo
+2251;2;2;2024-12-25;Loja;0;;;Ativo
+2252;1;1;2025-02-28;Loja;12;;;Ativo
+2253;1;4;2023-12-15;WhatsApp;12;;;Ativo
+2254;2;5;2024-12-17;Loja;0;;;Ativo
+2255;4;4;2024-02-26;Loja;0;;;Ativo
+2256;1;1;2025-09-08;WhatsApp;0;;;Ativo
+2257;1;4;2026-02-12;Site;12;;;Ativo
+2258;2;1;2025-07-22;Loja;0;;;Ativo
+2259;5;4;2023-01-02;Vendedor externo;12;;;Ativo
+2260;1;3;2026-11-19;WhatsApp;12;;;Ativo
+2261;5;2;2023-02-03;Vendedor externo;0;;;Ativo
+2262;4;1;2026-11-30;Vendedor externo;12;;;Ativo
+2263;1;5;2023-02-15;Vendedor externo;12;;;Ativo
+2264;3;6;2025-01-08;Loja;0;;;Ativo
+2265;3;3;2023-06-01;Site;12;;;Ativo
+2266;2;6;2023-05-17;Loja;0;;;Ativo
+2267;2;6;2025-09-04;Vendedor externo;12;;;Ativo
+2268;3;1;2025-11-06;Loja;0;;;Ativo
+2269;3;4;2023-06-19;Loja;12;2026-04-20;Mudança de cidade;Cancelado
+2270;3;2;2026-10-28;Loja;12;;;Ativo
+2271;5;2;2024-04-03;WhatsApp;12;2026-09-08;Instabilidade na conexão;Cancelado
+2272;2;1;2024-03-31;Loja;12;;;Ativo
+2273;3;6;2024-02-29;Vendedor externo;0;;;Ativo
+2274;4;4;2024-10-21;Loja;12;;;Ativo
+2275;1;1;2023-09-12;Site;0;;;Ativo
+2276;1;2;2024-08-30;Vendedor externo;0;;;Ativo
+2277;2;2;2023-10-28;WhatsApp;0;;;Ativo
+2278;4;4;2023-03-15;Site;12;;;Ativo
+2279;1;6;2024-06-11;Vendedor externo;12;;;Ativo
+2280;3;2;2025-08-19;Site;0;2026-06-13;Instabilidade na conexão;Cancelado
+2281;1;2;2025-12-27;Loja;12;;;Ativo
+2282;2;3;2024-05-20;WhatsApp;12;;;Ativo
+2283;2;2;2024-04-07;WhatsApp;0;;;Ativo
+2284;1;2;2026-01-31;Vendedor externo;12;;;Ativo
+2285;4;1;2025-09-01;Site;12;;;Ativo
+2286;1;1;2026-04-04;Loja;12;2026-07-26;Atendimento;Cancelado
+2287;4;2;2026-07-19;Vendedor externo;12;;;Ativo
+2288;1;5;2026-03-20;WhatsApp;12;;;Ativo
+2289;5;2;2026-09-01;WhatsApp;0;;;Ativo
+2290;2;1;2024-08-18;Vendedor externo;12;;;Ativo
+2291;1;4;2024-07-18;Site;0;;;Ativo
+2292;1;6;2024-04-04;Site;0;;;Ativo
+2293;1;2;2023-12-03;Loja;0;;;Ativo
+2294;2;1;2025-12-06;Site;12;;;Ativo
+2295;3;4;2025-10-18;Site;12;;;Ativo
+2296;2;2;2026-02-19;WhatsApp;12;;;Ativo
+2297;2;3;2023-08-28;WhatsApp;0;;;Ativo
+2298;2;1;2024-12-03;Loja;12;2026-12-11;Mudança de cidade;Cancelado
+2299;2;1;2023-11-14;Loja;0;;;Ativo
+2300;3;2;2026-07-01;Loja;12;;;Ativo
+2301;2;4;2024-01-18;Loja;0;;;Ativo
+2302;3;2;2023-07-25;Vendedor externo;12;;;Ativo
+2303;5;1;2025-03-25;WhatsApp;12;;;Ativo
+2304;2;2;2026-06-11;Vendedor externo;12;;;Ativo
+2305;1;4;2026-08-02;Site;12;;;Ativo
+2306;1;1;2023-05-18;Vendedor externo;12;;;Ativo
+2307;2;4;2024-04-11;Vendedor externo;12;2026-09-21;Instabilidade na conexão;Cancelado
+2308;2;3;2023-08-08;WhatsApp;12;;;Ativo
+2309;5;2;2024-03-16;Site;12;2026-12-21;Atendimento;Cancelado
+2310;3;6;2025-02-02;Vendedor externo;12;;;Ativo
+2311;2;5;2024-02-06;WhatsApp;12;;;Ativo
+2312;3;2;2023-04-07;Vendedor externo;12;;;Ativo
+2313;1;1;2024-12-30;Loja;12;2026-09-13;Atendimento;Cancelado
+2314;3;2;2023-03-17;Vendedor externo;12;;;Ativo
+2315;1;1;2023-11-21;Site;0;;;Ativo
+2316;2;3;2023-01-01;Vendedor externo;12;;;Ativo
+2317;5;5;2023-05-05;WhatsApp;12;;;Ativo
+2318;3;5;2024-09-15;Vendedor externo;12;2026-05-12;Instabilidade na conexão;Cancelado
+2319;4;2;2026-05-01;Vendedor externo;12;;;Ativo
+2320;2;2;2026-01-12;WhatsApp;0;;;Ativo
+2321;4;1;2023-05-22;Vendedor externo;12;;;Ativo
+2322;2;3;2023-02-19;Vendedor externo;12;;;Ativo
+2323;2;1;2024-04-28;Loja;0;;;Ativo
+2324;1;6;2025-07-21;Vendedor externo;12;;;Ativo
+2325;1;5;2025-12-03;Vendedor externo;0;;;Ativo
+2326;2;1;2026-03-23;Loja;12;;;Ativo
+2327;1;4;2024-05-04;Vendedor externo;12;;;Ativo
+2328;3;3;2023-08-29;Loja;12;;;Ativo
+2329;4;5;2023-02-07;Loja;0;;;Ativo
+2330;5;2;2023-07-30;Vendedor externo;0;;;Ativo
+2331;1;1;2023-04-04;Vendedor externo;0;;;Ativo
+2332;5;3;2026-05-15;Site;12;;;Ativo
+2333;1;1;2024-01-19;Site;12;;;Ativo
+2334;2;3;2026-03-23;Vendedor externo;12;2026-12-12;Mudança de cidade;Cancelado
+2335;4;1;2025-03-02;Loja;12;;;Ativo
+2336;1;4;2025-02-09;Vendedor externo;0;;;Ativo
+2337;1;5;2024-10-12;Loja;0;;;Ativo
+2338;1;1;2026-03-17;Vendedor externo;12;;;Ativo
+2339;2;2;2023-03-04;Site;12;;;Ativo
+2340;3;4;2023-05-13;Site;0;2026-09-15;Preço;Cancelado
+2341;1;1;2024-08-28;Vendedor externo;12;;;Ativo
+2342;1;3;2024-07-18;WhatsApp;12;;;Ativo
+2343;2;3;2025-02-19;Loja;0;;;Ativo
+2344;1;2;2025-11-21;WhatsApp;0;;;Ativo
+2345;3;5;2025-04-20;WhatsApp;12;;;Ativo
+2346;5;2;2024-01-04;Vendedor externo;0;;;Ativo
+2347;3;3;2024-04-13;Loja;12;2026-01-04;Atendimento;Cancelado
+2348;4;1;2025-12-11;Loja;12;;;Ativo
+2349;2;1;2023-10-16;WhatsApp;12;;;Ativo
+2350;4;1;2024-12-21;Loja;12;2026-10-17;Atendimento;Cancelado
+2351;1;5;2025-02-09;WhatsApp;0;;;Ativo
+2352;1;5;2025-12-08;Vendedor externo;12;;;Ativo
+2353;3;5;2025-10-18;Vendedor externo;0;;;Ativo
+2354;1;1;2024-10-26;Site;12;;;Ativo
+2355;4;3;2024-03-18;Loja;12;;;Ativo
+2356;3;4;2024-06-10;Vendedor externo;12;;;Ativo
+2357;5;3;2024-08-11;WhatsApp;12;;;Ativo
+2358;2;1;2023-11-10;Loja;0;2026-11-23;Concorrente com oferta melhor;Cancelado
+2359;2;5;2025-06-13;WhatsApp;12;;;Ativo
+2360;3;1;2023-10-25;WhatsApp;12;;;Ativo
+2361;1;1;2025-07-16;Loja;0;;;Ativo
+2362;2;5;2025-12-10;Vendedor externo;0;;;Ativo
+2363;3;2;2026-10-07;Loja;12;2026-12-26;Mudança de cidade;Cancelado
+2364;5;2;2023-06-20;Site;12;;;Ativo
+2365;3;3;2025-12-22;WhatsApp;0;;;Ativo
+2366;1;6;2023-05-03;WhatsApp;0;;;Ativo
+2367;2;1;2024-04-27;WhatsApp;12;;;Ativo
+2368;2;4;2023-09-10;Loja;12;2026-01-17;Instabilidade na conexão;Cancelado
+2369;1;2;2023-08-21;Vendedor externo;12;2026-07-06;Concorrente com oferta melhor;Cancelado
+2370;2;1;2023-09-08;Loja;0;2026-01-15;Instabilidade na conexão;Cancelado
+2371;1;2;2023-03-04;WhatsApp;12;;;Ativo
+2372;1;3;2026-03-23;Loja;12;2026-12-21;Instabilidade na conexão;Cancelado
+2373;2;1;2023-03-29;Loja;12;;;Ativo
+2374;1;2;2024-07-23;Loja;12;2026-08-04;Atendimento;Cancelado
+2375;2;3;2025-09-26;Loja;12;;;Ativo
+2376;1;3;2026-11-17;Loja;12;;;Ativo
+2377;3;4;2026-05-05;Loja;0;;;Ativo
+2378;1;5;2023-07-16;WhatsApp;0;;;Ativo
+2379;4;2;2026-11-13;WhatsApp;0;;;Ativo
+2380;1;2;2025-07-23;Vendedor externo;0;;;Ativo
+2381;2;2;2023-09-14;WhatsApp;12;2026-07-12;Instabilidade na conexão;Cancelado
+2382;2;3;2024-10-03;Vendedor externo;0;;;Ativo
+2383;1;1;2026-08-05;WhatsApp;12;;;Ativo
+2384;2;2;2024-07-15;Vendedor externo;0;2026-01-08;Mudança de cidade;Cancelado
+2385;4;1;2023-09-20;Vendedor externo;12;;;Ativo
+2386;4;2;2026-06-05;Vendedor externo;12;;;Ativo
+2387;2;6;2026-09-24;Loja;0;;;Ativo
+2388;1;3;2026-10-27;Vendedor externo;12;;;Ativo
+2389;3;2;2026-09-28;WhatsApp;12;;;Ativo
+2390;2;3;2026-06-02;WhatsApp;12;2026-08-06;Instabilidade na conexão;Cancelado
+2391;1;3;2024-10-11;Vendedor externo;12;;;Ativo
+2392;3;2;2023-10-02;Vendedor externo;12;2026-10-10;Mudança de cidade;Cancelado
+2393;2;2;2025-06-01;WhatsApp;12;;;Ativo
+2394;3;4;2023-11-12;Loja;12;2026-10-28;Instabilidade na conexão;Cancelado
+2395;2;1;2024-11-07;Loja;0;;;Ativo
+2396;2;3;2025-07-27;Vendedor externo;0;;;Ativo
+2397;1;3;2026-09-15;Loja;12;;;Ativo
+2398;3;4;2024-02-18;Vendedor externo;12;;;Ativo
+2399;1;6;2023-12-27;Loja;12;;;Ativo
+2400;3;4;2025-11-16;Vendedor externo;12;;;Ativo
+2401;3;2;2023-01-10;Site;12;2026-02-11;Atendimento;Cancelado
+2402;3;1;2025-03-20;WhatsApp;0;;;Ativo
+2403;1;3;2025-12-02;Site;12;;;Ativo
+2404;1;5;2025-02-26;Vendedor externo;12;;;Ativo
+2405;2;6;2024-07-03;WhatsApp;12;;;Ativo
+2406;2;5;2026-03-30;Site;0;;;Ativo
+2407;4;1;2024-06-14;Vendedor externo;0;;;Ativo
+2408;2;4;2025-10-13;Loja;12;;;Ativo
+2409;4;5;2024-10-25;Site;12;;;Ativo
+2410;1;4;2023-02-08;Vendedor externo;12;2026-11-29;Instabilidade na conexão;Cancelado
+2411;2;4;2025-01-28;Site;0;2026-12-06;Mudança de cidade;Cancelado
+2412;1;2;2023-03-12;WhatsApp;12;;;Ativo
+2413;3;3;2026-08-24;WhatsApp;12;;;Ativo
+2414;1;1;2025-05-10;WhatsApp;12;;;Ativo
+2415;1;1;2024-06-16;Site;12;;;Ativo
+2416;3;5;2024-11-26;WhatsApp;12;;;Ativo
+2417;2;6;2025-06-04;WhatsApp;12;;;Ativo
+2418;1;5;2024-01-08;Loja;12;;;Ativo
+2419;1;2;2024-02-17;Site;12;;;Ativo
+2420;2;1;2024-08-21;Loja;0;;;Ativo
+2421;2;1;2024-01-05;Vendedor externo;12;;;Ativo
+2422;1;5;2025-12-19;Vendedor externo;12;;;Ativo
+2423;2;3;2023-05-29;Vendedor externo;12;;;Ativo
+2424;1;6;2026-03-28;Loja;12;;;Ativo
+2425;2;2;2024-05-13;Loja;12;;;Ativo
+2426;2;3;2025-03-13;Loja;0;;;Ativo
+2427;1;4;2023-08-14;Site;0;;;Ativo
+2428;1;1;2024-07-05;WhatsApp;0;2026-08-10;Atendimento;Cancelado
+2429;1;6;2025-12-15;WhatsApp;0;;;Ativo
+2430;1;3;2024-01-23;Vendedor externo;0;;;Ativo
+2431;2;1;2023-07-09;Vendedor externo;12;;;Ativo
+2432;4;1;2025-01-16;WhatsApp;0;;;Ativo
+2433;4;5;2023-08-21;Loja;12;;;Ativo
+2434;2;3;2024-03-26;WhatsApp;12;;;Ativo
+2435;2;4;2024-10-06;Site;0;;;Ativo
+2436;2;4;2025-03-17;Vendedor externo;12;;;Ativo
+2437;4;2;2025-07-03;Loja;12;;;Ativo
+2438;1;4;2025-08-25;Loja;12;2026-08-06;Instabilidade na conexão;Cancelado
+2439;1;6;2026-04-22;Vendedor externo;12;;;Ativo
+2440;2;1;2023-04-05;Vendedor externo;12;;;Ativo
+2441;1;4;2024-06-02;WhatsApp;0;2026-06-27;Preço;Cancelado
+2442;2;2;2023-01-02;Site;12;;;Ativo
+2443;4;2;2023-01-14;Vendedor externo;0;2026-03-02;Instabilidade na conexão;Cancelado
+2444;4;2;2023-10-31;Loja;12;;;Ativo
+2445;1;5;2025-05-05;Vendedor externo;0;;;Ativo
+2446;2;1;2026-07-03;Loja;12;;;Ativo
+2447;2;2;2026-01-11;Site;12;;;Ativo
+2448;2;4;2025-07-13;Site;0;;;Ativo
+2449;2;1;2026-01-17;WhatsApp;0;;;Ativo
+2450;1;4;2023-09-03;Vendedor externo;0;2026-02-04;Instabilidade na conexão;Cancelado
+2451;4;6;2026-04-15;Vendedor externo;12;;;Ativo
+2452;5;1;2026-06-27;WhatsApp;12;;;Ativo
+2453;3;1;2023-05-16;Site;0;2026-05-26;Preço;Cancelado
+2454;3;6;2024-11-03;Site;12;2026-09-02;Preço;Cancelado
+2455;2;1;2026-04-01;Vendedor externo;0;2026-11-20;Concorrente com oferta melhor;Cancelado
+2456;2;1;2024-11-11;WhatsApp;12;;;Ativo
+2457;1;6;2026-04-16;Loja;12;;;Ativo
+2458;2;5;2026-08-30;Vendedor externo;12;;;Ativo
+2459;1;3;2024-11-09;WhatsApp;12;2026-08-07;Preço;Cancelado
+2460;4;3;2023-03-27;Loja;0;;;Ativo
+2461;2;5;2024-05-01;WhatsApp;0;;;Ativo
+2462;2;3;2023-11-04;Vendedor externo;12;;;Ativo
+2463;2;3;2024-11-08;Loja;0;2026-01-25;Mudança de cidade;Cancelado
+2464;5;5;2025-04-17;Loja;0;;;Ativo
+2465;1;3;2024-10-25;WhatsApp;0;;;Ativo
+2466;1;2;2023-10-07;WhatsApp;12;;;Ativo
+2467;1;2;2024-03-06;Vendedor externo;12;;;Ativo
+2468;3;2;2025-08-29;Loja;12;;;Ativo
+2469;5;3;2023-02-08;Loja;12;;;Ativo
+2470;1;2;2023-11-03;Loja;0;2026-01-12;Instabilidade na conexão;Cancelado
+2471;4;2;2026-06-30;Site;12;;;Ativo
+2472;1;5;2023-05-22;Loja;12;2026-12-23;Preço;Cancelado
+2473;3;2;2024-08-16;Loja;0;;;Ativo
+2474;1;1;2023-10-23;Loja;12;;;Ativo
+2475;2;1;2023-05-30;Vendedor externo;12;;;Ativo
+2476;3;1;2024-08-27;Site;12;;;Ativo
+2477;2;4;2025-01-15;Site;12;;;Ativo
+2478;1;2;2023-09-09;Vendedor externo;12;;;Ativo
+2479;4;1;2023-04-22;WhatsApp;12;2026-03-14;Concorrente com oferta melhor;Cancelado
+2480;5;5;2023-07-12;Vendedor externo;12;;;Ativo
+2481;2;1;2025-07-20;WhatsApp;12;;;Ativo
+2482;3;1;2026-05-15;Site;12;;;Ativo
+2483;3;5;2023-09-15;Loja;12;;;Ativo
+2484;1;3;2024-04-03;WhatsApp;0;2026-03-24;Mudança de cidade;Cancelado
+2485;4;4;2024-05-06;Vendedor externo;12;;;Ativo
+2486;1;5;2024-05-30;Site;12;;;Ativo
+2487;3;6;2023-12-16;Loja;12;;;Ativo
+2488;1;1;2023-03-21;Vendedor externo;12;;;Ativo
+2489;1;4;2025-01-20;WhatsApp;12;;;Ativo
+2490;2;4;2024-05-26;Loja;12;;;Ativo
+2491;2;1;2024-05-04;Loja;12;;;Ativo
+2492;4;6;2024-01-14;Vendedor externo;0;;;Ativo
+2493;5;2;2026-08-21;Vendedor externo;12;2026-10-22;Instabilidade na conexão;Cancelado
+2494;1;5;2025-05-22;WhatsApp;12;;;Ativo
+2495;1;3;2024-08-21;Site;0;;;Ativo
+2496;2;3;2023-10-21;WhatsApp;0;;;Ativo
+2497;2;1;2026-02-19;Vendedor externo;12;;;Ativo
+2498;2;5;2026-06-24;Vendedor externo;12;;;Ativo
+2499;4;3;2023-02-16;Loja;12;;;Ativo
+2500;3;1;2026-08-22;Loja;0;;;Ativo
+2501;1;1;2025-09-27;Site;12;;;Ativo
+2502;2;4;2023-05-23;Loja;0;;;Ativo
+2503;2;1;2025-12-13;Loja;0;;;Ativo
+2504;2;3;2023-06-03;WhatsApp;12;;;Ativo
+2505;1;4;2023-03-14;Vendedor externo;12;;;Ativo
+2506;2;1;2023-06-14;Loja;12;2026-07-02;Instabilidade na conexão;Cancelado
+2507;2;3;2024-10-19;Site;0;2026-11-17;Instabilidade na conexão;Cancelado
+2508;1;1;2025-06-04;Vendedor externo;0;;;Ativo
+2509;3;6;2024-08-05;WhatsApp;12;;;Ativo
+2510;2;5;2023-06-24;Site;0;;;Ativo
+2511;2;1;2023-10-12;Loja;0;;;Ativo
+2512;2;3;2026-05-03;Loja;0;;;Ativo
+2513;4;2;2026-10-08;Vendedor externo;0;;;Ativo
+2514;1;6;2025-12-14;Site;12;;;Ativo
+2515;1;2;2023-05-28;Vendedor externo;0;;;Ativo
+2516;2;3;2026-03-18;Site;12;;;Ativo
+2517;2;6;2025-09-16;Vendedor externo;12;;;Ativo
+2518;1;1;2025-01-22;Vendedor externo;12;;;Ativo
+2519;3;3;2023-07-24;Loja;12;;;Ativo
+2520;1;1;2026-11-26;Loja;12;2026-12-26;Preço;Cancelado
+2521;1;3;2024-09-24;Vendedor externo;12;;;Ativo
+2522;2;2;2023-03-05;Vendedor externo;0;;;Ativo
+2523;3;6;2023-10-28;WhatsApp;12;;;Ativo
+2524;4;2;2024-07-27;Loja;0;;;Ativo
+2525;3;1;2023-03-31;Site;12;;;Ativo
+2526;2;5;2024-04-08;Loja;12;;;Ativo
+2527;3;5;2024-10-31;Site;0;2026-12-11;Concorrente com oferta melhor;Cancelado
+2528;3;4;2026-09-18;Loja;0;;;Ativo
+2529;1;4;2023-05-04;Site;0;;;Ativo
+2530;2;1;2025-04-04;Loja;0;;;Ativo
+2531;3;3;2026-08-02;Loja;12;;;Ativo
+2532;2;1;2026-02-26;Vendedor externo;0;;;Ativo
+2533;3;1;2026-08-15;Vendedor externo;12;;;Ativo
+2534;2;6;2023-09-01;Vendedor externo;12;;;Ativo
+2535;2;4;2026-02-19;Vendedor externo;0;;;Ativo
+2536;1;1;2026-10-31;WhatsApp;0;;;Ativo
+2537;3;1;2024-04-11;Vendedor externo;12;;;Ativo
+2538;4;6;2024-12-14;Vendedor externo;12;;;Ativo
+2539;1;1;2025-01-29;WhatsApp;12;;;Ativo
+2540;2;1;2024-12-06;Site;0;;;Ativo
+2541;1;1;2024-02-19;Vendedor externo;12;;;Ativo
+2542;1;1;2026-10-20;Vendedor externo;12;;;Ativo
+2543;5;2;2026-09-29;Loja;0;;;Ativo
+2544;2;6;2024-06-28;Vendedor externo;12;2026-01-17;Preço;Cancelado
+2545;2;2;2026-02-25;Vendedor externo;12;;;Ativo
+2546;1;2;2024-07-22;WhatsApp;12;;;Ativo
+2547;5;4;2026-02-10;WhatsApp;0;;;Ativo
+2548;1;3;2025-04-16;Loja;12;;;Ativo
+2549;3;4;2024-11-03;Loja;0;;;Ativo
+2550;1;3;2023-07-03;Vendedor externo;12;;;Ativo
+2551;1;3;2025-07-25;Vendedor externo;0;2026-03-24;Instabilidade na conexão;Cancelado
+2552;3;3;2024-04-04;Vendedor externo;12;2026-04-28;Mudança de cidade;Cancelado
+2553;1;4;2023-11-07;Site;12;2026-01-19;Concorrente com oferta melhor;Cancelado
+2554;3;4;2023-10-04;Vendedor externo;12;2026-05-02;Concorrente com oferta melhor;Cancelado
+2555;1;4;2026-11-05;WhatsApp;12;;;Ativo
+2556;3;1;2023-05-28;Vendedor externo;0;;;Ativo
+2557;3;3;2026-02-15;Loja;0;;;Ativo
+2558;3;4;2026-05-23;Vendedor externo;12;;;Ativo
+2559;1;1;2023-02-14;Site;0;;;Ativo
+2560;3;5;2025-04-22;Vendedor externo;0;;;Ativo
+2561;5;2;2025-04-05;Vendedor externo;12;;;Ativo
+2562;1;1;2024-05-27;Vendedor externo;12;;;Ativo
+2563;1;5;2025-08-11;Site;0;;;Ativo
+2564;3;1;2024-08-07;WhatsApp;12;;;Ativo
+2565;1;2;2024-09-20;Vendedor externo;12;;;Ativo
+2566;3;2;2024-09-09;Loja;12;;;Ativo
+2567;3;5;2026-02-18;Vendedor externo;0;;;Ativo
+2568;1;2;2025-06-24;Vendedor externo;12;;;Ativo
+2569;2;4;2024-06-26;WhatsApp;12;;;Ativo
+2570;2;4;2026-08-18;Vendedor externo;0;2026-12-23;Instabilidade na conexão;Cancelado
+2571;2;3;2026-02-20;Site;12;;;Ativo
+2572;4;6;2026-08-26;WhatsApp;12;;;Ativo
+2573;1;5;2025-11-10;Site;12;;;Ativo
+2574;2;2;2024-07-13;Loja;0;;;Ativo
+2575;4;6;2026-01-10;Site;12;2026-11-01;Preço;Cancelado
+2576;1;3;2024-04-15;Vendedor externo;0;;;Ativo
+2577;4;1;2024-01-23;Vendedor externo;0;;;Ativo
+2578;1;1;2024-10-06;WhatsApp;0;2026-11-21;Instabilidade na conexão;Cancelado
+2579;2;3;2026-10-18;Vendedor externo;12;;;Ativo
+2580;1;1;2025-03-23;Vendedor externo;0;;;Ativo
+2581;3;3;2024-07-02;Loja;12;;;Ativo
+2582;3;2;2024-10-22;Loja;12;;;Ativo
+2583;4;3;2024-02-21;Site;0;2026-07-26;Instabilidade na conexão;Cancelado
+2584;5;1;2025-07-31;WhatsApp;12;;;Ativo
+2585;3;5;2024-05-16;Site;12;;;Ativo
+2586;3;2;2025-03-03;Vendedor externo;0;;;Ativo
+2587;2;1;2024-06-12;Loja;12;;;Ativo
+2588;4;2;2024-04-03;Vendedor externo;12;;;Ativo
+2589;3;2;2026-10-19;Vendedor externo;12;;;Ativo
+2590;4;3;2024-05-09;WhatsApp;12;;;Ativo
+2591;1;3;2023-04-11;Site;12;;;Ativo
+2592;2;1;2024-06-25;WhatsApp;12;;;Ativo
+2593;3;5;2025-01-30;WhatsApp;0;2026-03-22;Instabilidade na conexão;Cancelado
+2594;1;2;2023-05-16;Vendedor externo;0;;;Ativo
+2595;1;1;2024-03-13;Site;12;;;Ativo
+2596;5;4;2023-08-26;Site;12;;;Ativo
+2597;2;3;2024-12-16;WhatsApp;0;;;Ativo
+2598;1;3;2025-10-31;Vendedor externo;0;;;Ativo
+2599;2;2;2026-10-16;Site;12;;;Ativo
+2600;2;2;2024-07-10;Vendedor externo;12;;;Ativo
+2601;3;3;2026-05-19;Site;0;;;Ativo
+2602;5;1;2023-11-03;WhatsApp;0;;;Ativo
+2603;5;1;2026-01-21;WhatsApp;0;;;Ativo
+2604;3;6;2025-03-15;Loja;0;;;Ativo
+2605;3;3;2025-12-20;Loja;12;;;Ativo
+2606;2;2;2025-12-16;WhatsApp;0;2026-12-26;Preço;Cancelado
+2607;4;1;2025-01-31;Site;12;;;Ativo
+2608;1;4;2024-01-04;WhatsApp;0;;;Ativo
+2609;1;1;2025-01-22;Vendedor externo;0;;;Ativo
+2610;5;1;2026-03-28;WhatsApp;12;;;Ativo
+2611;4;1;2026-10-20;Site;12;;;Ativo
+2612;2;4;2026-08-19;Loja;0;;;Ativo
+2613;3;3;2023-09-17;Loja;0;;;Ativo
+2614;2;1;2025-05-04;Site;12;;;Ativo
+2615;2;1;2023-05-30;Loja;12;;;Ativo
+2616;1;3;2025-08-14;WhatsApp;12;;;Ativo
+2617;1;3;2026-11-20;Vendedor externo;12;;;Ativo
+2618;2;4;2023-03-17;Vendedor externo;12;;;Ativo
+2619;2;1;2025-07-27;Vendedor externo;12;;;Ativo
+2620;2;4;2026-09-14;WhatsApp;12;;;Ativo
+2621;1;6;2026-04-26;Site;12;;;Ativo
+2622;5;3;2024-07-15;WhatsApp;12;;;Ativo
+2623;3;1;2023-05-29;WhatsApp;12;;;Ativo
+2624;4;3;2026-08-14;Vendedor externo;12;;;Ativo
+2625;1;2;2026-08-10;WhatsApp;0;;;Ativo
+2626;3;1;2025-04-07;Vendedor externo;12;;;Ativo
+2627;4;2;2026-10-31;Vendedor externo;0;;;Ativo
+2628;2;5;2023-01-07;Vendedor externo;12;;;Ativo
+2629;1;2;2025-05-31;Vendedor externo;0;2026-01-17;Instabilidade na conexão;Cancelado
+2630;1;5;2023-02-25;Site;0;2026-04-19;Preço;Cancelado
+2631;1;2;2026-08-31;Vendedor externo;0;;;Ativo
+2632;2;2;2025-08-30;Site;0;2026-12-06;Atendimento;Cancelado
+2633;2;1;2026-07-30;WhatsApp;0;;;Ativo
+2634;1;3;2025-03-15;Vendedor externo;0;;;Ativo
+2635;3;1;2023-04-30;Loja;12;;;Ativo
+2636;1;2;2023-02-07;Site;12;;;Ativo
+2637;2;1;2024-04-24;Loja;12;;;Ativo
+2638;3;2;2025-11-29;WhatsApp;12;;;Ativo
+2639;1;3;2023-08-04;Vendedor externo;0;;;Ativo
+2640;1;1;2026-05-03;Vendedor externo;12;;;Ativo
+2641;1;1;2023-12-09;Vendedor externo;12;;;Ativo
+2642;1;6;2024-12-10;Vendedor externo;12;2026-01-07;Preço;Cancelado
+2643;2;1;2023-10-18;Vendedor externo;12;;;Ativo
+2644;1;2;2024-10-28;Vendedor externo;12;;;Ativo
+2645;1;2;2024-10-08;Vendedor externo;12;2026-06-09;Atendimento;Cancelado
+2646;5;2;2023-01-08;WhatsApp;12;;;Ativo
+2647;4;4;2025-03-22;Loja;12;2026-08-15;Preço;Cancelado
+2648;1;1;2026-01-29;Vendedor externo;0;;;Ativo
+2649;2;2;2026-08-31;Loja;12;;;Ativo
+2650;2;3;2024-04-17;Vendedor externo;12;;;Ativo
+2651;4;2;2026-06-13;Loja;0;;;Ativo
+2652;3;6;2026-06-10;WhatsApp;12;;;Ativo
+2653;1;6;2026-11-14;Loja;12;;;Ativo
+2654;1;1;2024-06-17;Site;12;;;Ativo
+2655;2;2;2026-05-01;Vendedor externo;0;;;Ativo
+2656;4;1;2025-03-19;Vendedor externo;12;;;Ativo
+2657;4;1;2023-03-25;Loja;12;;;Ativo
+2658;1;2;2024-01-22;Site;0;;;Ativo
+2659;2;3;2025-08-19;WhatsApp;12;;;Ativo
+2660;1;2;2023-08-18;Loja;12;;;Ativo
+2661;3;1;2024-09-13;WhatsApp;0;;;Ativo
+2662;4;1;2026-01-13;Vendedor externo;12;;;Ativo
+2663;2;6;2023-08-03;Vendedor externo;0;2026-06-29;Instabilidade na conexão;Cancelado
+2664;1;6;2024-12-11;Site;12;;;Ativo
+2665;2;1;2023-11-04;Loja;12;2026-07-02;Atendimento;Cancelado
+2666;2;3;2025-02-06;Vendedor externo;0;;;Ativo
+2667;3;2;2023-12-11;Loja;12;;;Ativo
+2668;2;4;2026-10-12;Site;12;;;Ativo
+2669;4;3;2023-04-20;Vendedor externo;12;;;Ativo
+2670;1;5;2026-10-09;WhatsApp;12;;;Ativo
+2671;1;1;2026-02-06;Vendedor externo;12;;;Ativo
+2672;2;2;2026-05-08;WhatsApp;12;;;Ativo
+2673;1;6;2026-05-02;Loja;0;;;Ativo
+2674;1;1;2023-09-26;Site;12;2026-08-17;Atendimento;Cancelado
+2675;3;1;2026-08-24;Vendedor externo;12;;;Ativo
+2676;1;4;2025-04-29;Loja;12;;;Ativo
+2677;1;4;2026-10-07;Loja;12;;;Ativo
+2678;1;3;2026-06-09;Site;12;;;Ativo
+2679;1;4;2025-04-08;Loja;12;2026-11-07;Preço;Cancelado
+2680;4;4;2024-06-19;Vendedor externo;12;2026-02-02;Instabilidade na conexão;Cancelado
+2681;5;1;2023-06-17;WhatsApp;0;;;Ativo
+2682;1;3;2023-05-25;Vendedor externo;12;;;Ativo
+2683;3;4;2024-07-11;Loja;12;;;Ativo
+2684;3;5;2026-03-05;Loja;12;;;Ativo
+2685;5;1;2024-12-23;Loja;12;;;Ativo
+2686;2;1;2024-11-19;Vendedor externo;12;;;Ativo
+2687;1;4;2023-12-16;Site;12;;;Ativo
+2688;2;1;2025-03-18;Vendedor externo;0;;;Ativo
+2689;4;1;2025-07-01;Loja;12;;;Ativo
+2690;3;5;2026-11-05;Site;12;;;Ativo
+2691;2;2;2025-11-09;Vendedor externo;0;;;Ativo
+2692;1;2;2025-05-18;Vendedor externo;12;;;Ativo
+2693;3;1;2026-07-25;WhatsApp;12;2026-11-11;Concorrente com oferta melhor;Cancelado
+2694;4;1;2024-08-30;Vendedor externo;0;;;Ativo
+2695;2;4;2026-08-29;Vendedor externo;12;;;Ativo
+2696;3;2;2024-06-13;WhatsApp;12;;;Ativo
+2697;2;1;2023-07-02;Site;0;;;Ativo
+2698;2;2;2024-08-20;WhatsApp;0;;;Ativo
+2699;2;1;2023-07-04;WhatsApp;12;;;Ativo
+2700;3;1;2023-06-19;Vendedor externo;12;;;Ativo
+2701;5;1;2026-06-14;Vendedor externo;12;;;Ativo
+2702;2;3;2026-02-10;Site;0;;;Ativo
+2703;2;1;2023-11-13;Site;0;;;Ativo
+2704;2;2;2026-04-12;Site;12;2026-12-15;Instabilidade na conexão;Cancelado
+2705;1;2;2023-04-09;Vendedor externo;12;;;Ativo
+2706;1;2;2024-02-11;WhatsApp;12;;;Ativo
+2707;1;1;2025-10-06;Loja;0;;;Ativo
+2708;2;1;2024-03-10;Loja;12;;;Ativo
+2709;1;1;2025-11-10;Vendedor externo;12;;;Ativo
+2710;2;2;2026-06-04;Vendedor externo;12;2026-10-20;Preço;Cancelado
+2711;3;4;2023-04-05;Site;0;;;Ativo
+2712;1;1;2023-02-04;Loja;12;2026-11-02;Concorrente com oferta melhor;Cancelado
+2713;2;4;2026-09-06;Site;12;;;Ativo
+2714;4;4;2025-01-14;Vendedor externo;12;;;Ativo
+2715;2;1;2024-12-25;Loja;0;;;Ativo
+2716;1;1;2024-10-25;Vendedor externo;0;;;Ativo
+2717;2;1;2024-09-12;Vendedor externo;12;;;Ativo
+2718;2;1;2025-09-13;Site;0;;;Ativo
+2719;2;3;2025-04-09;Vendedor externo;12;2026-06-22;Preço;Cancelado
+2720;1;1;2023-08-22;Loja;12;;;Ativo
+2721;2;5;2025-06-15;Vendedor externo;0;;;Ativo
+2722;2;2;2025-08-13;Loja;12;;;Ativo
+2723;1;4;2023-06-12;Loja;12;;;Ativo
+2724;2;4;2024-06-22;WhatsApp;0;;;Ativo
+2725;1;2;2026-02-04;Loja;12;2026-03-29;Instabilidade na conexão;Cancelado
+2726;2;6;2025-06-03;Loja;12;;;Ativo
+2727;3;6;2023-07-15;WhatsApp;12;;;Ativo
+2728;1;2;2023-02-27;Site;0;;;Ativo
+2729;2;1;2025-04-11;Vendedor externo;12;;;Ativo
+2730;2;2;2024-10-22;Site;12;;;Ativo
+2731;2;1;2026-10-06;WhatsApp;0;;;Ativo
+2732;4;3;2025-01-16;Loja;12;;;Ativo
+2733;2;2;2026-08-25;Loja;12;;;Ativo
+2734;1;2;2023-11-03;WhatsApp;12;;;Ativo
+2735;4;4;2024-10-01;WhatsApp;12;2026-02-23;Preço;Cancelado
+2736;3;1;2023-07-19;WhatsApp;12;2026-02-09;Concorrente com oferta melhor;Cancelado
+2737;3;3;2025-04-01;Vendedor externo;12;;;Ativo
+2738;1;2;2023-09-27;WhatsApp;12;;;Ativo
+2739;1;4;2024-12-04;Vendedor externo;12;;;Ativo
+2740;3;3;2024-05-07;Site;12;;;Ativo
+2741;1;1;2023-09-23;WhatsApp;12;;;Ativo
+2742;1;3;2023-05-19;Loja;12;;;Ativo
+2743;3;1;2025-01-02;Loja;12;;;Ativo
+2744;1;4;2026-09-16;Vendedor externo;12;;;Ativo
+2745;1;3;2023-10-12;WhatsApp;0;;;Ativo
+2746;1;2;2024-08-02;Loja;12;;;Ativo
+2747;2;4;2023-11-18;WhatsApp;0;;;Ativo
+2748;2;5;2026-03-02;Vendedor externo;12;;;Ativo
+2749;4;4;2024-08-16;Vendedor externo;12;2026-02-02;Concorrente com oferta melhor;Cancelado
+2750;1;3;2026-10-25;Vendedor externo;12;;;Ativo
+2751;1;4;2023-12-17;WhatsApp;0;;;Ativo
+2752;2;2;2023-04-26;Loja;12;;;Ativo
+2753;2;4;2025-04-13;Vendedor externo;0;;;Ativo
+2754;2;5;2025-07-20;Loja;12;;;Ativo
+2755;5;1;2026-11-17;WhatsApp;12;;;Ativo
+2756;2;1;2026-05-31;WhatsApp;12;;;Ativo
+2757;2;1;2026-06-18;Loja;0;;;Ativo
+2758;5;1;2025-06-25;Vendedor externo;12;2026-02-05;Preço;Cancelado
+2759;1;2;2024-05-29;Vendedor externo;12;;;Ativo
+2760;5;1;2024-09-05;Vendedor externo;12;;;Ativo
+2761;2;3;2023-07-11;WhatsApp;12;;;Ativo
+2762;2;1;2024-09-08;Vendedor externo;12;;;Ativo
+2763;5;1;2024-06-05;Vendedor externo;0;;;Ativo
+2764;2;3;2023-02-21;Site;0;;;Ativo
+2765;2;2;2023-10-20;Vendedor externo;12;;;Ativo
+2766;1;2;2025-02-03;Loja;12;;;Ativo
+2767;3;4;2024-06-12;Loja;0;2026-05-23;Instabilidade na conexão;Cancelado
+2768;2;6;2026-11-21;Vendedor externo;12;;;Ativo
+2769;1;3;2024-11-15;Site;12;;;Ativo
+2770;3;1;2026-10-02;Loja;0;;;Ativo
+2771;3;1;2025-08-02;Vendedor externo;12;2026-05-24;Mudança de cidade;Cancelado
+2772;2;6;2023-02-27;Vendedor externo;12;;;Ativo
+2773;1;3;2023-10-18;Site;12;2026-12-06;Mudança de cidade;Cancelado
+2774;2;4;2025-10-06;Loja;0;;;Ativo
+2775;1;3;2025-02-18;Vendedor externo;12;2026-08-14;Preço;Cancelado
+2776;1;1;2024-03-07;Loja;12;;;Ativo
+2777;2;2;2025-01-16;Vendedor externo;12;;;Ativo
+2778;1;4;2026-07-15;Loja;12;;;Ativo
+2779;1;5;2024-07-09;Vendedor externo;12;;;Ativo
+2780;3;1;2023-03-06;WhatsApp;0;;;Ativo
+2781;2;3;2024-03-20;Loja;12;2026-09-04;Mudança de cidade;Cancelado
+2782;5;1;2026-08-31;Site;12;;;Ativo
+2783;4;6;2025-12-25;Vendedor externo;0;;;Ativo
+2784;2;1;2026-04-12;Vendedor externo;0;;;Ativo
+2785;5;4;2026-07-27;Vendedor externo;12;;;Ativo
+2786;4;1;2023-06-18;Vendedor externo;12;;;Ativo
+2787;2;3;2024-02-09;Site;0;;;Ativo
+2788;3;3;2023-03-27;WhatsApp;0;;;Ativo
+2789;1;2;2023-01-07;WhatsApp;12;;;Ativo
+2790;3;5;2026-04-08;Vendedor externo;0;;;Ativo
+2791;2;5;2026-09-01;Site;12;;;Ativo
+2792;1;5;2023-08-11;Loja;12;;;Ativo
+2793;1;2;2025-10-29;Vendedor externo;12;2026-06-10;Preço;Cancelado
+2794;5;4;2025-02-03;Loja;12;;;Ativo
+2795;2;3;2023-04-09;Loja;12;;;Ativo
+2796;1;3;2026-08-02;Site;12;;;Ativo
+2797;1;2;2026-05-30;WhatsApp;12;;;Ativo
+2798;2;3;2025-03-22;Loja;12;;;Ativo
+2799;4;1;2025-10-09;Vendedor externo;12;;;Ativo
+2800;3;2;2024-07-22;Site;12;;;Ativo
+2801;2;1;2026-02-07;WhatsApp;12;;;Ativo
+2802;1;1;2024-09-28;Site;12;2026-05-09;Instabilidade na conexão;Cancelado
+2803;1;1;2026-11-15;Loja;0;;;Ativo
+2804;2;1;2023-04-01;Loja;12;;;Ativo
+2805;3;4;2023-09-04;Site;0;;;Ativo
+2806;3;3;2026-10-17;Loja;12;;;Ativo
+2807;2;1;2024-02-17;WhatsApp;12;;;Ativo
+2808;2;4;2024-03-20;WhatsApp;0;;;Ativo
+2809;2;5;2026-02-05;WhatsApp;12;;;Ativo
+2810;2;5;2023-09-28;Vendedor externo;12;2026-05-29;Atendimento;Cancelado
+2811;2;5;2025-01-04;Site;12;2026-11-21;Preço;Cancelado
+2812;3;6;2024-02-14;Site;12;;;Ativo
+2813;2;3;2023-10-11;Loja;12;;;Ativo
+2814;5;6;2026-10-11;Vendedor externo;12;;;Ativo
+2815;2;6;2023-10-13;Loja;12;2026-08-24;Instabilidade na conexão;Cancelado
+2816;1;2;2023-05-15;Vendedor externo;12;;;Ativo
+2817;1;5;2025-08-21;WhatsApp;12;;;Ativo
+2818;2;4;2026-05-25;WhatsApp;0;;;Ativo
+2819;2;4;2023-07-02;Vendedor externo;12;;;Ativo
+2820;2;5;2025-10-09;Vendedor externo;12;;;Ativo
+2821;3;2;2025-02-12;Loja;0;;;Ativo
+2822;1;2;2026-04-01;Vendedor externo;12;;;Ativo
+2823;3;3;2023-07-01;Loja;12;;;Ativo
+2824;3;4;2026-10-27;Site;12;;;Ativo
+2825;2;5;2025-06-04;Site;0;;;Ativo
+2826;2;5;2026-04-19;WhatsApp;12;;;Ativo
+2827;1;4;2024-06-01;WhatsApp;12;;;Ativo
+2828;2;6;2026-09-11;Loja;0;;;Ativo
+2829;3;1;2025-06-14;Site;12;;;Ativo
+2830;4;6;2023-07-01;Loja;12;;;Ativo
+2831;2;1;2026-08-12;Vendedor externo;0;;;Ativo
+2832;1;3;2026-02-11;Vendedor externo;12;;;Ativo
+2833;3;1;2024-03-05;Loja;0;;;Ativo
+2834;3;3;2025-02-19;Loja;12;;;Ativo
+2835;2;2;2024-07-08;Vendedor externo;12;;;Ativo
+2836;4;1;2025-02-16;Loja;12;2026-06-20;Atendimento;Cancelado
+2837;1;3;2026-10-12;WhatsApp;12;;;Ativo
+2838;1;4;2026-07-09;Vendedor externo;12;;;Ativo
+2839;1;1;2023-11-05;Vendedor externo;0;;;Ativo
+2840;1;4;2026-10-21;WhatsApp;12;;;Ativo
+2841;4;1;2024-09-18;Vendedor externo;0;;;Ativo
+2842;2;1;2025-10-04;Vendedor externo;12;;;Ativo
+2843;1;1;2025-12-28;WhatsApp;0;;;Ativo
+2844;2;3;2024-11-21;Loja;12;2026-12-11;Mudança de cidade;Cancelado
+2845;2;4;2024-10-15;Loja;12;;;Ativo
+2846;2;3;2024-10-14;Vendedor externo;0;2026-02-01;Preço;Cancelado
+2847;1;5;2026-05-18;Vendedor externo;0;;;Ativo
+2848;3;3;2024-07-06;WhatsApp;0;2026-06-03;Mudança de cidade;Cancelado
+2849;1;4;2024-02-05;Loja;0;;;Ativo
+2850;3;6;2024-06-01;Site;12;;;Ativo
+2851;1;2;2023-10-06;Site;12;;;Ativo
+2852;3;1;2024-07-13;WhatsApp;12;;;Ativo
+2853;3;1;2023-06-13;Loja;0;;;Ativo
+2854;1;3;2023-05-09;Loja;12;;;Ativo
+2855;1;3;2025-11-01;WhatsApp;12;2026-05-20;Instabilidade na conexão;Cancelado
+2856;5;1;2023-04-21;Site;12;;;Ativo
+2857;2;5;2025-03-23;Loja;0;;;Ativo
+2858;3;6;2026-01-20;Loja;12;;;Ativo
+2859;1;1;2025-11-02;WhatsApp;0;;;Ativo
+2860;1;1;2024-09-29;Vendedor externo;12;;;Ativo
+2861;2;1;2023-10-04;Vendedor externo;12;;;Ativo
+2862;4;2;2026-08-23;WhatsApp;12;;;Ativo
+2863;1;5;2026-04-09;Loja;0;;;Ativo
+2864;3;3;2025-05-25;Loja;0;;;Ativo
+2865;3;1;2023-05-05;Site;12;2026-10-24;Mudança de cidade;Cancelado
+2866;1;2;2023-02-20;WhatsApp;12;;;Ativo
+2867;1;1;2024-03-26;Vendedor externo;12;;;Ativo
+2868;1;2;2023-08-14;Site;12;2026-03-17;Concorrente com oferta melhor;Cancelado
+2869;2;2;2026-05-15;Loja;0;;;Ativo
+2870;3;3;2023-10-22;Loja;12;;;Ativo
+2871;2;3;2024-02-09;WhatsApp;12;;;Ativo
+2872;1;5;2026-10-27;Loja;12;;;Ativo
+2873;3;1;2026-03-16;Loja;12;;;Ativo
+2874;2;4;2023-11-09;WhatsApp;12;;;Ativo
+2875;2;1;2024-07-02;Vendedor externo;12;;;Ativo
+2876;2;2;2025-01-07;Vendedor externo;0;;;Ativo
+2877;1;5;2025-08-07;WhatsApp;12;;;Ativo
+2878;3;4;2026-08-31;Loja;0;2026-11-07;Instabilidade na conexão;Cancelado
+2879;2;1;2026-05-30;Site;0;;;Ativo
+2880;2;2;2026-10-29;Vendedor externo;12;;;Ativo
+2881;1;4;2023-02-28;Loja;0;;;Ativo
+2882;2;6;2023-12-04;Site;0;;;Ativo
+2883;2;3;2025-03-16;Vendedor externo;12;;;Ativo
+2884;2;1;2023-03-12;WhatsApp;0;;;Ativo
+2885;4;2;2024-05-23;WhatsApp;12;2026-02-19;Preço;Cancelado
+2886;4;1;2023-08-08;WhatsApp;0;;;Ativo
+2887;1;1;2026-08-27;Vendedor externo;12;;;Ativo
+2888;3;3;2023-04-01;Loja;12;;;Ativo
+2889;2;4;2023-08-01;WhatsApp;0;2026-09-04;Instabilidade na conexão;Cancelado
+2890;5;1;2023-10-07;Vendedor externo;12;;;Ativo
+2891;1;4;2023-08-01;Site;0;2026-04-16;Atendimento;Cancelado
+2892;1;4;2025-03-24;WhatsApp;0;;;Ativo
+2893;2;4;2024-06-05;Vendedor externo;12;;;Ativo
+2894;1;1;2026-07-28;Loja;0;;;Ativo
+2895;3;2;2024-01-08;Site;0;;;Ativo
+2896;2;1;2025-02-07;Vendedor externo;12;;;Ativo
+2897;1;1;2025-08-01;Vendedor externo;12;;;Ativo
+2898;2;2;2025-06-14;Vendedor externo;12;;;Ativo
+2899;4;2;2026-02-12;WhatsApp;12;;;Ativo
+2900;3;1;2023-10-16;Vendedor externo;12;;;Ativo
+2901;2;1;2024-12-26;Loja;0;2026-10-22;Preço;Cancelado
+2902;1;5;2026-02-18;Site;0;;;Ativo
+2903;1;4;2026-05-19;WhatsApp;12;2026-11-22;Atendimento;Cancelado
+2904;4;2;2025-06-02;WhatsApp;12;;;Ativo
+2905;3;6;2025-07-21;Loja;0;;;Ativo
+2906;2;1;2026-05-20;WhatsApp;0;;;Ativo
+2907;4;2;2025-06-12;WhatsApp;12;;;Ativo
+2908;1;5;2026-09-18;Site;12;;;Ativo
+2909;3;2;2023-07-02;Vendedor externo;12;2026-08-25;Concorrente com oferta melhor;Cancelado
+2910;1;1;2024-05-12;Loja;12;;;Ativo
+2911;1;2;2023-06-10;Vendedor externo;12;;;Ativo
+2912;2;2;2023-05-10;Vendedor externo;12;;;Ativo
+2913;2;3;2024-11-05;Vendedor externo;12;;;Ativo
+2914;5;2;2023-11-20;WhatsApp;12;;;Ativo
+2915;2;2;2024-08-05;Loja;12;;;Ativo
+2916;3;1;2024-09-18;WhatsApp;12;;;Ativo
+2917;3;3;2025-06-06;Vendedor externo;0;;;Ativo
+2918;3;1;2026-09-14;WhatsApp;0;;;Ativo
+2919;5;5;2026-04-29;Vendedor externo;0;2026-11-26;Atendimento;Cancelado
+2920;2;4;2024-06-24;Site;0;;;Ativo
+2921;2;2;2024-04-10;Vendedor externo;0;;;Ativo
+2922;1;4;2026-01-07;WhatsApp;12;;;Ativo
+2923;1;1;2023-06-26;Loja;12;;;Ativo
+2924;4;2;2025-02-11;Loja;12;;;Ativo
+2925;2;2;2024-08-27;WhatsApp;12;;;Ativo
+2926;2;2;2023-09-19;Loja;12;;;Ativo
+2927;1;4;2025-05-31;Site;12;;;Ativo
+2928;2;6;2024-04-03;Loja;0;;;Ativo
+2929;3;2;2023-09-23;Loja;0;2026-01-07;Mudança de cidade;Cancelado
+2930;1;2;2025-07-23;Vendedor externo;0;;;Ativo
+2931;3;3;2023-09-07;Vendedor externo;12;;;Ativo
+2932;3;1;2025-08-20;Vendedor externo;0;2026-07-13;Concorrente com oferta melhor;Cancelado
+2933;3;1;2023-08-20;Vendedor externo;0;;;Ativo
+2934;1;6;2024-09-13;Site;12;;;Ativo
+2935;3;5;2026-03-01;WhatsApp;12;;;Ativo
+2936;1;6;2023-11-23;Vendedor externo;12;2026-05-26;Instabilidade na conexão;Cancelado
+2937;2;1;2026-01-02;Vendedor externo;12;;;Ativo
+2938;3;1;2025-10-29;Vendedor externo;12;;;Ativo
+2939;3;2;2026-07-14;WhatsApp;12;;;Ativo
+2940;1;6;2023-08-30;Vendedor externo;0;;;Ativo
+2941;4;1;2025-10-19;Site;12;;;Ativo
+2942;1;1;2026-09-01;Vendedor externo;12;;;Ativo
+2943;2;1;2025-12-27;Site;0;;;Ativo
+2944;5;4;2023-09-26;WhatsApp;12;2026-04-12;Preço;Cancelado
+2945;2;4;2026-03-21;Vendedor externo;12;;;Ativo
+2946;3;4;2023-06-03;Vendedor externo;12;;;Ativo
+2947;2;1;2025-04-22;Vendedor externo;12;;;Ativo
+2948;3;4;2024-12-12;Vendedor externo;12;;;Ativo
+2949;3;2;2025-01-29;Vendedor externo;0;;;Ativo
+2950;3;1;2025-01-12;WhatsApp;0;2026-08-09;Instabilidade na conexão;Cancelado
+2951;1;1;2023-02-15;Vendedor externo;12;;;Ativo
+2952;3;2;2024-12-27;Loja;12;;;Ativo
+2953;1;2;2026-09-01;Loja;12;;;Ativo
+2954;5;6;2024-09-16;Vendedor externo;12;;;Ativo
+2955;1;2;2024-01-31;WhatsApp;12;;;Ativo
+2956;1;2;2026-11-23;Vendedor externo;0;;;Ativo
+2957;4;3;2023-05-22;Vendedor externo;0;;;Ativo
+2958;1;3;2024-11-26;Vendedor externo;12;;;Ativo
+2959;2;1;2025-01-03;WhatsApp;12;;;Ativo
+2960;3;3;2024-11-14;WhatsApp;0;;;Ativo
+2961;1;1;2026-08-11;Loja;12;;;Ativo
+2962;1;2;2024-08-26;Site;12;2026-08-20;Instabilidade na conexão;Cancelado
+2963;2;4;2026-10-23;WhatsApp;0;;;Ativo
+2964;1;3;2023-04-06;WhatsApp;12;;;Ativo
+2965;1;2;2025-11-15;Vendedor externo;12;;;Ativo
+2966;1;1;2025-04-27;Site;12;;;Ativo
+2967;2;2;2023-12-10;Vendedor externo;12;;;Ativo
+2968;2;2;2023-11-22;Loja;12;;;Ativo
+2969;1;5;2025-10-26;Loja;0;;;Ativo
+2970;3;3;2025-06-30;Vendedor externo;12;2026-04-24;Mudança de cidade;Cancelado
+2971;3;5;2025-05-23;Loja;12;;;Ativo
+2972;1;2;2023-03-14;Vendedor externo;12;2026-01-12;Instabilidade na conexão;Cancelado
+2973;2;5;2025-05-04;WhatsApp;12;;;Ativo
+2974;4;1;2026-11-04;WhatsApp;0;;;Ativo
+2975;2;1;2023-01-25;Loja;12;;;Ativo
+2976;2;1;2024-11-01;Loja;0;;;Ativo
+2977;2;1;2024-12-07;Site;0;;;Ativo
+2978;1;5;2026-07-06;Vendedor externo;12;;;Ativo
+2979;3;4;2024-02-09;Loja;12;2026-01-01;Mudança de cidade;Cancelado
+2980;4;3;2024-11-11;WhatsApp;12;;;Ativo
+2981;4;3;2025-10-22;Loja;12;;;Ativo
+2982;1;3;2023-03-28;Loja;0;;;Ativo
+2983;2;3;2026-02-19;Site;0;;;Ativo
+2984;1;5;2026-03-21;Site;0;;;Ativo
+2985;2;3;2025-10-26;Vendedor externo;12;;;Ativo
+2986;2;4;2025-07-15;Site;12;;;Ativo
+2987;3;1;2025-12-05;WhatsApp;0;;;Ativo
+2988;1;6;2026-01-22;Loja;12;;;Ativo
+2989;4;1;2026-07-15;Site;12;;;Ativo
+2990;1;2;2024-09-04;Loja;12;;;Ativo
+2991;1;5;2024-10-14;Vendedor externo;12;;;Ativo
+2992;4;1;2025-07-01;Vendedor externo;0;;;Ativo
+2993;3;1;2023-10-04;Vendedor externo;12;;;Ativo
+2994;2;2;2026-05-09;Loja;12;;;Ativo
+2995;2;2;2026-01-06;WhatsApp;0;;;Ativo
+2996;1;6;2025-06-21;Vendedor externo;0;;;Ativo
+2997;1;5;2024-03-07;WhatsApp;12;;;Ativo
+2998;2;2;2024-05-12;Vendedor externo;12;;;Ativo
+2999;2;6;2024-09-14;WhatsApp;0;2026-10-24;Preço;Cancelado
+3000;2;3;2025-08-05;Vendedor externo;12;;;Ativo
+3001;1;5;2026-01-17;Vendedor externo;12;;;Ativo
+3002;3;1;2025-08-18;Site;0;;;Ativo
+3003;3;2;2026-08-22;WhatsApp;0;2026-11-27;Concorrente com oferta melhor;Cancelado
+3004;1;1;2026-10-05;Vendedor externo;12;;;Ativo
+3005;1;1;2025-10-05;Vendedor externo;12;;;Ativo
+3006;2;4;2024-06-14;Vendedor externo;0;;;Ativo
+3007;3;1;2025-05-06;Vendedor externo;12;;;Ativo
+3008;3;3;2024-08-30;Vendedor externo;12;;;Ativo
+3009;3;4;2025-06-18;WhatsApp;12;;;Ativo
+3010;2;1;2026-03-07;Vendedor externo;0;;;Ativo
+3011;1;2;2024-06-12;Vendedor externo;0;;;Ativo
+3012;2;4;2024-12-24;Site;0;;;Ativo
+3013;1;5;2023-03-07;WhatsApp;12;;;Ativo
+3014;3;1;2025-11-19;Vendedor externo;12;;;Ativo
+3015;1;6;2024-12-01;Loja;12;;;Ativo
+3016;1;5;2024-10-19;Loja;0;;;Ativo
+3017;2;3;2025-01-31;Site;12;;;Ativo
+3018;2;2;2023-11-05;Vendedor externo;12;;;Ativo
+3019;2;4;2025-05-05;Vendedor externo;12;;;Ativo
+3020;2;5;2025-12-01;Loja;12;;;Ativo
+3021;4;2;2024-05-15;WhatsApp;12;;;Ativo
+3022;4;6;2023-07-07;Vendedor externo;0;;;Ativo
+3023;4;5;2024-07-07;Site;0;;;Ativo
+3024;3;2;2023-10-11;Loja;12;;;Ativo
+3025;3;4;2024-06-18;Loja;0;;;Ativo
+3026;2;3;2025-06-15;Loja;0;2026-02-11;Instabilidade na conexão;Cancelado
+3027;2;4;2023-06-12;Vendedor externo;12;;;Ativo
+3028;2;5;2025-12-04;Vendedor externo;0;;;Ativo
+3029;2;1;2023-11-18;Loja;12;;;Ativo
+3030;1;1;2026-07-03;Vendedor externo;12;;;Ativo
+3031;1;2;2025-11-13;Loja;12;2026-12-12;Instabilidade na conexão;Cancelado
+3032;4;5;2024-01-25;Vendedor externo;0;2026-01-04;Atendimento;Cancelado
+3033;1;2;2025-03-16;Loja;12;;;Ativo
+3034;2;5;2023-06-08;Loja;12;;;Ativo
+3035;2;2;2023-05-23;Loja;12;;;Ativo
+3036;1;1;2026-09-29;Site;12;;;Ativo
+3037;4;5;2026-02-21;WhatsApp;12;;;Ativo
+3038;1;3;2023-08-09;Site;0;;;Ativo
+3039;4;2;2024-02-09;Loja;0;;;Ativo
+3040;3;1;2023-10-10;WhatsApp;12;2026-09-16;Instabilidade na conexão;Cancelado
+3041;1;1;2024-07-19;WhatsApp;12;2026-05-24;Concorrente com oferta melhor;Cancelado
+3042;1;1;2024-02-21;Vendedor externo;12;;;Ativo
+3043;2;2;2024-04-14;Loja;0;;;Ativo
+3044;2;3;2025-01-27;Site;0;;;Ativo
+3045;1;2;2023-09-28;WhatsApp;12;;;Ativo
+3046;5;1;2026-06-16;WhatsApp;12;;;Ativo
+3047;1;1;2025-11-06;Site;0;;;Ativo
+3048;4;2;2025-12-23;Site;12;;;Ativo
+3049;1;6;2023-08-31;WhatsApp;12;;;Ativo
+3050;5;2;2025-10-09;Loja;0;;;Ativo
+3051;1;1;2026-04-10;Loja;12;;;Ativo
+3052;2;3;2023-09-08;WhatsApp;0;;;Ativo
+3053;2;5;2025-12-10;Loja;12;;;Ativo
+3054;1;4;2024-05-26;Vendedor externo;0;;;Ativo
+3055;3;5;2026-01-31;Vendedor externo;12;2026-06-08;Concorrente com oferta melhor;Cancelado
+3056;1;6;2024-11-15;Loja;0;;;Ativo
+3057;2;3;2026-02-21;Loja;12;;;Ativo
+3058;2;6;2023-07-30;Vendedor externo;12;;;Ativo
+3059;2;1;2024-07-10;Vendedor externo;12;;;Ativo
+3060;1;5;2024-01-27;Vendedor externo;12;;;Ativo
+3061;1;5;2023-12-22;Vendedor externo;12;;;Ativo
+3062;1;5;2024-03-16;WhatsApp;0;;;Ativo
+3063;2;2;2024-06-30;Vendedor externo;12;;;Ativo
+3064;1;4;2023-07-02;WhatsApp;12;;;Ativo
+3065;5;1;2025-10-08;Vendedor externo;12;;;Ativo
+3066;2;3;2025-02-25;Loja;0;;;Ativo
+3067;3;2;2026-03-31;WhatsApp;0;;;Ativo
+3068;2;3;2025-10-05;WhatsApp;0;2026-11-16;Preço;Cancelado
+3069;1;3;2023-08-02;Loja;0;;;Ativo
+3070;2;2;2023-04-11;Site;0;;;Ativo
+3071;1;1;2024-08-27;Site;12;;;Ativo
+3072;2;2;2024-11-19;Loja;0;;;Ativo
+3073;2;3;2023-12-10;Vendedor externo;0;;;Ativo
+3074;2;3;2026-01-23;Loja;0;;;Ativo
+3075;5;4;2025-04-11;Loja;12;;;Ativo
+3076;1;1;2025-12-05;WhatsApp;12;;;Ativo
+3077;2;5;2023-06-05;Vendedor externo;0;;;Ativo
+3078;1;4;2026-03-11;WhatsApp;12;2026-11-26;Preço;Cancelado
+3079;2;1;2023-10-22;Site;12;2026-01-09;Instabilidade na conexão;Cancelado
+3080;3;2;2024-10-02;WhatsApp;0;;;Ativo
+3081;1;2;2024-09-20;Vendedor externo;12;;;Ativo
+3082;2;2;2026-03-19;Vendedor externo;12;;;Ativo
+3083;2;1;2024-01-31;Vendedor externo;12;2026-07-23;Instabilidade na conexão;Cancelado
+3084;1;1;2023-12-11;Site;12;;;Ativo
+3085;5;1;2024-04-30;Vendedor externo;12;;;Ativo
+3086;2;1;2024-05-30;Site;12;;;Ativo
+3087;3;1;2023-09-17;Vendedor externo;12;2026-12-02;Preço;Cancelado
+3088;2;5;2023-09-10;Loja;0;;;Ativo
+3089;5;3;2023-11-27;WhatsApp;12;;;Ativo
+3090;1;2;2024-10-30;WhatsApp;12;;;Ativo
+3091;2;3;2024-05-05;Vendedor externo;0;;;Ativo
+3092;3;3;2024-07-14;Site;12;2026-10-18;Atendimento;Cancelado
+3093;2;1;2025-10-25;Vendedor externo;12;2026-01-06;Instabilidade na conexão;Cancelado
+3094;2;1;2023-12-11;WhatsApp;0;;;Ativo
+3095;5;1;2026-07-25;Vendedor externo;12;;;Ativo
+3096;2;3;2025-12-11;Vendedor externo;12;;;Ativo
+3097;3;2;2023-09-07;Loja;0;;;Ativo
+3098;3;2;2024-03-24;Loja;12;;;Ativo
+3099;4;3;2023-09-20;WhatsApp;12;;;Ativo
+3100;4;6;2024-01-26;Vendedor externo;12;;;Ativo
+3101;2;2;2024-06-06;Loja;0;;;Ativo
+3102;1;3;2023-07-07;Loja;12;;;Ativo
+3103;1;2;2023-01-21;Vendedor externo;12;;;Ativo
+3104;2;4;2024-09-19;Site;12;;;Ativo
+3105;4;4;2025-09-29;Vendedor externo;0;2026-02-06;Atendimento;Cancelado
+3106;2;4;2024-03-09;Site;12;;;Ativo
+3107;1;1;2026-05-15;WhatsApp;12;;;Ativo
+3108;1;2;2024-06-12;Vendedor externo;0;;;Ativo
+3109;2;5;2026-07-12;WhatsApp;12;;;Ativo
+3110;4;2;2023-12-04;Loja;12;;;Ativo
+3111;1;6;2025-02-10;Vendedor externo;12;;;Ativo
+3112;2;2;2025-12-27;Loja;12;;;Ativo
+3113;3;2;2023-03-26;Loja;0;;;Ativo
+3114;5;2;2026-08-22;Loja;12;;;Ativo
+3115;1;2;2024-06-05;Loja;0;;;Ativo
+3116;5;5;2024-12-13;WhatsApp;12;;;Ativo
+3117;2;1;2025-06-17;Vendedor externo;12;;;Ativo
+3118;3;3;2025-07-08;WhatsApp;0;2026-03-16;Concorrente com oferta melhor;Cancelado
+3119;1;3;2023-02-03;Vendedor externo;12;;;Ativo
+3120;2;5;2026-05-25;Site;12;;;Ativo
+3121;3;3;2025-06-10;Loja;0;;;Ativo
+3122;2;6;2026-11-29;Vendedor externo;0;;;Ativo
+3123;2;5;2024-11-05;Vendedor externo;12;;;Ativo
+3124;2;2;2025-05-27;WhatsApp;12;;;Ativo
+3125;2;5;2024-09-22;WhatsApp;0;2026-07-18;Mudança de cidade;Cancelado
+3126;1;6;2026-06-26;Loja;12;;;Ativo
+3127;2;1;2026-04-05;Site;0;2026-06-04;Atendimento;Cancelado
+3128;1;3;2026-07-23;Site;12;;;Ativo
+3129;4;1;2024-12-22;Vendedor externo;12;;;Ativo
+3130;5;3;2026-02-05;Loja;0;;;Ativo
+3131;1;1;2024-05-28;Site;12;;;Ativo
+3132;1;4;2024-10-21;WhatsApp;0;2026-05-07;Instabilidade na conexão;Cancelado
+3133;1;2;2025-12-23;Vendedor externo;12;;;Ativo
+3134;2;3;2023-04-27;Vendedor externo;0;;;Ativo
+3135;4;1;2025-10-13;Loja;0;;;Ativo
+3136;2;4;2023-01-23;WhatsApp;12;;;Ativo
+3137;1;2;2025-04-10;Loja;12;;;Ativo
+3138;1;3;2024-11-13;Loja;0;2026-01-22;Instabilidade na conexão;Cancelado
+3139;1;2;2024-11-01;Vendedor externo;12;;;Ativo
+3140;4;1;2024-12-07;WhatsApp;0;;;Ativo
+3141;3;2;2024-12-04;Site;12;2026-02-13;Preço;Cancelado
+3142;2;6;2024-08-05;Loja;0;;;Ativo
+3143;2;1;2024-10-07;Loja;12;;;Ativo
+3144;5;3;2025-03-23;WhatsApp;0;;;Ativo
+3145;2;1;2025-12-27;Vendedor externo;12;;;Ativo
+3146;4;4;2025-02-28;Loja;12;;;Ativo
+3147;4;1;2025-07-07;WhatsApp;12;;;Ativo
+3148;2;2;2026-04-11;Loja;12;;;Ativo
+3149;4;2;2026-11-16;Vendedor externo;0;;;Ativo
+3150;1;1;2023-06-05;Loja;0;;;Ativo
+3151;3;2;2025-10-16;Site;12;;;Ativo
+3152;1;2;2023-11-19;WhatsApp;0;2026-07-12;Concorrente com oferta melhor;Cancelado
+3153;2;3;2023-10-09;Vendedor externo;12;2026-11-29;Concorrente com oferta melhor;Cancelado
+3154;1;6;2026-02-07;Site;12;;;Ativo
+3155;1;2;2023-04-09;WhatsApp;12;;;Ativo
+3156;1;5;2026-04-27;WhatsApp;12;2026-11-05;Concorrente com oferta melhor;Cancelado
+3157;2;2;2026-01-06;Vendedor externo;12;;;Ativo
+3158;2;1;2026-11-23;Vendedor externo;12;;;Ativo
+3159;2;1;2025-08-13;WhatsApp;12;2026-09-24;Instabilidade na conexão;Cancelado
+3160;2;2;2026-06-02;Loja;12;;;Ativo
+3161;5;2;2023-06-19;Loja;12;;;Ativo
+3162;5;5;2026-06-26;Loja;12;2026-12-03;Instabilidade na conexão;Cancelado
+3163;1;3;2023-08-18;WhatsApp;12;;;Ativo
+3164;2;3;2024-03-25;Loja;0;;;Ativo
+3165;3;2;2023-07-03;Vendedor externo;12;;;Ativo
+3166;3;2;2024-07-28;Site;12;;;Ativo
+3167;2;3;2025-12-07;Loja;0;;;Ativo
+3168;3;1;2024-01-19;Vendedor externo;0;;;Ativo
+3169;1;1;2026-03-21;Vendedor externo;12;;;Ativo
+3170;2;2;2025-05-17;Loja;0;;;Ativo
+3171;3;1;2025-06-18;WhatsApp;12;;;Ativo
+3172;3;3;2026-09-04;Loja;12;;;Ativo
+3173;4;1;2024-09-09;WhatsApp;12;;;Ativo
+3174;1;1;2024-05-07;Vendedor externo;0;2026-11-01;Instabilidade na conexão;Cancelado
+3175;1;5;2026-11-23;Loja;12;;;Ativo
+3176;1;6;2025-03-07;Loja;12;;;Ativo
+3177;1;2;2025-05-28;Vendedor externo;12;;;Ativo
+3178;1;2;2024-02-28;Vendedor externo;12;;;Ativo
+3179;2;4;2023-11-05;Loja;12;;;Ativo
+3180;2;1;2023-08-31;WhatsApp;0;;;Ativo
+3181;3;2;2023-11-16;Vendedor externo;12;;;Ativo
+3182;2;1;2023-10-07;WhatsApp;0;;;Ativo
+3183;1;2;2025-12-03;Loja;12;;;Ativo
+3184;3;6;2023-03-24;Loja;0;;;Ativo
+3185;1;4;2025-06-19;Vendedor externo;12;;;Ativo
+3186;4;6;2026-09-19;Vendedor externo;12;;;Ativo
+3187;1;4;2025-12-30;Loja;0;;;Ativo
+3188;2;3;2024-07-30;Loja;12;;;Ativo
+3189;4;4;2023-03-26;Loja;0;;;Ativo
+3190;2;3;2026-04-07;WhatsApp;0;;;Ativo
+3191;2;2;2023-01-05;Vendedor externo;12;;;Ativo
+3192;3;1;2025-09-01;WhatsApp;12;;;Ativo
+3193;1;3;2025-08-17;Loja;0;;;Ativo
+3194;3;1;2023-10-02;Vendedor externo;0;;;Ativo
+3195;4;2;2025-11-24;Vendedor externo;0;;;Ativo
+3196;5;1;2023-09-08;Vendedor externo;12;;;Ativo
+3197;2;3;2023-11-19;WhatsApp;12;2026-09-08;Instabilidade na conexão;Cancelado
+3198;2;1;2026-03-07;WhatsApp;0;;;Ativo
+3199;3;1;2026-11-01;Loja;12;;;Ativo
+3200;2;2;2024-01-14;Vendedor externo;12;;;Ativo
+3201;1;1;2026-08-10;WhatsApp;12;;;Ativo
+3202;1;6;2026-07-29;Loja;0;;;Ativo
+3203;1;2;2026-01-05;Vendedor externo;12;;;Ativo
+3204;2;2;2023-07-20;Vendedor externo;0;;;Ativo
+3205;1;1;2024-03-04;Vendedor externo;0;;;Ativo
+3206;1;5;2025-08-27;Vendedor externo;12;;;Ativo
+3207;1;3;2026-11-29;Vendedor externo;12;;;Ativo
+3208;5;2;2026-03-10;WhatsApp;0;;;Ativo
+3209;1;1;2024-08-23;Vendedor externo;12;;;Ativo
+3210;1;4;2023-12-03;WhatsApp;12;;;Ativo
+3211;2;6;2026-10-05;Site;12;;;Ativo
+3212;1;2;2024-01-30;Vendedor externo;12;2026-06-04;Instabilidade na conexão;Cancelado
+3213;5;1;2024-05-04;Vendedor externo;12;;;Ativo
+3214;4;1;2026-10-11;Vendedor externo;12;;;Ativo
+3215;2;1;2025-03-14;WhatsApp;0;;;Ativo
+3216;2;4;2024-01-14;Loja;12;;;Ativo
+3217;2;6;2023-01-08;WhatsApp;0;;;Ativo
+3218;1;6;2024-09-06;Vendedor externo;12;;;Ativo
+3219;1;4;2026-11-10;Site;0;;;Ativo
+3220;1;1;2024-09-10;Vendedor externo;12;2026-11-05;Preço;Cancelado
+3221;1;6;2025-09-27;Vendedor externo;12;;;Ativo
+3222;2;2;2023-12-28;Site;0;;;Ativo
+3223;1;2;2026-01-14;Site;0;;;Ativo
+3224;1;4;2026-01-14;Loja;0;;;Ativo
+3225;2;1;2025-05-19;Vendedor externo;12;;;Ativo
+3226;2;5;2026-01-08;Vendedor externo;0;2026-08-02;Concorrente com oferta melhor;Cancelado
+3227;1;6;2025-04-07;Site;12;;;Ativo
+3228;1;4;2024-06-24;Vendedor externo;12;;;Ativo
+3229;1;4;2025-11-21;Loja;12;;;Ativo
+3230;1;2;2026-04-09;Site;12;;;Ativo
+3231;3;1;2026-04-17;Vendedor externo;0;;;Ativo
+3232;4;4;2023-11-01;Vendedor externo;12;2026-09-05;Concorrente com oferta melhor;Cancelado
+3233;2;3;2025-08-25;Site;12;;;Ativo
+3234;2;5;2023-01-07;Site;12;;;Ativo
+3235;3;1;2025-03-28;Site;12;;;Ativo
+3236;3;2;2025-03-27;Loja;0;;;Ativo
+3237;1;2;2024-06-03;Loja;12;;;Ativo
+3238;1;4;2026-11-22;Site;12;;;Ativo
+3239;2;4;2026-06-16;Loja;0;;;Ativo
+3240;2;6;2023-02-25;Loja;0;;;Ativo
+3241;1;1;2023-10-26;Loja;0;;;Ativo
+3242;1;2;2023-10-25;Vendedor externo;12;;;Ativo
+3243;2;1;2026-07-07;WhatsApp;0;;;Ativo
+3244;1;1;2025-01-12;Loja;12;;;Ativo
+3245;2;2;2025-11-08;Vendedor externo;12;;;Ativo
+3246;3;3;2026-03-04;WhatsApp;0;;;Ativo
+3247;2;2;2026-01-02;WhatsApp;0;;;Ativo
+3248;1;2;2023-05-08;Loja;0;;;Ativo
+3249;1;3;2023-07-20;WhatsApp;12;;;Ativo
+3250;4;5;2024-07-19;Loja;12;;;Ativo
+3251;2;1;2024-04-28;WhatsApp;12;;;Ativo
+3252;1;2;2025-12-04;Loja;12;;;Ativo
+3253;1;4;2023-08-12;Vendedor externo;12;;;Ativo
+3254;3;4;2024-06-15;Loja;0;;;Ativo
+3255;3;5;2023-12-05;Site;12;;;Ativo
+3256;4;1;2023-09-28;Loja;12;;;Ativo
+3257;2;3;2023-09-05;Vendedor externo;12;;;Ativo
+3258;2;5;2023-10-07;Site;0;2026-04-13;Instabilidade na conexão;Cancelado
+3259;2;2;2025-03-18;Loja;0;;;Ativo
+3260;1;2;2024-08-09;WhatsApp;12;;;Ativo
+3261;3;6;2024-09-14;Vendedor externo;12;2026-02-12;Instabilidade na conexão;Cancelado
+3262;2;1;2024-11-16;Loja;0;;;Ativo
+3263;1;4;2025-11-25;Loja;0;2026-05-25;Instabilidade na conexão;Cancelado
+3264;4;5;2026-05-17;Vendedor externo;12;;;Ativo
+3265;2;1;2025-01-22;Loja;12;;;Ativo
+3266;1;4;2025-07-07;Vendedor externo;12;;;Ativo
+3267;2;2;2025-11-22;Site;0;2026-03-07;Preço;Cancelado
+3268;4;5;2025-09-14;Vendedor externo;0;;;Ativo
+3269;4;5;2023-07-11;Vendedor externo;12;;;Ativo
+3270;2;5;2026-11-06;WhatsApp;12;;;Ativo
+3271;5;1;2023-08-24;Vendedor externo;0;;;Ativo
+3272;4;4;2024-08-11;Site;12;;;Ativo
+3273;4;6;2025-07-22;WhatsApp;12;;;Ativo
+3274;4;3;2024-07-30;Loja;12;;;Ativo
+3275;2;3;2023-12-14;Site;0;;;Ativo
+3276;3;1;2026-08-13;WhatsApp;12;2026-11-08;Instabilidade na conexão;Cancelado
+3277;2;5;2023-04-13;Vendedor externo;12;;;Ativo
+3278;3;1;2023-12-18;WhatsApp;12;;;Ativo
+3279;1;2;2026-11-20;Vendedor externo;0;;;Ativo
+3280;3;6;2025-11-09;Vendedor externo;0;;;Ativo
+3281;5;6;2023-05-05;Vendedor externo;0;;;Ativo
+3282;2;6;2025-12-15;Loja;12;;;Ativo
+3283;5;2;2026-10-18;WhatsApp;12;;;Ativo
+3284;2;1;2023-05-20;Loja;0;2026-07-02;Instabilidade na conexão;Cancelado
+3285;1;2;2024-08-15;WhatsApp;12;;;Ativo
+3286;1;1;2024-10-31;Site;0;;;Ativo
+3287;3;5;2023-07-07;WhatsApp;12;;;Ativo
+3288;2;3;2023-10-14;WhatsApp;12;;;Ativo
+3289;2;2;2023-09-06;Vendedor externo;12;;;Ativo
+3290;2;1;2023-09-23;WhatsApp;12;2026-05-19;Atendimento;Cancelado
+3291;2;2;2024-07-31;WhatsApp;12;2026-04-01;Preço;Cancelado
+3292;2;5;2024-10-25;Vendedor externo;0;;;Ativo
+3293;4;4;2023-12-07;Site;12;;;Ativo
+3294;3;1;2024-02-18;Loja;0;;;Ativo
+3295;3;1;2023-10-02;Loja;0;;;Ativo
+3296;2;2;2026-02-12;Vendedor externo;12;2026-12-19;Preço;Cancelado
+3297;5;1;2023-10-30;Vendedor externo;12;;;Ativo
+3298;1;6;2026-07-21;Loja;12;;;Ativo
+3299;1;3;2025-02-09;Vendedor externo;0;;;Ativo
+3300;1;1;2026-02-21;Site;0;;;Ativo
+3301;2;4;2025-06-29;Site;0;;;Ativo
+3302;2;2;2024-01-16;WhatsApp;12;;;Ativo
+3303;3;1;2025-05-09;WhatsApp;12;2026-06-25;Instabilidade na conexão;Cancelado
+3304;2;3;2024-01-28;WhatsApp;12;2026-04-02;Concorrente com oferta melhor;Cancelado
+3305;1;1;2023-06-19;Site;12;;;Ativo
+3306;3;2;2023-12-31;Loja;12;;;Ativo
+3307;5;5;2024-01-30;WhatsApp;0;;;Ativo
+3308;1;6;2023-07-13;Loja;12;;;Ativo
+3309;1;2;2023-02-03;Loja;12;;;Ativo
+3310;1;3;2026-09-11;Vendedor externo;12;;;Ativo
+3311;2;1;2025-01-04;Vendedor externo;12;;;Ativo
+3312;1;3;2024-07-28;Site;0;;;Ativo
+3313;2;1;2026-08-22;Loja;0;;;Ativo
+3314;3;3;2023-11-18;WhatsApp;12;;;Ativo
+3315;2;1;2024-07-30;Loja;12;;;Ativo
+3316;2;6;2026-04-25;Vendedor externo;12;2026-11-17;Mudança de cidade;Cancelado
+3317;1;5;2025-06-22;Vendedor externo;12;;;Ativo
+3318;4;2;2024-07-24;Vendedor externo;0;;;Ativo
+3319;2;4;2024-01-01;WhatsApp;12;;;Ativo
+3320;2;1;2023-02-20;Loja;12;;;Ativo
+3321;1;4;2023-05-02;Loja;0;2026-05-15;Mudança de cidade;Cancelado
+3322;3;1;2023-08-20;Loja;12;;;Ativo
+3323;4;1;2026-01-29;WhatsApp;12;;;Ativo
+3324;1;3;2025-07-03;WhatsApp;0;;;Ativo
+3325;1;2;2024-09-11;Site;0;;;Ativo
+3326;1;3;2026-01-24;Vendedor externo;12;;;Ativo
+3327;2;3;2023-08-18;WhatsApp;12;;;Ativo
+3328;5;1;2023-10-29;Vendedor externo;12;;;Ativo
+3329;2;1;2024-07-15;Loja;0;;;Ativo
+3330;2;3;2026-08-04;Vendedor externo;0;2026-09-08;Instabilidade na conexão;Cancelado
+3331;3;3;2025-05-28;Vendedor externo;12;;;Ativo
+3332;3;1;2026-05-01;Vendedor externo;0;;;Ativo
+3333;1;2;2023-12-21;Vendedor externo;0;;;Ativo
+3334;1;3;2026-04-28;Vendedor externo;12;2026-08-09;Concorrente com oferta melhor;Cancelado
+3335;2;3;2023-04-14;Vendedor externo;0;;;Ativo
+3336;3;5;2023-11-22;Vendedor externo;12;;;Ativo
+3337;3;2;2025-01-17;Loja;12;;;Ativo
+3338;3;3;2023-03-14;WhatsApp;12;;;Ativo
+3339;4;3;2026-05-12;Site;12;;;Ativo
+3340;1;2;2026-05-25;Loja;0;;;Ativo
+3341;2;1;2025-02-13;Loja;12;;;Ativo
+3342;1;1;2024-03-13;Loja;12;;;Ativo
+3343;4;5;2023-05-22;Loja;0;2026-03-06;Instabilidade na conexão;Cancelado
+3344;2;1;2025-06-04;Loja;12;;;Ativo
+3345;1;3;2025-02-07;Loja;0;;;Ativo
+3346;1;3;2025-12-22;WhatsApp;0;;;Ativo
+3347;3;2;2025-05-11;WhatsApp;12;;;Ativo
+3348;3;5;2023-07-03;WhatsApp;12;;;Ativo
+3349;3;4;2023-06-24;Site;0;;;Ativo
+3350;1;1;2026-01-21;Site;0;;;Ativo
+3351;4;4;2023-08-16;Site;0;;;Ativo
+3352;3;2;2026-09-04;WhatsApp;12;;;Ativo
+3353;3;2;2023-06-01;Site;12;;;Ativo
+3354;3;4;2025-11-07;Site;0;;;Ativo
+3355;4;4;2026-10-26;WhatsApp;12;;;Ativo
+3356;5;2;2024-09-22;Vendedor externo;12;;;Ativo
+3357;2;6;2023-03-23;Loja;12;;;Ativo
+3358;2;3;2026-06-07;Loja;12;;;Ativo
+3359;2;3;2023-09-25;Vendedor externo;12;;;Ativo
+3360;3;1;2025-01-24;Loja;12;;;Ativo
+3361;3;1;2026-11-08;Loja;12;2026-12-16;Concorrente com oferta melhor;Cancelado
+3362;1;2;2025-12-01;Loja;0;;;Ativo
+3363;1;3;2023-03-08;Vendedor externo;0;2026-08-02;Atendimento;Cancelado
+3364;4;2;2026-03-19;WhatsApp;0;2026-08-19;Instabilidade na conexão;Cancelado
+3365;4;4;2023-08-19;Vendedor externo;12;;;Ativo
+3366;5;1;2025-12-07;Loja;0;2026-12-08;Preço;Cancelado
+3367;2;4;2025-06-06;Vendedor externo;12;;;Ativo
+3368;3;5;2024-02-16;Vendedor externo;0;2026-02-21;Preço;Cancelado
+3369;4;4;2024-08-28;Site;12;2026-03-14;Instabilidade na conexão;Cancelado
+3370;2;4;2023-06-18;Site;0;;;Ativo
+3371;1;5;2026-11-12;Loja;12;;;Ativo
+3372;5;1;2023-12-07;Vendedor externo;12;2026-09-26;Mudança de cidade;Cancelado
+3373;1;4;2024-03-17;Loja;12;2026-10-22;Instabilidade na conexão;Cancelado
+3374;2;6;2024-12-20;Site;12;;;Ativo
+3375;3;3;2025-08-19;WhatsApp;12;;;Ativo
+3376;3;1;2024-12-23;WhatsApp;12;;;Ativo
+3377;1;6;2024-12-23;Loja;12;2026-10-24;Concorrente com oferta melhor;Cancelado
+3378;3;1;2025-04-13;Site;12;;;Ativo
+3379;1;2;2026-05-11;WhatsApp;12;;;Ativo
+3380;4;1;2024-07-18;WhatsApp;12;;;Ativo
+3381;1;2;2026-04-04;Vendedor externo;12;;;Ativo
+3382;3;2;2026-01-30;Vendedor externo;12;;;Ativo
+3383;3;2;2026-10-06;Loja;12;;;Ativo
+3384;1;6;2026-07-29;Loja;12;;;Ativo
+3385;1;2;2026-02-15;Site;0;;;Ativo
+3386;3;2;2023-12-19;Vendedor externo;0;;;Ativo
+3387;1;5;2026-01-12;Loja;12;;;Ativo
+3388;1;5;2025-11-19;WhatsApp;12;;;Ativo
+3389;2;1;2024-02-18;Vendedor externo;12;;;Ativo
+3390;5;1;2025-08-27;WhatsApp;12;;;Ativo
+3391;2;3;2023-12-28;WhatsApp;12;;;Ativo
+3392;2;5;2025-01-18;WhatsApp;0;;;Ativo
+3393;5;3;2026-02-13;WhatsApp;12;;;Ativo
+3394;2;1;2023-09-27;Loja;0;;;Ativo
+3395;2;4;2024-04-26;Loja;12;;;Ativo
+3396;2;3;2026-02-11;WhatsApp;12;;;Ativo
+3397;2;3;2024-10-10;Loja;0;;;Ativo
+3398;2;5;2026-10-05;Vendedor externo;12;2026-11-15;Instabilidade na conexão;Cancelado
+3399;3;4;2023-01-12;Site;12;;;Ativo
+3400;1;3;2025-10-29;Loja;0;;;Ativo
+3401;3;3;2026-03-10;Loja;12;;;Ativo
+3402;1;3;2026-08-05;Vendedor externo;12;2026-09-10;Mudança de cidade;Cancelado
+3403;2;3;2023-08-13;Vendedor externo;12;;;Ativo
+3404;1;2;2026-11-08;Site;0;;;Ativo
+3405;2;4;2024-07-14;Loja;0;;;Ativo
+3406;3;3;2024-05-18;Vendedor externo;12;;;Ativo
+3407;2;2;2024-05-23;Loja;0;;;Ativo
+3408;1;1;2025-07-01;Site;0;;;Ativo
+3409;1;4;2025-07-31;Loja;12;2026-08-26;Mudança de cidade;Cancelado
+3410;3;3;2024-11-08;Loja;12;;;Ativo
+3411;1;2;2023-04-12;WhatsApp;12;;;Ativo
+3412;3;2;2026-11-11;Loja;12;;;Ativo
+3413;2;1;2023-11-14;Site;0;;;Ativo
+3414;1;6;2023-05-15;Vendedor externo;0;;;Ativo
+3415;3;5;2025-05-04;Loja;12;;;Ativo
+3416;2;3;2024-08-12;Vendedor externo;12;;;Ativo
+3417;1;2;2025-05-30;WhatsApp;0;;;Ativo
+3418;5;4;2026-06-06;Vendedor externo;12;;;Ativo
+3419;1;3;2023-05-20;Loja;0;;;Ativo
+3420;2;6;2024-02-11;Vendedor externo;12;;;Ativo
+3421;2;1;2025-01-08;Vendedor externo;12;;;Ativo
+3422;2;1;2026-01-31;WhatsApp;12;2026-05-01;Instabilidade na conexão;Cancelado
+3423;3;3;2025-05-08;WhatsApp;0;;;Ativo
+3424;1;1;2024-07-01;Vendedor externo;0;;;Ativo
+3425;5;3;2025-05-22;Vendedor externo;12;;;Ativo
+3426;3;4;2026-11-02;Vendedor externo;12;;;Ativo
+3427;5;1;2024-11-17;WhatsApp;12;;;Ativo
+3428;3;2;2026-06-17;Vendedor externo;0;;;Ativo
+3429;5;4;2026-01-20;Loja;12;;;Ativo
+3430;2;5;2024-03-06;WhatsApp;0;;;Ativo
+3431;2;2;2023-12-23;WhatsApp;0;2026-08-01;Mudança de cidade;Cancelado
+3432;2;1;2026-01-06;Vendedor externo;0;;;Ativo
+3433;3;3;2023-10-24;Vendedor externo;0;;;Ativo
+3434;2;2;2024-04-26;Site;0;;;Ativo
+3435;3;4;2023-12-03;WhatsApp;0;2026-06-08;Instabilidade na conexão;Cancelado
+3436;1;3;2025-05-17;Vendedor externo;12;;;Ativo
+3437;4;1;2024-02-25;Vendedor externo;12;;;Ativo
+3438;1;4;2025-07-30;Vendedor externo;12;;;Ativo
+3439;5;2;2026-08-29;Vendedor externo;0;;;Ativo
+3440;1;1;2026-04-01;Loja;12;;;Ativo
+3441;1;3;2026-09-17;WhatsApp;0;;;Ativo
+3442;3;6;2023-02-04;Loja;0;2026-09-16;Concorrente com oferta melhor;Cancelado
+3443;3;4;2024-10-13;Vendedor externo;12;2026-06-23;Instabilidade na conexão;Cancelado
+3444;3;1;2023-11-11;WhatsApp;12;2026-02-07;Preço;Cancelado
+3445;5;4;2026-08-05;Vendedor externo;12;;;Ativo
+3446;1;1;2025-10-15;Vendedor externo;12;;;Ativo
+3447;4;3;2024-04-02;WhatsApp;0;;;Ativo
+3448;2;3;2025-03-16;Loja;0;;;Ativo
+3449;2;1;2025-05-15;WhatsApp;12;;;Ativo
+3450;2;2;2024-12-09;Loja;0;;;Ativo
+3451;1;6;2024-11-09;Vendedor externo;0;;;Ativo
+3452;2;1;2023-03-20;Site;0;2026-12-11;Instabilidade na conexão;Cancelado
+3453;3;5;2024-10-09;Vendedor externo;12;;;Ativo
+3454;1;3;2024-05-13;Vendedor externo;0;2026-05-30;Concorrente com oferta melhor;Cancelado
+3455;5;3;2026-03-16;Loja;0;;;Ativo
+3456;2;1;2026-05-22;Vendedor externo;12;2026-09-12;Instabilidade na conexão;Cancelado
+3457;1;1;2025-12-09;Loja;12;;;Ativo
+3458;3;1;2023-02-14;WhatsApp;12;2026-01-15;Preço;Cancelado
+3459;1;3;2026-04-17;Vendedor externo;12;;;Ativo
+3460;1;6;2024-07-20;Vendedor externo;0;;;Ativo
+3461;3;5;2024-08-18;Loja;12;2026-01-02;Preço;Cancelado
+3462;1;1;2026-09-13;Vendedor externo;0;;;Ativo
+3463;1;1;2026-05-25;Vendedor externo;12;;;Ativo
+3464;3;1;2023-03-14;Vendedor externo;0;;;Ativo
+3465;1;6;2024-05-29;Site;12;;;Ativo
+3466;3;1;2025-12-08;Loja;12;;;Ativo
+3467;3;1;2025-02-09;Loja;0;;;Ativo
+3468;1;3;2024-01-04;Site;12;;;Ativo
+3469;2;3;2025-01-20;Loja;12;;;Ativo
+3470;1;1;2026-05-24;Loja;0;;;Ativo
+3471;3;3;2023-11-16;Site;12;;;Ativo
+3472;1;1;2025-12-02;Site;0;;;Ativo
+3473;5;1;2025-11-16;Loja;12;;;Ativo
+3474;1;1;2026-06-20;Loja;12;;;Ativo
+3475;3;2;2024-03-02;Vendedor externo;12;;;Ativo
+3476;1;6;2023-11-05;Vendedor externo;12;2026-02-24;Atendimento;Cancelado
+3477;1;3;2025-02-22;Vendedor externo;12;;;Ativo
+3478;2;4;2025-01-29;Site;12;;;Ativo
+3479;2;2;2024-08-08;WhatsApp;12;;;Ativo
+3480;5;4;2026-01-19;WhatsApp;12;;;Ativo
+3481;1;6;2026-02-16;Vendedor externo;12;2026-07-18;Mudança de cidade;Cancelado
+3482;1;2;2023-12-18;Loja;0;;;Ativo
+3483;2;6;2026-02-11;Vendedor externo;0;;;Ativo
+3484;2;3;2023-11-26;Loja;12;;;Ativo
+3485;4;4;2024-08-05;Vendedor externo;12;;;Ativo
+3486;4;1;2023-02-08;WhatsApp;0;;;Ativo
+3487;4;3;2024-05-01;Vendedor externo;12;;;Ativo
+3488;1;2;2026-10-02;Loja;0;;;Ativo
+3489;2;6;2024-09-24;Vendedor externo;12;;;Ativo
+3490;3;5;2025-10-12;WhatsApp;12;;;Ativo
+3491;2;2;2023-06-04;Loja;12;;;Ativo
+3492;3;6;2025-06-27;WhatsApp;12;;;Ativo
+3493;1;5;2024-06-15;WhatsApp;12;;;Ativo
+3494;2;3;2025-11-29;Vendedor externo;0;;;Ativo
+3495;4;1;2026-08-20;Site;12;;;Ativo
+3496;1;1;2025-01-30;Vendedor externo;0;;;Ativo
+3497;5;1;2023-05-28;Vendedor externo;12;;;Ativo
+3498;2;1;2024-11-11;Vendedor externo;12;;;Ativo
+3499;1;6;2023-06-26;Loja;0;2026-12-10;Mudança de cidade;Cancelado
+3500;1;1;2024-10-04;Site;0;2026-02-02;Concorrente com oferta melhor;Cancelado
+3501;1;4;2023-03-29;WhatsApp;12;2026-12-30;Preço;Cancelado
+3502;2;3;2025-07-04;Vendedor externo;12;;;Ativo
+3503;1;3;2024-03-19;Vendedor externo;0;;;Ativo
+3504;3;1;2023-10-16;Loja;12;;;Ativo
+3505;4;3;2023-01-25;Loja;0;;;Ativo
+3506;2;3;2026-06-23;Site;12;;;Ativo
+3507;1;3;2026-04-12;Loja;12;2026-09-18;Atendimento;Cancelado
+3508;2;1;2026-03-06;WhatsApp;0;;;Ativo
+3509;3;4;2023-03-25;Vendedor externo;12;2026-07-12;Concorrente com oferta melhor;Cancelado
+3510;2;1;2024-05-14;WhatsApp;0;2026-04-28;Instabilidade na conexão;Cancelado
+3511;1;3;2026-10-21;Vendedor externo;12;2026-12-25;Instabilidade na conexão;Cancelado
+3512;2;2;2025-04-07;Vendedor externo;0;;;Ativo
+3513;2;1;2023-07-03;WhatsApp;12;;;Ativo
+3514;2;5;2023-07-21;Vendedor externo;0;;;Ativo
+3515;1;1;2024-01-12;Loja;12;;;Ativo
+3516;5;6;2026-10-22;WhatsApp;0;2026-12-14;Preço;Cancelado
+3517;1;5;2023-08-31;Vendedor externo;12;;;Ativo
+3518;1;2;2026-07-15;Loja;0;;;Ativo
+3519;1;2;2025-08-27;Vendedor externo;12;2026-01-16;Concorrente com oferta melhor;Cancelado
+3520;2;1;2026-08-11;Vendedor externo;12;;;Ativo
+3521;2;5;2026-03-27;Site;12;;;Ativo
+3522;1;3;2024-04-19;WhatsApp;12;;;Ativo
+3523;2;1;2026-03-29;Vendedor externo;12;;;Ativo
+3524;3;2;2023-08-30;Loja;12;;;Ativo
+3525;1;1;2024-02-21;Vendedor externo;12;;;Ativo
+3526;4;3;2023-10-30;Loja;12;2026-06-08;Preço;Cancelado
+3527;2;2;2023-07-10;Site;12;2026-04-08;Instabilidade na conexão;Cancelado
+3528;1;1;2023-05-09;Loja;12;;;Ativo
+3529;5;5;2023-09-25;Site;12;;;Ativo
+3530;3;1;2023-06-21;Vendedor externo;12;;;Ativo
+3531;2;3;2024-06-28;WhatsApp;12;;;Ativo
+3532;4;3;2023-04-12;Loja;12;;;Ativo
+3533;2;6;2023-03-29;Loja;0;;;Ativo
+3534;2;2;2026-11-16;WhatsApp;0;;;Ativo
+3535;4;5;2023-05-06;Vendedor externo;0;2026-05-15;Concorrente com oferta melhor;Cancelado
+3536;3;2;2023-04-16;Vendedor externo;12;;;Ativo
+3537;1;5;2023-02-13;Site;12;;;Ativo
+3538;2;1;2023-07-09;WhatsApp;0;;;Ativo
+3539;2;4;2025-01-24;Vendedor externo;12;;;Ativo
+3540;1;1;2026-03-28;WhatsApp;12;;;Ativo
+3541;5;6;2025-11-16;Loja;12;;;Ativo
+3542;2;6;2025-04-09;WhatsApp;0;;;Ativo
+3543;2;2;2023-05-02;Loja;0;;;Ativo
+3544;2;3;2026-01-12;Vendedor externo;0;2026-12-24;Mudança de cidade;Cancelado
+3545;2;3;2023-02-23;Loja;12;;;Ativo
+3546;1;1;2025-06-21;WhatsApp;0;;;Ativo
+3547;5;3;2024-08-08;WhatsApp;0;2026-08-27;Instabilidade na conexão;Cancelado
+3548;3;4;2026-06-15;Vendedor externo;12;;;Ativo
+3549;3;3;2024-03-15;Vendedor externo;12;;;Ativo
+3550;2;1;2025-07-02;Vendedor externo;0;;;Ativo
+3551;1;5;2024-09-21;Loja;12;;;Ativo
+3552;1;1;2025-01-16;WhatsApp;0;;;Ativo
+3553;2;3;2026-09-04;Loja;12;2026-10-17;Instabilidade na conexão;Cancelado
+3554;1;1;2025-10-16;WhatsApp;12;;;Ativo
+3555;3;1;2024-08-15;WhatsApp;0;;;Ativo
+3556;4;1;2024-10-01;Loja;0;2026-12-27;Atendimento;Cancelado
+3557;2;2;2025-10-04;Vendedor externo;12;;;Ativo
+3558;2;3;2024-05-09;WhatsApp;12;;;Ativo
+3559;3;3;2023-08-29;WhatsApp;0;2026-05-25;Instabilidade na conexão;Cancelado
+3560;1;3;2024-10-30;Site;12;;;Ativo
+3561;5;3;2023-04-08;Loja;0;;;Ativo
+3562;2;1;2023-08-31;Loja;12;;;Ativo
+3563;1;1;2024-08-24;WhatsApp;12;;;Ativo
+3564;1;3;2026-02-13;Vendedor externo;12;;;Ativo
+3565;5;3;2026-01-22;Site;12;;;Ativo
+3566;1;3;2024-01-08;Site;12;;;Ativo
+3567;3;1;2024-08-26;Vendedor externo;0;;;Ativo
+3568;1;5;2023-08-08;Loja;12;2026-12-14;Atendimento;Cancelado
+3569;1;1;2025-12-15;Vendedor externo;0;;;Ativo
+3570;4;3;2023-12-19;WhatsApp;12;;;Ativo
+3571;1;1;2026-02-17;Vendedor externo;12;;;Ativo
+3572;1;3;2026-04-19;Loja;0;;;Ativo
+3573;2;2;2025-09-12;WhatsApp;12;;;Ativo
+3574;4;4;2024-04-17;Site;12;;;Ativo
+3575;2;1;2026-09-24;Vendedor externo;12;2026-11-19;Preço;Cancelado
+3576;1;3;2025-09-08;WhatsApp;12;;;Ativo
+3577;5;1;2025-07-12;Vendedor externo;12;;;Ativo
+3578;3;4;2026-05-09;WhatsApp;0;2026-08-27;Instabilidade na conexão;Cancelado
+3579;4;1;2026-06-14;WhatsApp;12;;;Ativo
+3580;3;1;2023-04-22;Vendedor externo;12;;;Ativo
+3581;3;4;2026-06-14;Vendedor externo;0;;;Ativo
+3582;2;1;2025-12-29;Vendedor externo;12;;;Ativo
+3583;2;1;2023-10-23;Site;12;;;Ativo
+3584;3;5;2024-03-15;Site;0;;;Ativo
+3585;3;5;2025-12-12;Vendedor externo;0;;;Ativo
+3586;5;5;2023-11-06;WhatsApp;12;2026-12-05;Instabilidade na conexão;Cancelado
+3587;2;2;2024-10-08;Vendedor externo;12;;;Ativo
+3588;1;3;2025-09-12;WhatsApp;0;2026-07-31;Preço;Cancelado
+3589;2;4;2025-07-19;Site;12;;;Ativo
+3590;2;1;2026-07-25;Vendedor externo;0;2026-10-19;Mudança de cidade;Cancelado
+3591;2;4;2023-06-09;Loja;12;;;Ativo
+3592;3;1;2024-02-26;Site;12;;;Ativo
+3593;2;5;2026-11-09;Site;0;;;Ativo
+3594;1;3;2025-03-24;Loja;12;;;Ativo
+3595;2;2;2023-12-22;WhatsApp;12;;;Ativo
+3596;3;2;2024-02-19;Vendedor externo;0;;;Ativo
+3597;4;1;2024-04-30;Vendedor externo;0;2026-12-21;Preço;Cancelado
+3598;2;2;2025-03-03;WhatsApp;12;;;Ativo
+3599;2;4;2024-02-11;Vendedor externo;0;2026-06-15;Mudança de cidade;Cancelado
+3600;2;3;2025-06-08;Site;12;;;Ativo
+3601;2;3;2024-09-28;Site;12;;;Ativo
+3602;1;1;2025-05-22;Loja;0;;;Ativo
+3603;4;4;2023-08-10;Vendedor externo;0;;;Ativo
+3604;4;2;2025-06-10;Loja;0;;;Ativo
+3605;2;1;2026-08-15;Loja;0;2026-10-06;Mudança de cidade;Cancelado
+3606;2;6;2023-07-13;Site;12;;;Ativo
+3607;1;2;2024-04-13;Loja;12;;;Ativo
+3608;2;3;2025-09-18;WhatsApp;0;2026-04-21;Mudança de cidade;Cancelado
+3609;2;6;2025-06-01;Vendedor externo;12;;;Ativo
+3610;3;2;2025-08-22;Vendedor externo;12;;;Ativo
+3611;1;6;2025-03-11;WhatsApp;0;2026-01-03;Mudança de cidade;Cancelado
+3612;3;4;2025-09-03;Vendedor externo;12;;;Ativo
+3613;1;3;2025-05-21;Site;0;2026-03-16;Preço;Cancelado
+3614;3;1;2023-04-16;Site;12;;;Ativo
+3615;3;1;2025-12-10;WhatsApp;0;;;Ativo
+3616;1;2;2024-09-30;Loja;12;;;Ativo
+3617;2;1;2023-03-15;Loja;12;;;Ativo
+3618;4;1;2024-08-07;WhatsApp;0;;;Ativo
+3619;2;3;2024-09-14;Loja;12;;;Ativo
+3620;1;4;2023-05-04;Site;0;;;Ativo
+3621;2;1;2026-11-25;Site;0;;;Ativo
+3622;2;4;2023-11-14;Vendedor externo;0;;;Ativo
+3623;3;6;2024-04-17;WhatsApp;12;;;Ativo
+3624;2;4;2024-09-22;WhatsApp;12;;;Ativo
+3625;1;4;2026-04-05;Loja;12;;;Ativo
+3626;2;4;2025-11-28;Site;12;;;Ativo
+3627;3;1;2026-01-07;Site;12;;;Ativo
+3628;3;2;2023-12-05;Vendedor externo;12;;;Ativo
+3629;1;6;2026-04-23;WhatsApp;12;;;Ativo
+3630;2;3;2026-04-01;Vendedor externo;12;;;Ativo
+3631;2;4;2024-10-25;Loja;12;;;Ativo
+3632;1;6;2025-02-19;WhatsApp;12;;;Ativo
+3633;2;1;2023-02-23;WhatsApp;0;;;Ativo
+3634;1;2;2025-12-23;Loja;12;;;Ativo
+3635;1;3;2026-10-06;WhatsApp;12;;;Ativo
+3636;3;1;2024-11-06;Loja;12;2026-11-06;Preço;Cancelado
+3637;1;3;2025-02-11;Loja;0;2026-05-14;Preço;Cancelado
+3638;3;5;2024-12-14;Vendedor externo;0;;;Ativo
+3639;1;3;2023-04-29;WhatsApp;12;;;Ativo
+3640;2;1;2025-06-05;Loja;12;;;Ativo
+3641;2;4;2025-10-28;Loja;12;;;Ativo
+3642;3;1;2026-08-19;Site;12;;;Ativo
+3643;3;5;2026-08-22;Vendedor externo;12;;;Ativo
+3644;2;1;2024-12-04;Loja;12;;;Ativo
+3645;3;5;2026-10-03;Loja;0;;;Ativo
+3646;1;2;2025-01-25;WhatsApp;0;;;Ativo
+3647;2;2;2025-07-07;Site;12;;;Ativo
+3648;1;2;2025-05-10;WhatsApp;0;2026-05-23;Preço;Cancelado
+3649;2;1;2026-11-29;Loja;12;;;Ativo
+3650;1;2;2025-11-20;Vendedor externo;12;;;Ativo
+3651;4;5;2023-06-21;WhatsApp;0;;;Ativo
+3652;2;5;2023-04-13;Vendedor externo;12;;;Ativo
+3653;2;1;2024-08-09;Loja;0;2026-11-08;Instabilidade na conexão;Cancelado
+3654;2;3;2025-01-07;Vendedor externo;12;;;Ativo
+3655;1;5;2025-08-14;Vendedor externo;0;;;Ativo
+3656;1;5;2024-11-19;Loja;12;;;Ativo
+3657;4;2;2025-01-05;WhatsApp;12;;;Ativo
+3658;3;1;2026-08-11;Vendedor externo;12;;;Ativo
+3659;1;6;2024-04-23;Site;0;2026-08-11;Mudança de cidade;Cancelado
+3660;3;2;2024-12-06;Loja;0;;;Ativo
+3661;2;2;2025-03-08;Site;12;;;Ativo
+3662;1;4;2024-10-31;Vendedor externo;0;;;Ativo
+3663;2;1;2026-10-16;WhatsApp;0;;;Ativo
+3664;1;5;2026-10-07;Vendedor externo;12;;;Ativo
+3665;1;1;2025-01-03;WhatsApp;0;2026-02-20;Atendimento;Cancelado
+3666;3;4;2024-10-06;Vendedor externo;0;;;Ativo
+3667;1;6;2025-04-22;Vendedor externo;0;2026-11-24;Preço;Cancelado
+3668;4;6;2023-09-16;WhatsApp;12;;;Ativo
+3669;3;6;2024-09-01;Site;12;;;Ativo
+3670;4;5;2023-11-07;Site;12;2026-12-08;Concorrente com oferta melhor;Cancelado
+3671;2;1;2023-07-25;WhatsApp;12;;;Ativo
+3672;4;6;2023-05-17;WhatsApp;12;;;Ativo
+3673;2;6;2025-04-19;Loja;12;;;Ativo
+3674;2;3;2023-01-01;Loja;0;;;Ativo
+3675;2;2;2025-07-13;Vendedor externo;12;;;Ativo
+3676;4;1;2024-09-09;WhatsApp;0;;;Ativo
+3677;1;3;2024-06-08;Vendedor externo;12;;;Ativo
+3678;2;4;2026-01-05;Vendedor externo;12;;;Ativo
+3679;3;2;2025-02-09;Vendedor externo;12;;;Ativo
+3680;2;2;2025-11-14;Loja;12;;;Ativo
+3681;4;3;2025-10-11;Loja;12;;;Ativo
+3682;2;1;2023-02-15;Loja;12;;;Ativo
+3683;1;6;2023-11-05;Loja;12;;;Ativo
+3684;2;1;2025-03-26;Site;12;;;Ativo
+3685;2;1;2026-10-27;Vendedor externo;12;;;Ativo
+3686;1;1;2023-08-09;Loja;12;;;Ativo
+3687;1;5;2023-05-31;Vendedor externo;0;;;Ativo
+3688;1;5;2026-09-07;Vendedor externo;0;2026-12-04;Atendimento;Cancelado
+3689;3;1;2026-10-14;Vendedor externo;12;;;Ativo
+3690;4;1;2023-08-28;Vendedor externo;0;2026-12-09;Concorrente com oferta melhor;Cancelado
+3691;2;2;2024-07-28;Loja;0;2026-01-25;Preço;Cancelado
+3692;1;1;2025-06-15;Site;0;;;Ativo
+3693;2;4;2023-10-07;Loja;12;;;Ativo
+3694;4;1;2024-04-11;Loja;12;;;Ativo
+3695;3;3;2024-07-19;Loja;12;;;Ativo
+3696;1;2;2025-07-06;Vendedor externo;12;;;Ativo
+3697;1;2;2024-03-16;Loja;12;;;Ativo
+3698;4;2;2024-08-12;Vendedor externo;12;;;Ativo
+3699;4;1;2024-02-19;Loja;12;;;Ativo
+3700;1;1;2025-12-22;Loja;12;;;Ativo
+3701;4;1;2023-08-07;WhatsApp;12;;;Ativo
+3702;1;1;2023-11-26;Vendedor externo;12;;;Ativo
+3703;1;6;2023-12-24;Loja;0;;;Ativo
+3704;3;1;2026-07-19;Vendedor externo;0;;;Ativo
+3705;2;2;2026-09-12;Loja;12;;;Ativo
+3706;2;1;2024-12-16;WhatsApp;12;;;Ativo
+3707;4;4;2023-08-12;Loja;12;;;Ativo
+3708;4;6;2025-12-17;Vendedor externo;0;;;Ativo
+3709;1;4;2024-12-04;WhatsApp;12;;;Ativo
+3710;2;3;2026-04-30;Loja;12;;;Ativo
+3711;3;5;2024-05-29;Loja;12;;;Ativo
+3712;2;2;2026-11-29;Site;12;;;Ativo
+3713;5;5;2026-02-28;WhatsApp;12;;;Ativo
+3714;3;4;2023-11-17;Vendedor externo;12;2026-03-24;Mudança de cidade;Cancelado
+3715;1;1;2025-11-03;Site;12;;;Ativo
+3716;1;2;2024-02-15;Loja;12;2026-05-13;Concorrente com oferta melhor;Cancelado
+3717;4;1;2024-05-15;Site;12;;;Ativo
+3718;5;1;2023-12-25;Vendedor externo;12;;;Ativo
+3719;1;5;2025-09-02;Site;0;;;Ativo
+3720;1;1;2024-01-11;Loja;12;;;Ativo
+3721;3;4;2025-07-02;Vendedor externo;12;2026-10-05;Instabilidade na conexão;Cancelado
+3722;1;6;2025-04-12;Loja;0;;;Ativo
+3723;1;2;2025-12-09;Site;12;;;Ativo
+3724;4;2;2026-11-21;Site;0;;;Ativo
+3725;3;3;2023-01-13;WhatsApp;0;;;Ativo
+3726;4;5;2026-11-17;WhatsApp;12;;;Ativo
+3727;3;1;2023-06-06;Vendedor externo;0;;;Ativo
+3728;2;1;2025-01-23;Site;12;;;Ativo
+3729;4;3;2024-05-02;Loja;12;2026-04-15;Instabilidade na conexão;Cancelado
+3730;1;6;2025-07-02;WhatsApp;12;2026-03-30;Concorrente com oferta melhor;Cancelado
+3731;1;1;2025-10-29;Site;12;;;Ativo
+3732;4;2;2026-05-14;Vendedor externo;0;;;Ativo
+3733;3;6;2024-07-28;Vendedor externo;12;;;Ativo
+3734;4;1;2026-08-27;WhatsApp;0;;;Ativo
+3735;1;1;2024-04-06;WhatsApp;12;;;Ativo
+3736;5;3;2023-10-19;WhatsApp;12;;;Ativo
+3737;2;1;2024-06-26;Vendedor externo;0;;;Ativo
+3738;3;1;2025-01-25;Vendedor externo;12;;;Ativo
+3739;4;3;2025-08-13;WhatsApp;12;;;Ativo
+3740;2;3;2026-04-05;Site;12;;;Ativo
+3741;3;2;2023-11-18;Vendedor externo;0;;;Ativo
+3742;3;2;2024-03-09;Vendedor externo;12;;;Ativo
+3743;3;3;2026-09-04;Site;0;;;Ativo
+3744;4;3;2024-09-20;Site;12;2026-08-13;Atendimento;Cancelado
+3745;3;5;2023-12-12;Vendedor externo;12;;;Ativo
+3746;1;4;2026-11-10;WhatsApp;12;;;Ativo
+3747;1;3;2024-10-04;WhatsApp;12;;;Ativo
+3748;5;5;2026-11-09;Vendedor externo;12;;;Ativo
+3749;5;5;2026-08-07;Loja;12;;;Ativo
+3750;5;1;2026-07-19;Vendedor externo;12;2026-09-08;Preço;Cancelado
+3751;1;6;2025-04-12;Site;12;2026-05-30;Instabilidade na conexão;Cancelado
+3752;2;5;2026-02-15;Vendedor externo;0;;;Ativo
+3753;3;2;2026-10-05;WhatsApp;12;;;Ativo
+3754;3;1;2024-01-20;Loja;0;;;Ativo
+3755;1;3;2023-02-23;Vendedor externo;12;;;Ativo
+3756;2;2;2024-04-03;WhatsApp;12;;;Ativo
+3757;1;4;2025-06-29;WhatsApp;12;2026-06-27;Preço;Cancelado
+3758;2;3;2025-02-21;Vendedor externo;12;;;Ativo
+3759;1;1;2023-04-26;Loja;0;;;Ativo
+3760;1;1;2025-03-12;Vendedor externo;0;;;Ativo
+3761;1;5;2023-09-07;Vendedor externo;12;;;Ativo
+3762;4;1;2024-12-23;Vendedor externo;12;;;Ativo
+3763;3;4;2025-04-03;Vendedor externo;12;;;Ativo
+3764;5;1;2025-06-29;Vendedor externo;12;2026-05-01;Instabilidade na conexão;Cancelado
+3765;2;2;2024-08-12;Site;0;;;Ativo
+3766;2;3;2024-08-06;Site;0;;;Ativo
+3767;2;1;2025-08-28;Site;12;;;Ativo
+3768;2;3;2025-12-07;Vendedor externo;12;;;Ativo
+3769;2;4;2026-03-01;Vendedor externo;0;;;Ativo
+3770;3;1;2024-04-21;Vendedor externo;12;;;Ativo
+3771;3;2;2024-08-29;WhatsApp;12;;;Ativo
+3772;4;4;2024-04-17;Vendedor externo;12;2026-07-09;Atendimento;Cancelado
+3773;1;4;2025-01-24;Site;12;;;Ativo
+3774;2;3;2023-07-01;Vendedor externo;0;;;Ativo
+3775;1;4;2024-09-07;WhatsApp;12;;;Ativo
+3776;1;1;2023-09-27;Vendedor externo;0;;;Ativo
+3777;3;1;2025-01-31;Vendedor externo;12;;;Ativo
+3778;2;3;2026-05-01;WhatsApp;0;;;Ativo
+3779;3;4;2026-11-10;Loja;0;;;Ativo
+3780;1;5;2024-09-30;Vendedor externo;0;;;Ativo
+3781;5;1;2023-03-22;Vendedor externo;0;;;Ativo
+3782;5;2;2023-11-22;WhatsApp;12;;;Ativo
+3783;2;3;2023-05-30;Site;0;;;Ativo
+3784;4;1;2025-12-21;Loja;12;;;Ativo
+3785;1;2;2026-11-09;WhatsApp;12;;;Ativo
+3786;3;3;2025-03-03;Site;0;;;Ativo
+3787;4;1;2023-09-10;Vendedor externo;12;;;Ativo
+3788;3;2;2023-01-31;Loja;0;;;Ativo
+3789;3;1;2026-10-27;Loja;12;;;Ativo
+3790;2;5;2024-03-28;Site;0;;;Ativo
+3791;3;1;2023-06-10;Vendedor externo;12;;;Ativo
+3792;3;1;2023-09-11;WhatsApp;0;;;Ativo
+3793;1;1;2024-01-01;Vendedor externo;0;;;Ativo
+3794;1;1;2025-07-26;Site;0;;;Ativo
+3795;3;1;2026-06-29;Loja;12;;;Ativo
+3796;3;3;2024-01-29;Site;12;2026-06-10;Preço;Cancelado
+3797;2;1;2025-09-09;Loja;12;2026-05-08;Instabilidade na conexão;Cancelado
+3798;4;1;2023-04-03;Vendedor externo;12;;;Ativo
+3799;3;1;2023-01-15;Loja;0;;;Ativo
+3800;2;2;2023-03-20;Site;12;;;Ativo
+3801;2;1;2026-08-13;Vendedor externo;12;2026-11-07;Preço;Cancelado
+3802;2;3;2025-04-11;WhatsApp;12;;;Ativo
+3803;3;4;2026-02-25;Loja;12;;;Ativo
+3804;2;4;2023-02-01;Vendedor externo;12;;;Ativo
+3805;2;1;2023-02-01;Vendedor externo;0;;;Ativo
+3806;3;5;2026-04-28;Loja;12;;;Ativo
+3807;3;4;2023-05-27;Loja;0;2026-11-21;Mudança de cidade;Cancelado
+3808;4;1;2023-08-11;Vendedor externo;12;;;Ativo
+3809;1;2;2025-01-12;Site;0;;;Ativo
+3810;3;4;2025-05-17;WhatsApp;12;;;Ativo
+3811;2;2;2023-11-24;Loja;12;;;Ativo
+3812;1;2;2024-09-27;Site;12;;;Ativo
+3813;3;3;2025-08-23;Site;12;;;Ativo
+3814;3;1;2024-09-25;Site;12;2026-10-05;Instabilidade na conexão;Cancelado
+3815;2;6;2024-07-01;Vendedor externo;12;;;Ativo
+3816;3;1;2023-04-13;WhatsApp;12;;;Ativo
+3817;2;1;2024-10-08;Vendedor externo;12;;;Ativo
+3818;1;1;2026-02-21;WhatsApp;0;;;Ativo
+3819;2;2;2025-06-15;Vendedor externo;12;;;Ativo
+3820;2;5;2026-07-01;WhatsApp;12;;;Ativo
+3821;3;5;2023-06-30;WhatsApp;12;;;Ativo
+3822;4;5;2023-01-16;WhatsApp;0;2026-05-13;Preço;Cancelado
+3823;3;3;2025-02-22;Vendedor externo;12;;;Ativo
+3824;1;2;2023-09-13;WhatsApp;12;;;Ativo
+3825;2;2;2025-04-29;Loja;12;;;Ativo
+3826;1;1;2026-07-16;Site;12;;;Ativo
+3827;3;5;2024-04-27;Vendedor externo;0;2026-08-06;Mudança de cidade;Cancelado
+3828;1;2;2025-02-24;Site;12;2026-09-28;Mudança de cidade;Cancelado
+3829;2;2;2025-09-01;Vendedor externo;12;;;Ativo
+3830;3;2;2023-08-03;Loja;12;;;Ativo
+3831;3;4;2026-07-07;Loja;12;;;Ativo
+3832;1;1;2023-10-17;Loja;0;;;Ativo
+3833;2;4;2026-03-01;Vendedor externo;12;2026-12-04;Atendimento;Cancelado
+3834;3;4;2025-08-01;WhatsApp;0;;;Ativo
+3835;2;5;2023-07-21;Site;12;;;Ativo
+3836;1;1;2025-11-02;WhatsApp;12;;;Ativo
+3837;4;1;2023-10-08;WhatsApp;0;;;Ativo
+3838;2;2;2025-05-07;Vendedor externo;12;2026-12-26;Concorrente com oferta melhor;Cancelado
+3839;2;5;2026-10-04;Vendedor externo;12;;;Ativo
+3840;1;6;2026-09-25;Vendedor externo;12;;;Ativo
+3841;2;3;2026-05-30;Loja;0;;;Ativo
+3842;2;1;2024-12-07;Vendedor externo;12;;;Ativo
+3843;1;1;2025-03-11;Site;12;;;Ativo
+3844;2;3;2024-03-05;Site;12;;;Ativo
+3845;2;1;2026-08-09;Site;12;;;Ativo
+3846;4;3;2024-11-13;Loja;12;;;Ativo
+3847;5;5;2026-01-08;WhatsApp;12;2026-07-16;Preço;Cancelado
+3848;1;2;2024-05-29;Loja;0;;;Ativo
+3849;1;2;2025-11-24;WhatsApp;0;;;Ativo
+3850;3;1;2023-11-17;Loja;12;2026-10-06;Mudança de cidade;Cancelado
+3851;5;1;2025-11-15;Vendedor externo;12;;;Ativo
+3852;4;4;2023-03-07;Vendedor externo;12;2026-03-09;Concorrente com oferta melhor;Cancelado
+3853;1;2;2023-05-30;Vendedor externo;0;2026-10-27;Preço;Cancelado
+3854;1;1;2024-05-18;Vendedor externo;0;;;Ativo
+3855;1;1;2024-11-20;Loja;12;;;Ativo
+3856;4;1;2025-10-14;Vendedor externo;0;2026-04-25;Atendimento;Cancelado
+3857;2;3;2024-05-28;WhatsApp;12;;;Ativo
+3858;2;3;2023-01-27;Vendedor externo;12;;;Ativo
+3859;2;2;2024-04-10;Vendedor externo;0;;;Ativo
+3860;1;2;2024-09-20;WhatsApp;12;;;Ativo
+3861;2;1;2025-02-16;Vendedor externo;12;;;Ativo
+3862;1;2;2025-07-09;WhatsApp;12;;;Ativo
+3863;3;1;2023-12-21;Vendedor externo;0;2026-10-09;Preço;Cancelado
+3864;3;6;2025-05-22;Vendedor externo;12;;;Ativo
+3865;3;1;2025-06-22;Loja;12;;;Ativo
+3866;2;2;2026-01-15;Loja;12;;;Ativo
+3867;4;1;2025-01-16;Site;0;;;Ativo
+3868;3;4;2026-03-05;WhatsApp;0;;;Ativo
+3869;1;1;2023-11-13;Loja;12;;;Ativo
+3870;1;6;2025-10-14;WhatsApp;12;;;Ativo
+3871;3;1;2023-03-07;Vendedor externo;12;;;Ativo
+3872;1;5;2023-05-28;Vendedor externo;12;;;Ativo
+3873;1;3;2026-05-21;WhatsApp;0;2026-12-23;Mudança de cidade;Cancelado
+3874;1;1;2024-11-10;WhatsApp;12;;;Ativo
+3875;1;1;2025-06-06;Vendedor externo;0;;;Ativo
+3876;2;2;2025-05-12;Vendedor externo;0;2026-08-08;Preço;Cancelado
+3877;2;5;2025-09-20;Loja;0;;;Ativo
+3878;1;5;2023-12-18;Vendedor externo;12;;;Ativo
+3879;3;1;2023-09-12;WhatsApp;0;;;Ativo
+3880;1;2;2023-03-02;Vendedor externo;12;;;Ativo
+3881;2;1;2026-05-21;Site;12;2026-07-11;Preço;Cancelado
+3882;1;1;2023-11-16;Loja;0;2026-11-16;Atendimento;Cancelado
+3883;3;3;2025-04-02;Vendedor externo;12;;;Ativo
+3884;5;2;2024-10-12;Vendedor externo;0;2026-01-10;Mudança de cidade;Cancelado
+3885;2;1;2023-08-21;Vendedor externo;12;;;Ativo
+3886;1;5;2024-08-14;Vendedor externo;12;;;Ativo
+3887;1;4;2023-04-29;WhatsApp;12;;;Ativo
+3888;1;4;2023-09-10;WhatsApp;12;;;Ativo
+3889;4;1;2023-07-19;Site;12;;;Ativo
+3890;1;5;2026-03-24;Loja;12;;;Ativo
+3891;5;3;2025-03-22;WhatsApp;0;;;Ativo
+3892;2;2;2026-08-16;WhatsApp;12;;;Ativo
+3893;2;1;2024-09-15;WhatsApp;12;;;Ativo
+3894;4;5;2023-10-15;Vendedor externo;0;;;Ativo
+3895;1;3;2025-05-20;Loja;0;;;Ativo
+3896;3;5;2026-08-22;WhatsApp;12;;;Ativo
+3897;1;3;2025-01-31;Vendedor externo;12;;;Ativo
+3898;4;4;2023-01-26;Vendedor externo;0;;;Ativo
+3899;2;4;2024-03-10;Vendedor externo;12;2026-03-05;Concorrente com oferta melhor;Cancelado
+3900;1;6;2026-08-15;Vendedor externo;12;;;Ativo
+3901;4;1;2025-01-11;Vendedor externo;12;;;Ativo
+3902;1;1;2026-09-23;Site;12;;;Ativo
+3903;1;4;2024-12-29;Site;12;2026-05-18;Instabilidade na conexão;Cancelado
+3904;3;2;2023-01-18;Vendedor externo;0;;;Ativo
+3905;2;3;2026-06-02;Loja;12;;;Ativo
+3906;4;4;2025-12-27;WhatsApp;0;;;Ativo
+3907;3;3;2025-10-19;Vendedor externo;12;2026-02-08;Preço;Cancelado
+3908;3;4;2026-10-19;Vendedor externo;12;2026-12-05;Preço;Cancelado
+3909;1;2;2023-10-08;Vendedor externo;12;;;Ativo
+3910;1;5;2026-07-19;Vendedor externo;12;;;Ativo
+3911;5;1;2023-11-29;Site;12;;;Ativo
+3912;1;3;2026-10-20;Loja;12;;;Ativo
+3913;2;5;2023-10-01;WhatsApp;0;2026-05-18;Concorrente com oferta melhor;Cancelado
+3914;1;1;2025-02-25;Loja;12;;;Ativo
+3915;1;2;2026-02-02;WhatsApp;12;;;Ativo
+3916;2;2;2023-04-22;Site;12;;;Ativo
+3917;3;3;2023-04-06;Loja;12;;;Ativo
+3918;3;2;2026-04-30;Vendedor externo;12;;;Ativo
+3919;4;1;2023-03-28;Vendedor externo;12;;;Ativo
+3920;1;5;2025-05-27;WhatsApp;0;;;Ativo
+3921;2;1;2026-09-03;WhatsApp;0;;;Ativo
+3922;1;3;2025-05-29;Vendedor externo;12;;;Ativo
+3923;3;3;2024-11-18;Vendedor externo;12;2026-05-11;Mudança de cidade;Cancelado
+3924;2;1;2024-08-19;WhatsApp;12;;;Ativo
+3925;2;1;2025-07-01;Site;12;;;Ativo
+3926;1;6;2025-03-28;Vendedor externo;12;;;Ativo
+3927;3;3;2024-12-18;Vendedor externo;12;;;Ativo
+3928;3;1;2023-08-08;Vendedor externo;12;;;Ativo
+3929;4;4;2025-08-05;Site;12;2026-07-15;Preço;Cancelado
+3930;1;2;2025-11-23;Vendedor externo;12;2026-03-11;Concorrente com oferta melhor;Cancelado
+3931;5;1;2025-10-10;WhatsApp;12;;;Ativo
+3932;1;4;2023-04-18;Vendedor externo;12;;;Ativo
+3933;2;2;2025-10-02;Vendedor externo;0;;;Ativo
+3934;1;1;2025-11-09;Vendedor externo;12;;;Ativo
+3935;1;5;2023-09-20;WhatsApp;0;;;Ativo
+3936;2;1;2026-04-29;Vendedor externo;12;;;Ativo
+3937;1;1;2025-01-19;WhatsApp;0;;;Ativo
+3938;2;1;2024-11-06;Vendedor externo;12;;;Ativo
+3939;3;4;2025-10-30;Site;12;2026-06-20;Instabilidade na conexão;Cancelado
+3940;4;4;2024-12-30;WhatsApp;12;;;Ativo
+3941;3;5;2025-02-17;WhatsApp;12;;;Ativo
+3942;2;1;2024-03-22;Vendedor externo;0;;;Ativo
+3943;1;4;2026-08-19;Site;0;;;Ativo
+3944;3;3;2026-10-18;Loja;0;;;Ativo
+3945;1;2;2023-07-06;Loja;12;;;Ativo
+3946;1;1;2025-11-14;WhatsApp;12;;;Ativo
+3947;1;5;2023-02-03;WhatsApp;0;;;Ativo
+3948;3;1;2024-06-11;Loja;12;;;Ativo
+3949;2;3;2026-10-19;WhatsApp;0;;;Ativo
+3950;3;3;2023-09-07;Vendedor externo;12;;;Ativo
+3951;2;1;2024-06-23;WhatsApp;12;;;Ativo
+3952;2;6;2023-11-10;WhatsApp;12;;;Ativo
+3953;2;5;2025-11-07;WhatsApp;0;;;Ativo
+3954;1;2;2024-10-25;WhatsApp;12;;;Ativo
+3955;2;4;2025-04-28;WhatsApp;12;2026-04-17;Instabilidade na conexão;Cancelado
+3956;3;2;2026-09-09;Site;0;;;Ativo
+3957;2;4;2025-01-15;Loja;12;;;Ativo
+3958;1;1;2025-11-15;Vendedor externo;12;;;Ativo
+3959;3;2;2023-05-21;WhatsApp;12;;;Ativo
+3960;2;2;2023-11-04;Loja;12;;;Ativo
+3961;1;2;2026-09-16;WhatsApp;12;;;Ativo
+3962;1;2;2026-05-14;Loja;12;;;Ativo
+3963;2;1;2025-07-28;WhatsApp;12;;;Ativo
+3964;2;6;2024-06-24;Vendedor externo;12;;;Ativo
+3965;3;1;2023-10-13;WhatsApp;12;;;Ativo
+3966;1;1;2026-05-02;WhatsApp;12;;;Ativo
+3967;3;2;2026-01-27;Vendedor externo;12;;;Ativo
+3968;1;3;2023-12-12;Site;12;2026-05-25;Atendimento;Cancelado
+3969;3;1;2025-04-23;Loja;0;;;Ativo
+3970;3;3;2025-06-03;WhatsApp;0;;;Ativo
+3971;2;4;2024-11-13;WhatsApp;12;2026-05-13;Concorrente com oferta melhor;Cancelado
+3972;1;1;2026-08-18;Vendedor externo;12;;;Ativo
+3973;2;6;2023-06-27;Loja;0;;;Ativo
+3974;5;2;2024-01-04;Vendedor externo;12;2026-07-10;Instabilidade na conexão;Cancelado
+3975;5;3;2023-05-16;Loja;12;;;Ativo
+3976;1;1;2025-09-17;WhatsApp;12;;;Ativo
+3977;3;4;2025-07-09;Vendedor externo;12;;;Ativo
+3978;2;5;2026-11-12;WhatsApp;12;;;Ativo
+3979;1;1;2025-02-14;WhatsApp;12;;;Ativo
+3980;3;1;2023-08-04;WhatsApp;0;;;Ativo
+3981;2;1;2024-10-06;Vendedor externo;12;;;Ativo
+3982;2;1;2023-05-07;Vendedor externo;12;;;Ativo
+3983;4;6;2025-08-17;WhatsApp;12;;;Ativo
+3984;2;3;2025-08-22;Site;12;2026-04-16;Concorrente com oferta melhor;Cancelado
+3985;3;3;2026-05-11;WhatsApp;12;;;Ativo
+3986;2;6;2024-04-30;Vendedor externo;0;;;Ativo
+3987;1;5;2024-03-19;Loja;0;;;Ativo
+3988;2;5;2023-04-12;WhatsApp;0;;;Ativo
+3989;5;2;2024-08-16;WhatsApp;12;;;Ativo
+3990;2;2;2024-11-10;Loja;12;;;Ativo
+3991;1;1;2025-12-14;Site;0;;;Ativo
+3992;3;2;2025-12-13;Loja;0;2026-07-16;Instabilidade na conexão;Cancelado
+3993;5;2;2023-07-20;Vendedor externo;12;;;Ativo
+3994;4;1;2024-02-12;Vendedor externo;0;;;Ativo
+3995;2;2;2025-01-01;Vendedor externo;0;;;Ativo
+3996;2;2;2024-04-24;Loja;0;;;Ativo
+3997;2;2;2023-02-06;Vendedor externo;12;;;Ativo
+3998;3;1;2026-04-24;Vendedor externo;12;2026-10-07;Instabilidade na conexão;Cancelado
+3999;4;2;2025-11-11;Loja;12;;;Ativo
+4000;3;2;2025-01-13;Vendedor externo;0;;;Ativo
