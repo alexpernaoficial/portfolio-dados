@@ -6,16 +6,14 @@ Todos os projetos usam empresas e dados fictícios ou sintéticos. Nenhum dado r
 
 ## A trilha
 
-A escada é analista de dados, engenharia de dados, ciência de dados e engenharia de IA, com um curso completo por semestre. Cada projeto resolve um problema que existe em qualquer empresa, em setores diferentes, e é contado como um caso de cliente: problema, baseline, solução e resultado. Sempre que possível, uso dados públicos reais.
+A escada é analista de dados, engenharia de dados, ciência de dados e engenharia de IA, com um curso completo de cada vez. Cada projeto resolve um problema que existe em qualquer empresa, em setores diferentes, e é contado como um caso de cliente: problema, baseline, solução e resultado. Sempre que possível, uso dados públicos reais.
 
-1. **Semestre 1 (jan a jun/2027), analista de dados:** Excel, Power BI, SQL e Python. Projeto: [painel de métricas de um negócio por assinatura](01-painel-kpis-provedor) (ProvedorX, provedor fictício: churn, SLA, NPS e tempo de atendimento).
-2. **Semestre 2 (jul a dez/2027), base de engenharia de dados:** estatística, SQL, Spark e nuvem. Projeto: data lake simples em nuvem com os dados públicos da Olist (e-commerce brasileiro).
-3. **Semestre 3 (jan a jun/2028), engenharia de dados moderna:** dbt, Airflow e Databricks. Projeto: pipeline medalhão com os dados da Olist e uma API em FastAPI.
-4. **Semestre 4 (jul a dez/2028), produção:** DevOps, streaming e GenAI para dados. Projeto: transações de uma fintech fictícia em streaming, com detecção de anomalia em tempo real.
-5. **Semestre 5 (jan a jun/2029), ciência de dados:** machine learning. Projeto: modelo de risco de crédito com uma base pública do Kaggle, de ponta a ponta.
-6. **Semestre 6 (jul a dez/2029), deep learning e MLOps:** Projeto: classificador de reclamações do consumidor.gov.br (dados abertos).
-7. **Semestre 7 (jan a jun/2030), engenharia de IA:** LLMs, RAG, agentes e avaliação. Projeto: assistente de suporte com RAG e agentes para um SaaS fictício.
-8. **Semestre 8 (jul a dez/2030), IA aplicada:** Projeto final no formato de Forward Deployed Engineer, para um cliente fictício de fintech ou varejo, do escopo ao repasse.
+1. **Analista de dados (dez/2026 a fev/2027):** Excel, Power BI, SQL e Python. Projeto: [painel de métricas de um negócio por assinatura](01-painel-kpis-provedor) (ProvedorX, provedor fictício: churn, SLA, NPS e tempo de atendimento).
+2. **Engenharia de dados (mar a ago/2027):** Python, SQL, dbt, Airflow, Kafka, Databricks e AWS. Projeto: pipeline medalhão com os dados públicos da Olist (e-commerce brasileiro) e uma API em FastAPI.
+3. **Nuvem e produção (set a nov/2027):** Docker, Kubernetes, Terraform, CI/CD e observabilidade. Projeto: transações de uma fintech fictícia em streaming, com detecção de anomalia.
+4. **Ciência de dados (dez/2027 a jan/2028):** estatística e machine learning. Projeto: modelo de risco de crédito com uma base pública do Kaggle.
+5. **Engenharia de IA (fev a abr/2028):** LLMs, RAG, agentes, MCP e avaliação. Projeto: assistente de suporte com RAG e agentes para um SaaS fictício.
+6. **IA aplicada (mai a jun/2028):** Projeto final no formato de Forward Deployed Engineer, para um cliente fictício de fintech ou varejo, com demonstração em Streamlit.
 
 ## Status
 
